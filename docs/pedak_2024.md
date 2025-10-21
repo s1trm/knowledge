@@ -13,39 +13,39 @@ Dalam Keputusan ini yang dimaksud dengan:
 
   c. **Senat Universitas** yang selanjutnya disingkat Senat adalah badan normatif dan perwakilan di Universitas yang menjalankan fungsi menyusun, merumuskan, menetapkan kebijakan, dan memberikan pertimbangan kepada rektor dalam memimpin penyelenggaraan dan pengelolaan Universitas.
 
-  d. Unit Pengelola Program Studi (UPPS) adalah unit pengelola yang memfasilitasi dan mengelola program studi, dapat berbentuk fakultas atau direktorat, jurusan, atau unit tertentu yang ditetapkan oleh Universitas.
+  d. **Unit Pengelola Program Studi (UPPS)** adalah unit pengelola yang memfasilitasi dan mengelola program studi, dapat berbentuk fakultas atau direktorat, jurusan, atau unit tertentu yang ditetapkan oleh Universitas.
 
-  e. Fakultas adalah satuan manajemen sumber daya yang menyelenggarakan dan mengelola pendidikan akademik, vokasi, atau profesi pada satu/lebih dari satu rumpun disiplin ilmu pengetahuan, teknologi, dan seni di Universitas.
+  e. **Fakultas** adalah satuan manajemen sumber daya yang menyelenggarakan dan mengelola pendidikan akademik, vokasi, atau profesi pada satu/lebih dari satu rumpun disiplin ilmu pengetahuan, teknologi, dan seni di Universitas.
 
-  f. Dekan Fakultas adalah pimpinan fakultas yang berwenang dan bertanggung jawab terhadap penyelenggaraan pendidikan di masing-masing fakultas di lingkungan Universitas, yang dibantu oleh para wakil dekan.
+  f. **Dekan Fakultas** adalah pimpinan fakultas yang berwenang dan bertanggung jawab terhadap penyelenggaraan pendidikan di masing-masing fakultas di lingkungan Universitas, yang dibantu oleh para wakil dekan.
 
-  g. Senat UPPS adalah badan normatif dan perwakilan di UPPS yang menjalankan fungsi menyusun, merumuskan, menetapkan kebijakan, dan memberikan pertimbangan kepada pimpinan UPPS dalam memimpin penyelenggaraan dan pengelolaan UPPS.
+  g. **Senat UPPS** adalah badan normatif dan perwakilan di UPPS yang menjalankan fungsi menyusun, merumuskan, menetapkan kebijakan, dan memberikan pertimbangan kepada pimpinan UPPS dalam memimpin penyelenggaraan dan pengelolaan UPPS.
 
-  h. Program Studi adalah kesatuan kegiatan pendidikan dan pembelajaran yang memiliki kurikulum dan metode pembelajaran tertentu dalam satu jenis pendidikan akademik, pendidikan vokasi, dan/atau pendidikan profesi di Universitas.
+  h. **Program Studi** adalah kesatuan kegiatan pendidikan dan pembelajaran yang memiliki kurikulum dan metode pembelajaran tertentu dalam satu jenis pendidikan akademik, pendidikan vokasi, dan/atau pendidikan profesi di Universitas.
 
-  i. Program Studi di Luar Kampus Utama (PSDKU) adalah program studi yang diselenggarakan di kabupaten/kota/kota administratif yang tidak berbatasan langsung dengan kampus utama.
+  i. **Program Studi di Luar Kampus Utama (PSDKU)** adalah program studi yang diselenggarakan di kabupaten/kota/kota administratif yang tidak berbatasan langsung dengan kampus utama.
 
-  j. Telkom University National Campus (TUNC) adalah unit pengelola PSDKU yang dapat ditunjuk sebagai UPPS berdasarkan penetapan rektor.
+  j. **Telkom University National Campus (TUNC)** adalah unit pengelola PSDKU yang dapat ditunjuk sebagai UPPS berdasarkan penetapan rektor.
 
-  k. Ketua Program Studi adalah seorang dosen tetap yang diberikan tugas dan tanggung jawab untuk memimpin, mengelola, dan mengkoordinasi kegiatan akademik dan administrasi program studi.
+  k. **Ketua Program Studi** adalah seorang dosen tetap yang diberikan tugas dan tanggung jawab untuk memimpin, mengelola, dan mengkoordinasi kegiatan akademik dan administrasi program studi.
 
 (2) Kampus adalah tempat untuk mengembangkan pendidikan.
 
 Peristilahan yang berkaitan dengan kampus adalah:
 
-  a. Kampus Utama adalah kampus pusat pengembangan pendidikan Universitas.
+  a. **Kampus Utama** adalah kampus pusat pengembangan pendidikan Universitas.
 
-  b. Kampus Cabang adalah kampus pusat pengembangan pendidikan PSDKU.
+  b. **Kampus Cabang** adalah kampus pusat pengembangan pendidikan PSDKU.
 
-  c. Kampus Pengembangan adalah bagian dari Kampus Utama atau Kampus Cabang yang terletak di wilayah yang berbatasan langsung dengan Kampus Utama atau Kampus Cabang.
+  c. **Kampus Pengembangan** adalah bagian dari Kampus Utama atau Kampus Cabang yang terletak di wilayah yang berbatasan langsung dengan Kampus Utama atau Kampus Cabang.
 
 (3) Dosen adalah pendidik profesional dan ilmuwan di Universitas dengan tugas utama mentransformasikan, mengembangkan, dan menyebarluaskan ilmu pengetahuan dan teknologi melalui pendidikan, penelitian, dan pengabdian kepada masyarakat yang dalam pelaksanaan tugasnya dapat dibantu oleh asisten dosen/tutor, asisten praktikum, atau mentor.
 
 Peristilahan yang berkaitan dengan dosen adalah:
 
-  a. Dosen Tetap adalah dosen yang bekerja penuh waktu yang berstatus sebagai tenaga pendidik tetap dan utamanya terlibat dalam kegiatan pendidikan dan pengajaran di Universitas.
+  a. **Dosen Tetap** adalah dosen yang bekerja penuh waktu yang berstatus sebagai tenaga pendidik tetap dan utamanya terlibat dalam kegiatan pendidikan dan pengajaran di Universitas.
 
-  b. Dosen Praktisi adalah profesional atau ahli dari industri atau institusi pemerintahan dengan kualifikasi pada bidang tertentu yang berperan untuk mentransformasikan, mengembangkan, dan menyebarluaskan ilmu pengetahuan dan teknologi dan utamanya terlibat dalam kegiatan pendidikan dan pengajaran di Universitas.
+  b. **Dosen Praktisi** adalah profesional atau ahli dari industri atau institusi pemerintahan dengan kualifikasi pada bidang tertentu yang berperan untuk mentransformasikan, mengembangkan, dan menyebarluaskan ilmu pengetahuan dan teknologi dan utamanya terlibat dalam kegiatan pendidikan dan pengajaran di Universitas.
 
   c. **Dosen Tidak Tetap** adalah dosen yang bekerja berdasarkan kontrak jangka pendek atau paruh waktu dengan status tidak berada di bawah Universitas dan utamanya terlibat dalam kegiatan pendidikan dan pengajaran di Universitas.
 
