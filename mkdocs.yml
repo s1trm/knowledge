@@ -1,0 +1,16 @@
+site_name: s1trm.github.io
+site_url: https://s1trm.github.io/knowledge
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+nav:
+  - Akademik:
+    - pedak_2024.md
+  - FAQ: faq.md
+    

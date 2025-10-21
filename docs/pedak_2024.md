@@ -1,0 +1,2570 @@
+# Pedoman Akademik Universitas Telkom Tahun 2024
+Dokumen lengkap: [Pedoman Akademik 2024](https://drive.google.com/file/d/1NVDW-5PDtfrj9BRHI6hU6Uw1mToaKe1J/view?usp=drive_link)
+
+## **Pasal 1 Pengertian Umum**
+
+Dalam Keputusan ini yang dimaksud dengan:
+
+(1) Universitas adalah Universitas Telkom. Peristilahan yang berkaitan dengan Universitas adalah:
+
+  a. **Pimpinan Universitas** adalah rektor dan para wakil rektor di Universitas.
+
+  b. **Rektor** adalah pimpinan tertinggi yang bertanggung jawab dalam penyelenggaraan dan pengelolaan Universitas.
+
+  c. **Senat Universitas** yang selanjutnya disingkat Senat adalah badan normatif dan perwakilan di Universitas yang menjalankan fungsi menyusun, merumuskan, menetapkan kebijakan, dan memberikan pertimbangan kepada rektor dalam memimpin penyelenggaraan dan pengelolaan Universitas.
+
+  d. Unit Pengelola Program Studi (UPPS) adalah unit pengelola yang memfasilitasi dan mengelola program studi, dapat berbentuk fakultas atau direktorat, jurusan, atau unit tertentu yang ditetapkan oleh Universitas.
+
+  e. Fakultas adalah satuan manajemen sumber daya yang menyelenggarakan dan mengelola pendidikan akademik, vokasi, atau profesi pada satu/lebih dari satu rumpun disiplin ilmu pengetahuan, teknologi, dan seni di Universitas.
+
+  f. Dekan Fakultas adalah pimpinan fakultas yang berwenang dan bertanggung jawab terhadap penyelenggaraan pendidikan di masing-masing fakultas di lingkungan Universitas, yang dibantu oleh para wakil dekan.
+
+  g. Senat UPPS adalah badan normatif dan perwakilan di UPPS yang menjalankan fungsi menyusun, merumuskan, menetapkan kebijakan, dan memberikan pertimbangan kepada pimpinan UPPS dalam memimpin penyelenggaraan dan pengelolaan UPPS.
+
+  h. Program Studi adalah kesatuan kegiatan pendidikan dan pembelajaran yang memiliki kurikulum dan metode pembelajaran tertentu dalam satu jenis pendidikan akademik, pendidikan vokasi, dan/atau pendidikan profesi di Universitas.
+
+  i. Program Studi di Luar Kampus Utama (PSDKU) adalah program studi yang diselenggarakan di kabupaten/kota/kota administratif yang tidak berbatasan langsung dengan kampus utama.
+
+  j. Telkom University National Campus (TUNC) adalah unit pengelola PSDKU yang dapat ditunjuk sebagai UPPS berdasarkan penetapan rektor.
+
+  k. Ketua Program Studi adalah seorang dosen tetap yang diberikan tugas dan tanggung jawab untuk memimpin, mengelola, dan mengkoordinasi kegiatan akademik dan administrasi program studi.
+
+(2) Kampus adalah tempat untuk mengembangkan pendidikan.
+
+Peristilahan yang berkaitan dengan kampus adalah:
+
+  a. Kampus Utama adalah kampus pusat pengembangan pendidikan Universitas.
+
+  b. Kampus Cabang adalah kampus pusat pengembangan pendidikan PSDKU.
+
+  c. Kampus Pengembangan adalah bagian dari Kampus Utama atau Kampus Cabang yang terletak di wilayah yang berbatasan langsung dengan Kampus Utama atau Kampus Cabang.
+
+(3) Dosen adalah pendidik profesional dan ilmuwan di Universitas dengan tugas utama mentransformasikan, mengembangkan, dan menyebarluaskan ilmu pengetahuan dan teknologi melalui pendidikan, penelitian, dan pengabdian kepada masyarakat yang dalam pelaksanaan tugasnya dapat dibantu oleh asisten dosen/tutor, asisten praktikum, atau mentor.
+
+Peristilahan yang berkaitan dengan dosen adalah:
+
+  a. Dosen Tetap adalah dosen yang bekerja penuh waktu yang berstatus sebagai tenaga pendidik tetap dan utamanya terlibat dalam kegiatan pendidikan dan pengajaran di Universitas.
+
+  b. Dosen Praktisi adalah profesional atau ahli dari industri atau institusi pemerintahan dengan kualifikasi pada bidang tertentu yang berperan untuk mentransformasikan, mengembangkan, dan menyebarluaskan ilmu pengetahuan dan teknologi dan utamanya terlibat dalam kegiatan pendidikan dan pengajaran di Universitas.
+
+  c. **Dosen Tidak Tetap** adalah dosen yang bekerja berdasarkan kontrak jangka pendek atau paruh waktu dengan status tidak berada di bawah Universitas dan utamanya terlibat dalam kegiatan pendidikan dan pengajaran di Universitas.
+
+  d. **Dosen Wali** adalah seorang dosen tetap Universitas yang ditugaskan berdasarkan Keputusan Pimpinan UPPS sebagai representasi Universitas untuk melaksanakan pembinaan akademik maupun nonakademik bagi mahasiswa dan menjembatani komunikasi antara Universitas/UPPS/Program Pendidikan dengan orang tua.
+
+  e. **Asisten Dosen/Tutor, Asisten Praktikum, atau Mentor** adalah tenaga pengajar yang diangkat untuk membantu dosen dan bertugas memfasilitasi kegiatan belajar dan mengajar mahasiswa.
+
+(4) **Mahasiswa** adalah peserta didik pada jenjang pendidikan tinggi yang terdaftar dan belajar di Universitas.
+
+Peristilahan yang berkaitan dengan mahasiswa adalah:
+
+a. **Mahasiswa Penuh Waktu (full-time student)** adalah mahasiswa yang terdaftar di program studi, tidak sedang bekerja, dan mengikuti kegiatan pembelajaran pada waktu belajar normal.
+
+b. **Mahasiswa Paruh Waktu (part-time student)** adalah mahasiswa yang terdaftar di program studi dan sedang bekerja, serta mengikuti kegiatan pembelajaran yang dapat disesuaikan dengan jadwal pekerjaannya.
+
+c. **Mahasiswa Inbound** adalah mahasiswa dari perguruan tinggi lain baik dalam maupun luar negeri yang mengikuti perkuliahan di program studi di Universitas pada waktu tertentu.
+
+d. **Calon Mahasiswa** adalah peserta seleksi penerimaan mahasiswa baru yang telah dinyatakan diterima di Universitas.
+
+(5) **Tridharma Perguruan Tinggi** yang selanjutnya disebut Tridharma adalah kewajiban perguruan tinggi untuk menyelenggarakan pendidikan, penelitian, dan pengabdian kepada masyarakat yang dilaksanakan oleh civitas akademika Universitas.
+
+(6) **Pendidikan** adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar mahasiswa secara aktif mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yang diperlukan dirinya, masyarakat, bangsa, dan negara.
+Peristilahan yang berkaitan dengan pendidikan adalah:
+
+a. **Pendidikan Tinggi** adalah jenjang pendidikan setelah pendidikan menengah yang mencakup program diploma, program sarjana, program magister, program doktor, dan program profesi, serta program spesialis, yang diselenggarakan oleh perguruan tinggi berdasarkan kebudayaan bangsa Indonesia.
+
+b. **Pendidikan Akademik** adalah pendidikan tinggi pada program sarjana dan/atau program pascasarjana yang diarahkan pada penguasaan dan pengembangan berbagai cabang keilmuan.
+
+c. **Pendidikan Vokasi** adalah pendidikan tinggi pada program diploma yang menyiapkan Mahasiswa untuk untuk menjadi profesional dengan keterampilan/kemampuan kerja tinggi pada pekerjaan dengan keahlian terapan tertentu, sampai program sarjana terapan dan dapat pula dikembangkan hingga program magister terapan dan doktor terapan.
+
+d. **Pendidikan Profesi** adalah pendidikan tinggi setelah program sarjana yang menyiapkan mahasiswa dalam pekerjaan yang memerlukan persyaratan keahlian khusus, yang dapat diselenggarakan oleh perguruan tinggi dan bekerja sama dengan kementerian, kementerian lain, lembaga pemerintah nonkementerian, dan/atau organisasi profesi yang bertanggung jawab atas mutu layanan profesi.
+
+e. **Pendidikan Reguler** merupakan pendidikan yang lebih mengutamakan metode pembelajaran dilakukan secara tradisional di kampus utama, kampus cabang, atau kampus pengembangan.
+
+f. **Pendidikan Jarak Jauh (PJJ)** adalah pendidikan yang lebih mengutamakan metode pembelajaran dilakukan secara jarak jauh melalui penggunaan berbagai media komunikasi dan pusat belajar jarak jauh.
+
+g. **Pendidikan Khusus** adalah pendidikan yang diperuntukkan bagi kelompok mahasiswa tertentu dan/atau bagi mahasiswa yang memiliki tingkat kesulitan dalam proses pembelajaran karena kelainan fisik, emosional, mental, sosial, dan/atau memiliki kecerdasan dan bakat istimewa.
+
+h. **Pendidikan Nongelar (microcredential)** adalah program pendidikan jangka pendek dengan topik materi teknis dan spesifik untuk mendapatkan sertifikasi pada kualifikasi tertentu, dapat dilaksanakan secara daring maupun luring selama kurun waktu yang telah ditetapkan Universitas.
+
+(7) **Program Pendidikan Internasional** adalah bagian dari pendidikan khusus yang diselenggarakan untuk memberikan pengalaman dan wawasan internasional dengan menggunakan kurikulum standar internasional.
+Peristilahan yang berkaitan dengan program pendidikan internasional adalah:
+
+a. **Kelas Internasional** adalah kelas khusus yang diselenggarakan oleh program studi yang memenuhi persyaratan dengan proses pembelajaran menggunakan bahasa Inggris sebagai bahasa pengantar pada penyelenggaraan semua mata kuliah, dengan dapat mengecualikan untuk perkuliahan Mata Kuliah Wajib Kurikulum (MKWK).
+
+b. **Program Gelar Bersama Internasional (International joint degree)** adalah penyelenggaraan kegiatan bersama antar perguruan tinggi mitra luar negeri untuk melaksanakan suatu program studi serta saling mengakui lulusannya dalam rumpun ilmu yang sama.
+
+c. **Program Gelar Ganda Internasional (International double degrees)** adalah penyelenggaraan dua program studi yang berbeda dengan jenjang yang sama untuk menghasilkan dua gelar jenjang S-1 atau jenjang S-2 dengan perguruan tinggi mitra luar negeri.
+
+d. **Pertukaran Mahasiswa Internasional (International student exchange)** adalah pertukaran pelajar yang dapat dikaitkan dengan pertukaran kebudayaan maupun pengambilan Satuan Kredit Semester (SKS) beberapa mata kuliah dari universitas mitra luar negeri dengan durasi 1-2 semester atau setara dengan durasi semester. Program yang memberikan mahasiswa pengalaman berbaur dalam lingkungan serta mengenal budaya dengan durasi program 1-3 bulan dapat berupa edutrip/summer/winter/spring/joint program dengan universitas mitra.
+
+e. **International Company Visit** adalah kunjungan mahasiswa dan dosen ke perusahaan-perusahaan di luar negeri untuk pendalaman wawasan terkait bidang studi.
+
+f. **International Edutrip** adalah program perjalanan mahasiswa dan dosen ke luar negeri untuk mengunjungi beberapa institusi yang terkait dengan bidang pendidikan mahasiswa internasional.
+
+g. **International General Lecture** adalah perkuliahan umum yang menghadirkan pembicara internasional sesuai bidang perkuliahan yang diikuti oleh mahasiswa.
+
+h. **International Internship** adalah program magang mahasiswa di luar negeri pada perusahaan-perusahaan terkemuka dan memiliki reputasi yang dilakukan dalam periode tertentu dan mendapatkan pengakuan kredit.
+
+i. **International Certification** adalah sertifikasi yang diperoleh mahasiswa internasional yang mengikuti ujian dan pelatihan berskala internasional dalam bidang tertentu.
+
+j. **English Synergy Program (ESyP)** adalah program pendampingan peningkatan bahasa Inggris bagi mahasiswa kelas internasional yang diberikan oleh Universitas selama satu tahun pertama atau Tingkat I sejak masuk perkuliahan.
+
+k. **Bahasa Indonesia bagi Penutur Asing (BIPA)** adalah program pendampingan peningkatan bahasa Indonesia bagi mahasiswa yang bukan penutur asli bahasa Indonesia di kelas internasional yang diberikan oleh Universitas selama satu tahun pertama atau Tingkat I sejak masuk perkuliahan.
+
+l. **Global Learning Week (GLOW)** adalah program perkuliahan khusus yang dilaksanakan pada semester antara untuk mahasiswa kelas internasional dengan pengajar berasal dari universitas mitra luar negeri.
+
+(8) **Pembelajaran** adalah proses interaksi mahasiswa dengan dosen dan sumber belajar pada suatu lingkungan belajar.
+Peristilahan yang berkaitan dengan pembelajaran adalah:
+
+a. **Pembelajaran Bauran (Blended learning)** adalah sebuah bentuk inovasi pembelajaran yang mengombinasikan dua atau lebih bentuk pembelajaran.
+
+b. **Pembelajaran Jarak Jauh (Distance learning)** adalah metode pembelajaran dimana mahasiswa dan pendidik terpisah tempat dan/atau waktu sehingga sebagian atau seluruh prosesnya dilakukan secara jarak jauh menggunakan perantara teknologi informasi dan komunikasi.
+
+c. **Pembelajaran Kelas (Classroom learning)** adalah metode pembelajaran yang melibatkan mahasiswa, sumber belajar, dan pendidik yang berinteraksi pada ruang kelas yang sama.
+
+d. **Pembelajaran Daring (Online learning)** adalah metode pembelajaran yang melibatkan mahasiswa, sumber belajar, dan pendidik yang berinteraksi dengan perantara teknologi informasi dan komunikasi.
+
+e. **Center for e-Learning and Open Education (CeLOE)** adalah unit yang fokus pada penyediaan sistem pembelajaran yang memanfaatkan teknologi informasi.
+
+f. **CeLOE Learning Management System (LMS)** merupakan pelantar pembelajaran daring (Online learning) bagi program studi reguler dan program studi pendidikan jarak jauh (PJJ) di Universitas.
+
+g. **Program Siap-Kerja (Work-Ready Programs atau WRAP)** merupakan program-program pembelajaran yang ditujukan untuk mempersiapkan lulusan-lulusan yang siap kerja sesuai dengan sasaran kompetensi dan profil lulusan program studi.
+
+h. **Surat Keterangan Pendamping Ijazah (SKPI)** adalah dokumen yang diterbitkan oleh Universitas yang memuat informasi tentang pemenuhan kompetensi lulusan pendidikan akademik dan vokasi.
+
+i. **English Proficiency Test (EPrT)** adalah tes untuk mengukur kecakapan berbahasa Inggris, mencakup tiga aspek kompetensi utama, yaitu *listening*, *grammar*, dan *reading*, yang dikembangkan oleh Pusat Bahasa Universitas.
+
+(9) **Registrasi** adalah proses administrasi akademik pada setiap awal semester yang ditujukan untuk mengesahkan status pencatatan administratif sebagai mahasiswa aktif dan sekaligus untuk mengesahkan rencana studi mahasiswa pada semester tersebut.
+Peristilahan yang berkaitan dengan registrasi adalah:
+
+a. **Perwalian** adalah proses konsultasi akademik seorang mahasiswa kepada seorang dosen yang ditugaskan sebagai dosen wali/penasihat akademik mahasiswa, dengan maksud mengarahkan mahasiswa selama melaksanakan studi di Universitas serta mendukung pengembangan atmosfer akademik yang kondusif bagi keberhasilan studi mahasiswa.
+
+b. **Mahasiswa Aktif** adalah status mahasiswa yang sedang melaksanakan studi dalam suatu semester berjalan.
+
+c. **Mahasiswa Nonaktif** adalah status mahasiswa yang tidak melakukan registrasi pada semester berjalan.
+
+d. **Mahasiswa Cuti** adalah status mahasiswa yang sedang mengambil cuti akademik.
+
+e. **Kartu Tanda Mahasiswa (KTM)** adalah kartu tanda pengenal mahasiswa yang mengukuhkan pencatatan resmi seseorang sebagai mahasiswa Universitas yang diterbitkan dengan standar atribut dan pengaman tertentu. Kartu tanda mahasiswa memiliki masa berlaku berdasarkan ketentuan yang berlaku.
+
+f. **Kartu Studi Mahasiswa (KSM)** adalah Kartu Rencana Studi (KRS) yang wajib dimiliki oleh mahasiswa aktif Universitas sebagai bukti sah bahwa proses registrasi mahasiswa pada suatu semester telah tuntas dilaksanakan. Kartu studi mahasiswa dapat diunduh dan dicetak ketika mahasiswa melaksanakan registrasi pada awal semester. Kartu studi mahasiswa dipergunakan sebagai acuan administratif dan berisi jadwal perkuliahan bagi seorang mahasiswa yang menempuh studi dalam suatu semester.
+
+g. **Perubahan Rencana Studi (PRS)** adalah proses pencatatan administratif mengenai perubahan terhadap rencana studi yang diambil oleh mahasiswa pada proses registrasi sebelumnya.
+
+(10) **Kurikulum** adalah seperangkat rencana program pendidikan dan pengaturan mengenai isi maupun bahan kajian dan pelajaran serta cara penyampaian dan penilaian yang digunakan sebagai pedoman penyelenggaraan kegiatan belajar mengajar di sebuah institusi pendidikan. Kurikulum minimal mencakup capaian pembelajaran lulusan, masa studi normal, metode dan modalitas pembelajaran, syarat kompetensi dan/atau kualifikasi calon mahasiswa, penilaian hasil belajar, materi pembelajaran yang harus ditempuh, dan tata cara penerimaan mahasiswa pada berbagai tahapan kurikulum.
+
+Peristilahan yang berkaitan dengan kurikulum adalah:
+
+a. **Pembelajaran Berbasis Capaian atau Outcome Based Education (OBE)** merupakan sistem pendidikan yang berfokus pada capaian pembelajaran yang diimplementasikan dalam kurikulum.
+
+b. **Profil Lulusan (Program Educational Objectives/PEO)** adalah pernyataan tentang target program studi sebagai penjabaran visi dan kebutuhan pemangku kepentingan (stakeholder) saat ini dan di masa yang akan datang yang menjadi dasar penyusunan kurikulum.
+
+c. **Standar Kompetensi Lulusan** adalah kriteria minimal mengenai kesatuan kompetensi sikap, keterampilan, dan pengetahuan yang menunjukkan capaian mahasiswa dari hasil pembelajarannya pada akhir program pendidikan tinggi.
+
+d. **Capaian Pembelajaran Lulusan/CPL (Program Learning Outcome/PLO)** adalah hasil perumusan dari standar kompetensi lulusan untuk setiap program studi.
+
+e. **Capaian Pembelajaran Mata Kuliah/CPMK (Course Learning Outcomes/CLO)** adalah kemampuan yang menunjukkan capaian mahasiswa dari hasil pembelajaran setelah lulus dari sebuah mata kuliah.
+
+f. **Satuan Kredit Semester (SKS)** adalah takaran waktu kegiatan belajar yang dibebankan pada mahasiswa per minggu, per semester dalam proses pembelajaran melalui berbagai bentuk pembelajaran dan besarnya pengakuan atas keberhasilan usaha mahasiswa dalam mengikuti kegiatan kurikuler di suatu program.
+
+g. **Asesmen** adalah kegiatan evaluasi terhadap capaian pembelajaran.
+
+h. **Rekognisi Pembelajaran Lampau (RPL)** adalah pengakuan terhadap Capaian Pembelajaran (CP) yang diperoleh seseorang dari pendidikan formal atau nonformal atau informal, dan/atau pengalaman kerja sebagai dasar untuk melanjutkan pendidikan formal yang dilakukan melalui pengakuan CP secara parsial atau untuk memenuhi kualifikasi sebagai dosen.
+
+(11) **Kalender Pendidikan Universitas** adalah kalender yang ditetapkan oleh rektor atau wakil rektor bidang akademik yang dipergunakan sebagai acuan keselarasan penjadwalan dengan mengakomodasikan seluruh kebutuhan kegiatan pendidikan di Universitas, kalender pendidikan nasional, serta hari-hari besar dan keagamaan serta cuti bersama nasional di Indonesia.
+
+(12) **Laporan Kemajuan Studi (LKS)** adalah laporan hasil studi yang ditempuh mahasiswa dalam satu semester. Laporan kemajuan studi berisi daftar nilai mata kuliah mutakhir serta catatan umpan balik dari dosen wali dan program studi, yang disampaikan secara kumulatif dan periodik setiap semester kepada orang tua mahasiswa. Penyampaian LKS dimaksudkan agar perkembangan studi mahasiswa dan kemajuan sistem pengelolaan pendidikan dapat terpantau secara bertahap, dengan melibatkan peran partisipatif dari pihak keluarga/orang tua, sehingga dapat dievaluasi hal-hal yang dapat mendukung peningkatan studi dan mencegah kegagalan studi mahasiswa.
+
+(13) **Civitas Akademika** adalah masyarakat akademik, terdiri dari komunitas dan/atau pribadi dosen dan mahasiswa yang memiliki tradisi ilmiah maupun kebebasan akademik dengan mengembangkan budaya akademik.
+
+Peristilahan yang berkaitan dengan civitas akademika adalah:
+
+a. **Kebebasan Akademik** adalah kebebasan yang dimiliki oleh seluruh civitas akademika untuk mendalami dan mengembangkan ilmu pengetahuan, teknologi dan seni secara bertanggung jawab melalui pelaksanaan Tridharma Perguruan Tinggi.
+
+b. **Kebebasan Mimbar Akademik** adalah wewenang yang secara terbatas hanya dimiliki oleh guru besar dan/atau dosen dan/atau cendekia yang memiliki reputasi, otoritas, dan wibawa ilmiah untuk menyatakan secara terbuka dan bertanggung jawab mengenai sesuatu yang berkenaan dengan rumpun ilmu dan cabang ilmunya.
+
+c. **Otonomi Keilmuan** adalah otonomi civitas akademika pada suatu cabang ilmu pengetahuan, teknologi, dan seni dalam menemukan, mengembangkan, mengungkap, dan/atau mempertahankan kebenaran ilmiah menurut kaidah, metode keilmuan, dan budaya akademik.
+
+d. **Suasana Akademik** adalah suasana kecendekiaan yang kondusif bagi pelaksanaan kebebasan akademik, kebebasan mimbar akademik, dan bagi proses transformasi ilmu pengetahuan, teknologi, dan seni yang bermanfaat bagi pengembangan potensi civitas akademika, kontribusi bagi kesejahteraan masyarakat, dan reputasi Universitas.
+
+e. **Budaya Akademik** adalah seluruh sistem nilai, gagasan, norma, tindakan, dan karya yang bersumber dari ilmu pengetahuan, teknologi dan seni sesuai dengan asas Pendidikan Tinggi.
+
+(14) **Pangkalan Data Pendidikan Tinggi (PDDikti)** adalah sistem yang menghimpun data pendidikan tinggi dari seluruh perguruan tinggi yang terintegrasi secara nasional yang merupakan kumpulan fakta mengenai penyelenggaraan pendidikan tinggi yang dimanfaatkan untuk pembangunan pendidikan tinggi.
+
+## **Pasal 2 Ketentuan Umum**
+
+(1) Seluruh ketentuan aturan dalam keputusan ini tidak bertentangan dan sejalan dengan seluruh ketentuan aturan Universitas serta ketentuan aturan dan perundangan yang berlaku secara nasional di lingkungan Negara Kesatuan Republik Indonesia (NKRI).
+
+(2) Seluruh ketentuan aturan dalam keputusan ini berlaku bagi seluruh mahasiswa dan penyelenggaraan pendidikan di Universitas.
+
+(3) Seluruh dosen yang ditugaskan untuk mengampu penyelenggaraan akademik harus memenuhi atau melebihi persyaratan kompetensi dan kualifikasi minimum, dan memiliki kewenangan yang telah diatur dalam regulasi dan standar nasional pendidikan tinggi di Indonesia sesuai dengan aturan Universitas.
+
+(4) Seluruh penyelenggaraan akademik harus selalu tercatat secara terintegrasi dalam sistem informasi akademik Universitas sesuai ketentuan regulasi nasional serta dilaporkan secara berkala dengan benar, akurat, transparan, dan akuntabel ke sistem informasi akademik nasional pada kementerian yang membidangi pembinaan pendidikan tinggi.
+
+## **Pasal 3 Sistem Pendidikan**
+
+(1) Sistem pendidikan adalah keseluruhan komponen pendidikan yang saling terkait secara terpadu untuk mencapai tujuan pendidikan yang dapat dibedakan menjadi sistem pendidikan reguler dan sistem pendidikan jarak jauh.
+
+(2) Program studi sebagaimana pada Pasal 1 ayat (1) huruf h dapat menggunakan sistem pendidikan reguler atau sistem pendidikan jarak jauh sesuai dengan surat keputusan perizinan penyelenggaraan program studi.
+
+(3) Program studi yang menggunakan sistem pendidikan reguler untuk selanjutnya dapat disebut program studi pendidikan reguler.
+
+(4) Program studi yang menggunakan sistem pendidikan jarak jauh untuk selanjutnya dapat disebut Program Studi Pendidikan Jarak Jauh (PJJ).
+
+## **Pasal 4 Penyelenggaraan Pendidikan**
+
+(1) Penyelenggaraan pendidikan dilakukan dengan menjunjung tinggi integritas dan etika akademik dalam kerangka kebebasan akademik, kebebasan mimbar akademik, dan otonomi keilmuan yang bertanggung jawab.
+
+(2) Penyelenggaraan pendidikan dalam program studi meliputi Pendidikan Akademik, Pendidikan Vokasi, Pendidikan Profesi, dan Pendidikan Nongelar sebagaimana pada Pasal 1 ayat (6) huruf b, c, d, dan h.
+
+a. Pendidikan Akademik terdiri dari program sarjana (strata satu/S-1), program magister (strata dua/S-2), dan program doktor (strata tiga/S-3).
+
+b. Pendidikan Vokasi terdiri dari program ahli madya (diploma tiga/D-3), dan program sarjana terapan (diploma empat/D-4), program magister terapan (strata dua/S-2), dan program doktor terapan (strata tiga/S-3).
+
+c. Pendidikan Profesi terdiri dari program profesi, program spesialis/spesialis satu (Sp-1), dan program subspesialis/spesialis dua (Sp-2).
+
+d. Pendidikan Nongelar (*microcredential*).
+
+(3) Pendidikan Vokasi dan Akademik dapat diselenggarakan dalam bentuk gelar bersama (*joint degree*) atau gelar ganda (*double degrees*) berdasarkan kurikulum bersama (*joint curriculum*) baik antar program studi di dalam maupun di luar Universitas sesuai dengan ketentuan peraturan perundang-undangan.
+
+(4) Penyelenggaraan pembelajaran pada program studi reguler dapat dilaksanakan berdasarkan prinsip fleksibilitas, dimana proses pembelajaran dapat menggunakan mekanisme pembelajaran bauran (blended learning), pembelajaran kelas (classroom learning), pembelajaran daring (online learning), atau pembelajaran campuran (hybrid learning).
+
+(5) Penyelenggaraan pembelajaran pada program studi PJJ sebagaimana pada Pasal 3 ayat (4) merupakan penyelenggaraan pembelajaran daring penuh lebih dari 50% (lima puluh persen) jumlah mata kuliah dan/atau beban studi dalam kurikulum program studi pendidikan reguler (tatap muka) yang memiliki izin menteri.
+
+## **Pasal 5 Kompetensi Utama**
+
+(1) Penyelenggaraan program diploma tiga dirancang untuk menghasilkan lulusan dengan kompetensi utama minimal sebagai berikut:
+
+a. Menguasai konsep teoretis bidang pengetahuan dan keterampilan tertentu secara umum;
+
+b. Mampu menyelesaikan pekerjaan berlingkup luas; dan
+
+c. Mampu memilih metode yang sesuai dari beragam pilihan yang sudah maupun belum baku berdasarkan analisis data.
+
+(2) Penyelenggaraan program sarjana terapan dirancang untuk menghasilkan lulusan dengan kompetensi utama minimal sebagai berikut:
+
+a. Mampu menerapkan konsep teoretis bidang pengetahuan dan keterampilan tertentu secara umum dan khusus untuk menyelesaikan masalah secara prosedural sesuai dengan lingkup pekerjaannya; dan
+
+b. Mampu beradaptasi terhadap situasi perubahan yang dihadapi.
+
+(3) Penyelenggaraan program sarjana dirancang untuk menghasilkan lulusan dengan kompetensi utama minimal sebagai berikut:
+
+a. Menguasai konsep teoretis bidang pengetahuan dan keterampilan tertentu secara umum dan khusus untuk menyelesaikan masalah secara prosedural sesuai dengan lingkup pekerjaannya; dan
+
+b. Mampu beradaptasi terhadap situasi perubahan yang dihadapi;
+
+(4) Penyelenggaraan program magister dirancang untuk menghasilkan lulusan dengan kompetensi utama minimal menguasai teori bidang pengetahuan tertentu untuk mengembangkan ilmu pengetahuan dan teknologi melalui riset atau penciptaan karya inovatif.
+
+(5) Penyelenggaraan program magister terapan dirancang untuk menghasilkan lulusan dengan kompetensi utama minimal mampu mengembangkan keahlian dengan landasan pemahaman ilmu pengetahuan dan teknologi melalui riset atau penciptaan karya inovatif yang dapat diterapkan di lingkup pekerjaan tertentu.
+
+(6) Penyelenggaraan program doktor dirancang untuk menghasilkan lulusan dengan kompetensi utama minimal sebagai berikut:
+
+a. Menguasai filosofi keilmuan bidang ilmu pengetahuan dan keterampilan tertentu; dan
+
+b. Mampu melakukan pendalaman dan perluasan ilmu pengetahuan dan teknologi melalui riset atau penciptaan karya orisinal dan teruji.
+
+(7) Penyelenggaraan program doktor terapan dirancang untuk menghasilkan lulusan dengan kompetensi utama minimal sebagai berikut:
+
+a. Mampu mengembangkan dan meningkatkan keahlian spesifik yang mendalam didasari penerapan pemahaman filosofi keilmuan bidang ilmu pengetahuan dan keterampilan tertentu; dan
+
+b. Mampu melakukan pendalaman dan perluasan ilmu pengetahuan dan teknologi melalui riset atau penciptaan karya inovatif yang dapat diterapkan di lingkup pekerjaan tertentu.
+
+## **Pasal 6 Gelar Akademik Lulusan**
+
+(1) Gelar akademik lulusan program studi yang telah terselenggara di Universitas mengikuti ketentuan aturan tentang rumpun ilmu pengetahuan, teknologi, dan seni serta gelar lulusan perguruan tinggi yang ditetapkan oleh pemerintah.
+
+(2) Gelar akademik sebagaimana dimaksud pada ayat (1) ditentukan berdasarkan rekomendasi hasil sidang senat UPPS dan ditetapkan oleh rektor.
+
+(3) Gelar akademik sebagaimana dimaksud pada ayat (2) dapat mencakup gelar akademik untuk mahasiswa kelas internasional.
+
+(4) Jika terjadi perubahan aturan regulasi nasional atau terdapat program studi baru, maka perubahan atau tambahan gelar akademik lulusan ditetapkan melalui keputusan tersendiri.
+
+## **Pasal 7 Predikat Lulusan**
+
+(1) Kepada lulusan Universitas yang memenuhi kriteria diberikan predikat lulusan yaitu sempurna (summa cumlaude), dengan pujian (excellent/cumlaude), sangat memuaskan (very good) dan memuaskan (good).
+
+(2) Kriteria predikat lulusan diberikan berdasarkan Indeks Prestasi Kumulatif (IPK), masa studi, dan kriteria tambahan seperti berikut:
+
+a. Program Diploma Tiga, Sarjana/Sarjana Terapan
+
+<table>
+<thead>
+<tr>
+<th>Predikat Lulusan</th>
+<th>IPK</th>
+<th>Masa Studi</th>
+<th>Kriteria Tambahan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sempurna (<em>Summa Cumlaude</em>)</td>
+<td>3,91 – 4,00</td>
+<td>- Sarjana: ≤ 8 semester<br>- Sarjana terapan: ≤ 8 semester<br>- Diploma tiga : 6 Semester</td>
+<td rowspan="5">Sesuai ketentuan Universitas</td>
+</tr>
+<tr>
+<td>Dengan Pujian (<em>Excellent/Cumlaude</em>)</td>
+<td>3,51 – 3,90</td>
+<td>- Sarjana: ≤ 8 semester<br>- Sarjana terapan: ≤ 8 semester<br>- Diploma tiga: 6 Semester</td>
+</tr>
+<tr>
+<td>Sangat Memuaskan (<em>Very Good</em>)</td>
+<td>3,51 – 4,00</td>
+<td>- Sarjana : > 8 semester<br>- Sarjana terapan: > 8 semester<br>- Diploma tiga: > 6 semester</td>
+</tr>
+<tr>
+<td></td>
+<td>3,01 – 3,50</td>
+<td>Tanpa syarat</td>
+</tr>
+<tr>
+<td>Memuaskan (<em>Good</em>)</td>
+<td>2,76 – 3,00</td>
+<td>Tanpa syarat</td>
+</tr>
+</tbody>
+</table>
+
+b. Program Magister/Magister Terapan
+
+<table>
+<thead>
+<tr>
+<th>Predikat Lulusan</th>
+<th>IPK</th>
+<th>Masa Studi</th>
+<th>Kriteria Tambahan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sempurna (<em>Summa Cumlaude</em>)</td>
+<td>3,96 – 4,00</td>
+<td>≤ 4 semester</td>
+<td rowspan="5">Sesuai ketentuan Universitas</td>
+</tr>
+<tr>
+<td>Dengan Pujian (<em>Excellent/Cumlaude</em>)</td>
+<td>3,76 – 3,95</td>
+<td>≤ 4 semester</td>
+</tr>
+<tr>
+<td>Sangat Memuaskan (<em>Very Good</em>)</td>
+<td>3,76 – 4,00</td>
+<td>> 4 semester</td>
+</tr>
+<tr>
+<td></td>
+<td>3,51 – 3,75</td>
+<td>Tanpa syarat</td>
+</tr>
+<tr>
+<td>Memuaskan (<em>Good</em>)</td>
+<td>3,26 – 3,50</td>
+<td>Tanpa syarat</td>
+</tr>
+</tbody>
+</table>
+
+c. **Program Doktor/Doktor Terapan**
+Predikat kelulusan pada program doktor/doktor terapan diberikan berdasarkan penilaian kinerja penelitian dan publikasi karya ilmiah, sikap dan kontribusi ilmiah calon lulusan, serta capaian IPK dan masa studi, yang ditetapkan pada sidang promosi tertutup dan/atau diumumkan pada sidang promosi terbuka.
+
+<table>
+<thead>
+<tr>
+<th>Predikat Lulusan</th>
+<th>IPK</th>
+<th>Masa Studi</th>
+<th>Kriteria Tambahan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sempurna (<em>Summa Cumlaude</em>)</td>
+<td>3,96 – 4,00</td>
+<td>≤ 6 semester</td>
+<td rowspan="5">Sesuai ketentuan Universitas</td>
+</tr>
+<tr>
+<td>Dengan Pujian (<em>Excellent/Cumlaude</em>)</td>
+<td>3,76 – 3,95</td>
+<td>≤ 8 semester</td>
+</tr>
+<tr>
+<td>Sangat Memuaskan (<em>Very Good</em>)</td>
+<td>3,76 – 4,00</td>
+<td>> 8 semester</td>
+</tr>
+<tr>
+<td></td>
+<td>3,51 – 3,75</td>
+<td>Tanpa syarat</td>
+</tr>
+<tr>
+<td>Memuaskan (<em>Good</em>)</td>
+<td>3,26 – 3,50</td>
+<td>Tanpa syarat</td>
+</tr>
+</tbody>
+</table>
+
+(3) Kriteria tambahan untuk predikat <em>summa cumlaude</em> dan <em>cumlaude</em> diatur dalam peraturan terpisah Universitas.
+(4) Lulusan yang memenuhi persyaratan IPK dan masa studi untuk mendapatkan predikat kelulusan *summa cumlaude* dan *cumlaude* pada ayat (2) di atas, tetapi tidak dapat memenuhi kriteria tambahan maka predikat kelulusan yang diberikan adalah predikat satu tingkat di bawahnya.
+
+## **Pasal 8 Ijazah Kelulusan, Transkrip Akademik, dan Surat Keterangan Pendamping Ijazah**
+
+(1) Ijazah merupakan dokumen yang menyatakan selesainya seluruh kewajiban studi seorang lulusan pendidikan. Penerbitan ijazah disertai dengan transkrip akademik dan Surat Keterangan Pendamping Ijazah (SKPI).
+
+(2) Ijazah dan transkrip akademik ditandatangani oleh Pimpinan UPPS dan rektor menggunakan tanda tangan elektronik bersertifikat (*digital signature*), yang memuat berbagai keterangan jati diri lulusan, program studi dan Universitas, ditulis dalam bahasa Indonesia dan bahasa Inggris yang memuat informasi sesuai ketentuan negara.
+
+(3) SKPI ditandatangani oleh Pimpinan UPPS yang berisi informasi berbentuk narasi deksriptif tentang capaian pembelajaran lulusan pada jenjang Kerangka Kualifikasi Nasional Indonesia (KKNI) yang relevan, dalam suatu format standar yang setidaknya memuat identitas diri lulusan, identitas penyelenggara program, kualifikasi dan hasil yang dicapai, sistem pendidikan tinggi di Indonesia dan KKNI serta pengesahan dalam bahasa Indonesia dan bahasa Inggris yang memuat informasi sesuai ketentuan negara.
+
+## **Pasal 9 Penetapan Kelulusan Studi dan Kelulusan Tingkat**
+
+(1) Penetapan kelulusan studi seorang lulusan dari suatu program studi direkomendasikan oleh sidang akademik UPPS dan ditetapkan oleh keputusan rektor sebagai dasar penerbitan ijazah dan transkrip akademik.
+
+(2) Mahasiswa yang dinyatakan lulus berhak memperoleh ijazah dan transkrip akademik sebagaimana dimaksud pada Pasal 8, gelar atau sebutan, serta SKPI sesuai dengan peraturan perundang-undangan.
+
+(3) Universitas menerapkan kelulusan per tingkat yang dilaksanakan pada sidang akademik di tingkat UPPS yang merupakan penahapan studi (*milestone*) untuk mendorong prioritas kelulusan perkuliahan pada setiap tahun akademik menurut struktur kurikulum program studi secara berjenjang.
+
+(4) Bagi mahasiswa yang tidak memenuhi persyaratan lulus tingkat tapi memenuhi kriteria untuk lanjut studi dapat dikecualikan berdasarkan keputusan sidang akademik UPPS dan menyampaikan laporan pengecualian tersebut kepada direktur akademik.
+
+(5) Kriteria untuk lanjut studi sebagaimana dimaksud ayat (4) ditetapkan berdasarkan kebijakan masing-masing UPPS.
+
+(6) Pengecualian untuk lulus tingkat maksimum berlaku hanya untuk satu tingkat.
+
+## **Pasal 10 Kewajiban Lulus Ujian Kecakapan Bahasa Asing**
+
+(1) Kewajiban lulus ujian kecakapan bahasa asing untuk persyaratan kelulusan studi adalah persyaratan skor minimum kecakapan berbahasa Inggris yang wajib dipenuhi oleh mahasiswa program diploma tiga, sarjana/sarjana terapan, magister/magister terapan, dan doktor/doktor terapan pada setiap sidang tingkat serta pada saat melaksanakan pendaftaran asesmen tugas akhir.
+
+(2) Persyaratan nilai minimum kecakapan bahasa Inggris setiap jenjang pendidikan adalah sebagai berikut:
+
+<table>
+<thead>
+<tr>
+<th>No</th>
+<th>Jenjang Pendidikan</th>
+<th colspan="4">Skor TOEFL ITP/EPrT minimum</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Tingkat I</td>
+<td>Tingkat II</td>
+<td>Tingkat III</td>
+<td>Mendaftar Asesmen Tugas Akhir</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Diploma Tiga</td>
+<td>370</td>
+<td>410</td>
+<td>-</td>
+<td>450</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Sarjana/Sarjana Terapan<br>a. Program Kelas Reguler<br>b. Program Kelas Internasional</td>
+<td>370<br>450</td>
+<td>410<br>465</td>
+<td>427<br>485</td>
+<td>450<br>500</td>
+</tr>
+</tbody>
+</table>
+<table>
+  <tr>
+    <td>3</td>
+    <td>Magister/Magister Terapan<br>a. Belum Terakreditasi<br>b. Terakreditasi</td>
+    <td>450<br>450 - 500*</td>
+    <td>475<br>475 - 500*</td>
+    <td>-<br>-</td>
+    <td>475<br>475 - 500*</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Doktor/Doktor Terapan</td>
+    <td>500</td>
+    <td>500</td>
+    <td>500</td>
+    <td>500</td>
+  </tr>
+</table>
+
+*Sesuai dengan syarat akreditasi yang ditetapkan oleh UPPS
+
+(3) Persyaratan minimum kecakapan bahasa Inggris sebagaimana pada ayat (2) khusus untuk jenjang magister/magister terapan yang sudah terakreditasi ditetapkan oleh UPPS dengan mempertimbangkan standar mutu program studi.
+
+(4) Pemenuhan persyaratan kecakapan bahasa Inggris untuk kelulusan studi sebagaimana pada ayat (2) ditunjukkan oleh sertifikat resmi yang memuat skor kecakapan berbahasa Inggris, seperti TOEFL ITP, English Proficiency Test (EPrT), IELTS, TOEFL iBT, atau tes bahasa Inggris berstandar internasional yang masih berlaku.
+
+(5) Keterangan kecakapan bahasa Inggris EPrT pada ayat (2) dan (4) dapat dianggap berlaku untuk persyaratan pendaftaran asesmen tugas akhir apabila skor kecakapan bahasa Inggris EPrT tersebut dikeluarkan oleh Pusat Bahasa Universitas.
+
+(6) Pada saat mendaftar asesmen tugas akhir, mahasiswa wajib memiliki EPrT dengan skor minimal sebagaimana dimaksud pada ayat (2) atau mendapat pengecualian dari ketua program studi bagi yang sudah mengambil tes EPrT sebanyak 3 (tiga) kali dengan skor masih di bawah batas minimal. Pengecualian hanya diberikan apabila selang waktu antar tes minimal 30 hari kalender.
+
+(7) Persyaratan kecakapan bahasa Inggris EPrT dapat digantikan dengan kecakapan bahasa Inggris lain yang sejenis dari lembaga bahasa bersertifikasi internasional dengan skor yang setara berdasarkan ketentuan minimal pada ayat (2) yang diakui oleh Pusat Bahasa Universitas.
+
+## **Pasal 11 Sistem Kredit Semester**
+
+(1) Sistem kredit semester merupakan suatu sistem penyelenggaraan pendidikan dengan menggunakan Satuan Kredit Semester (SKS) sebagaimana dimaksud Pasal 1 ayat (10) huruf f untuk menyatakan beban studi mahasiswa, beban kerja dosen, pengalaman belajar, dan beban penyelenggaraan program.
+
+(2) Beban belajar 1 (satu) SKS setara dengan 45 (empat puluh lima) jam per semester.
+
+(3) Beban belajar sebagaimana dimaksud pada ayat (2) dapat diperoleh melalui kegiatan terjadwal per minggu atau yang diekuivalenkan dengan kegiatan tersebut (noneksepsi), yaitu:
+
+a. 1 (satu) SKS pada perkuliahan model pembelajaran kelas mencakup:
+
+i. kegiatan belajar terbimbing dengan tatap muka (luring atau daring sinkron) atau daring asinkron 50 (lima puluh) menit per minggu;
+
+ii. kegiatan belajar penugasan terstruktur 60 (enam puluh) menit per minggu; dan
+
+iii. kegiatan belajar mandiri 60 (enam puluh) menit per minggu.
+
+b. 1 (satu) SKS pada bentuk pembelajaran seminar atau bentuk pembelajaran lain yang sejenis, mencakup:
+
+i. kegiatan belajar tatap muka 100 (seratus) menit per minggu; dan
+
+ii. kegiatan belajar mandiri 70 (tujuh puluh) menit per minggu.
+
+(4) Beban belajar sebagaimana dimaksud pada ayat (2) selama satu semester dapat juga diperoleh melalui kegiatan tidak terjadwal (eksepsi), yaitu:
+
+a. 1 (satu) SKS pada bentuk pembelajaran di luar program studi atau di luar Universitas mencakup kegiatan belajar terbimbing, kegiatan belajar penugasan, dan kegiatan belajar mandiri yang terakumulasi dalam 45 (empat puluh lima) jam per semester;
+
+b. 1 (satu) SKS pada bentuk tugas akhir atau bentuk pembelajaran lain yang sejenis, mencakup kegiatan belajar terbimbing, kegiatan belajar penugasan, dan kegiatan belajar mandiri yang terakumulasi dalam 45 (empat puluh lima) jam per semester;
+
+(5) Pada program pendidikan vokasi, beban SKS mata kuliah terdiri dari kuliah teori dan praktik dalam komposisi jumlah jam sesuai aturan yang berlaku, dengan ketentuan waktu pelaksanaan kuliah teori dan materi praktik sebagaimana dimaksud pada ayat (2) dan (3).
+
+(6) Aturan konversi SKS terhadap sistem kredit lain yang bersifat internasional akan diatur melalui aturan tersendiri.
+
+(7) Program studi perlu memastikan penjaminan mutu terhadap besarnya pengakuan dan takaran waktu kegiatan belajar yang dibebankan pada mahasiswa per semester ataupun per minggu per semester dari berbagai bentuk pembelajaran yang telah dipilih melalui diantaranya: Rencana Pembelajaran Semester (RPS), logbook, atau laporan kegiatan.
+
+## **Pasal 12 Beban Belajar dan Masa Studi**
+
+(1) Beban belajar dan masa studi untuk pendidikan akademik sebagaimana sebagai berikut:
+
+a. Beban belajar program sarjana di Universitas adalah 144–160 SKS yang dirancang dengan masa studi 8 (delapan) semester yang dapat ditempuh dalam waktu minimum 7 (tujuh) semester, maksimum 12 (dua belas) semester untuk mahasiswa penuh waktu dan maksimum 14 (empat belas) semester untuk mahasiswa paruh waktu setelah menempuh kelulusan sekolah atas atau sekolah kejuruan atas yang sebidang atau yang setara dengan keduanya.
+
+b. Beban belajar program magister di Universitas adalah 54–72 SKS yang dirancang untuk masa studi normal 4 (empat) semester yang dapat ditempuh dalam waktu minimum 3 (tiga) semester, maksimum 6 (enam) semester untuk mahasiswa penuh waktu dan maksimum 7 (tujuh) semester untuk mahasiswa paruh waktu, termasuk tugas akhir baik dalam bentuk tesis, prototipe, karya, proyek atau bentuk tugas akhir lainnya yang sejenis setelah menempuh kelulusan program sarjana yang sebidang atau yang setara.
+
+c. Beban belajar program doktor di Universitas adalah 90–108 SKS berdasarkan kelinieran dan kesiapan mahasiswa baru yang ditentukan oleh program studi, yang dirancang untuk masa studi normal 6 (enam) semester yang dapat ditempuh dalam waktu minimum 5 (lima) semester, maksimum 10 (sepuluh) semester untuk mahasiswa penuh waktu dan maksimum 11 (sebelas) semester untuk mahasiswa paruh waktu, termasuk tugas akhir baik dalam bentuk disertasi, prototipe, karya, proyek atau bentuk tugas akhir lainnya yang sejenis, yang terdiri dari empat tahap, yaitu: i). Kualifikasi, ii). Penyusunan Proposal Penelitian, iii). Penelitian dan Publikasi, dan iv). Penulisan dan Ujian Tugas Akhir, setelah menempuh kelulusan program magister yang sebidang atau yang setara.
+
+(2) Beban belajar dan masa studi untuk pendidikan vokasi sebagai berikut:
+
+a. Beban belajar program diploma tiga di Universitas adalah 108–120 SKS yang dirancang untuk masa studi normal 6 (enam) semester dan dapat ditempuh dalam waktu minimum 6 (enam) semester, maksimum 8 (delapan) semester untuk mahasiswa penuh waktu dan maksimum 10 (sepuluh) semester untuk mahasiswa paruh waktu, setelah menempuh kelulusan sekolah atas atau sekolah kejuruan atas yang sebidang atau yang setara dengan keduanya.
+
+b. Beban belajar program sarjana terapan di Universitas adalah 144–160 SKS dirancang dengan masa studi 8 (delapan) semester yang dapat ditempuh dalam waktu minimum 8 (delapan) semester, maksimum 12 (dua belas) semester untuk mahasiswa penuh waktu dan maksimum 14 (empat belas) semester untuk mahasiswa paruh waktu setelah menempuh kelulusan sekolah atas atau sekolah kejuruan atas yang sebidang atau yang setara dengan keduanya.
+
+c. Beban belajar program magister terapan di Universitas adalah 54–72 SKS yang dirancang untuk masa studi normal 4 (empat) semester yang dapat ditempuh dalam waktu minimum 3 (tiga) semester, maksimum 6 (enam) semester untuk mahasiswa penuh waktu dan maksimum 7 (tujuh) semester untuk mahasiswa paruh waktu, termasuk tugas akhir baik dalam bentuk tesis, prototipe, karya, proyek atau bentuk tugas akhir lainnya yang sejenis setelah menempuh kelulusan program sarjana yang sebidang atau yang setara.
+
+d. Beban belajar program doktor terapan di Universitas adalah 90–108 SKS berdasarkan kelinieran dan kesiapan mahasiswa baru yang ditentukan oleh program studi, yang dirancang untuk masa studi normal 6 (enam) semester yang dapat ditempuh dalam waktu minimum 5 (lima) semester, maksimum 10 (sepuluh) semester untuk mahasiswa penuh waktu dan maksimum 11 (sebelas) semester untuk mahasiswa paruh waktu, termasuk tugas akhir baik dalam bentuk disertasi, prototipe, karya, proyek atau bentuk tugas akhir lainnya yang sejenis, yang terdiri dari empat tahap, yaitu: i). Kualifikasi, ii). Penyusunan Proposal Penelitian, iii).Penelitian dan Publikasi, dan iv). Penulisan dan Ujian Tugas Akhir, setelah menempuh kelulusan program magister yang sebidang atau yang setara.
+
+(3) Beban belajar dan masa studi untuk pendidikan profesi sebagai berikut:
+
+a. Beban belajar program profesi di Universitas adalah paling sedikit 36–48 SKS yang dijadwalkan untuk masa studi 2 (dua) semester yang dapat ditempuh dalam waktu minimum 2 (dua) semester dan maksimum 4 (empat) semester setelah menempuh kelulusan dari program sarjana sains terapan sebidang atau program sarjana sebidang atau yang setara dengan keduanya.
+
+b. Beban belajar program spesialis/spesialis satu di Universitas adalah paling sedikit 36 SKS yang dijadwalkan untuk masa studi 4 (empat) semester yang dapat ditempuh dalam waktu minimum 4 (empat) semester dan maksimum 6 (enam) semester setelah menempuh kelulusan dari program profesi sebidang atau yang setara.
+
+c. Beban belajar program subspesialis/spesialis dua di Universitas adalah paling sedikit 42 SKS yang dijadwalkan untuk masa studi 6 (enam) semester yang dapat ditempuh dalam waktu minimum 6 (enam) semester dan maksimum 12 (dua belas) semester setelah menempuh kelulusan dari program spesialis/spesialis satu sebidang atau yang setara.
+
+(4) Beban belajar mahasiswa sesuai rancangan kurikulum program studi dan persyaratan kuota beban studi maksimal berdasarkan IPS (Indeks Prestasi Semester) yang berlaku sesuai IPS satu semester sebelumnya, yaitu dengan ketentuan berikut:
+
+<table>
+<thead>
+<tr>
+<th>Jenjang Pendidikan</th>
+<th>IPS</th>
+<th>Kuota Beban Belajar Maksimum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">Diploma dan Sarjana/Sarjana Terapan</td>
+<td>IPS ≤ 3,00</td>
+<td>20 SKS</td>
+</tr>
+<tr>
+<td>IPS > 3,00</td>
+<td>24 SKS</td>
+</tr>
+<tr>
+<td rowspan="2">Magister/Magister Terapan dan Doktor/Doktor Terapan</td>
+<td>IPS ≤ 3,50</td>
+<td>20 SKS</td>
+</tr>
+<tr>
+<td>IPS > 3,50</td>
+<td>24 SKS</td>
+</tr>
+</tbody>
+</table>
+
+(5) Beban belajar mahasiswa pada semester 1 dan 2 maksimum sebanyak 20 SKS.
+
+(6) Komposisi beban belajar untuk setiap bentuk kegiatan pembelajaran sebagaimana pada ayat (1) sampai ayat (3) diatur dalam aturan kurikulum program studi untuk masing-masing jenjang dan jenis pendidikan akademik, pendidikan vokasi dan pendidikan profesi, yang ditetapkan melalui keputusan rektor tersendiri, sesuai standar dan aturan yang berlaku.
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">Jenjang Pendidikan</th>
+<th colspan="4">Masa Studi (Semester)</th>
+<th rowspan="2">Beban Belajar (SKS)</th>
+</tr>
+<tr>
+<th>Minimum</th>
+<th>Normal</th>
+<th colspan="2">Maksimum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pendidikan Akademik:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1. Program Sarjana</td>
+<td>7</td>
+<td>8</td>
+<td>12</td>
+<td>14</td>
+<td>144 – 160</td>
+</tr>
+<tr>
+<td>2. Program Magister</td>
+<td>3</td>
+<td>4</td>
+<td>6</td>
+<td>7</td>
+<td>54 – 72</td>
+</tr>
+<tr>
+<td>3. Program Doktor</td>
+<td>5</td>
+<td>6</td>
+<td>10</td>
+<td>11</td>
+<td>90 – 108</td>
+</tr>
+<tr>
+<td>Pendidikan Vokasi:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1. Program Diploma Tiga</td>
+<td>6</td>
+<td>6</td>
+<td>8</td>
+<td>10</td>
+<td>108 – 120</td>
+</tr>
+<tr>
+<td>2. Program Sarjana Terapan</td>
+<td>8</td>
+<td>8</td>
+<td>12</td>
+<td>14</td>
+<td>144 – 160</td>
+</tr>
+<tr>
+<td>3. Program Magister Terapan</td>
+<td>3</td>
+<td>4</td>
+<td>6</td>
+<td>7</td>
+<td>54 – 72</td>
+</tr>
+<tr>
+<td>4. Program Doktor Terapan</td>
+<td>5</td>
+<td>6</td>
+<td>10</td>
+<td>11</td>
+<td>90 – 108</td>
+</tr>
+<tr>
+<td>Pendidikan Profesi:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1. Program Profesi</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>≥ 24</td>
+</tr>
+<tr>
+<td>2. Program Spesialis</td>
+<td>4</td>
+<td>4</td>
+<td>6</td>
+<td>6</td>
+<td>≥ 36</td>
+</tr>
+<tr>
+<td>3. Program Subspesialis</td>
+<td>6</td>
+<td>6</td>
+<td>12</td>
+<td>12</td>
+<td>≥ 42</td>
+</tr>
+</tbody>
+</table>
+
+## **Pasal 13 Sistem Semester**
+
+(1) Semester adalah satuan waktu kegiatan yang terdiri atas 16 (enam belas) minggu perkuliahan atau kegiatan yang diekuivalenkan dengan kegiatan tersebut, termasuk di dalamnya kegiatan evaluasi pembelajaran (*assessment*).
+
+(2) Satu tahun akademik terdiri dari 2 (dua), yaitu:
+
+a. Semester Ganjil, dan
+
+b. Semester Genap.
+
+(3) Selain 2 (dua) semester sebagaimana dimaksud pada ayat (2), dapat diselenggarakan 1 (satu) semester antara sesuai dengan kebutuhan.
+
+(4) Kegiatan perkuliahan semester antara sebagaimana dimaksud pada ayat (3) diselenggarakan pada rentang waktu antara semester genap dan semester ganjil. Ketentuan penyelenggaraan semester antara adalah sebagai berikut:
+
+a. Semester antara diselenggarakan sesuai beban belajar mahasiswa untuk memenuhi capaian pembelajaran program studi yang telah ditetapkan.
+
+b. Semester antara diselenggarakan selama paling sedikit 8 (delapan) minggu atau yang diekuivalenkan dengan kegiatan tersebut dengan beban belajar mahasiswa paling banyak 9 (sembilan) SKS.
+
+c. Apabila semester antara diselenggarakan dalam bentuk perkuliahan, tatap muka paling sedikit 16 (enam belas) kali termasuk kegiatan evaluasi pembelajaran (assessment).
+
+d. Semester antara tidak untuk menerima mahasiswa baru atau menetapkan kelulusan yudisium.
+
+## **Pasal 14 Standar Penyelenggaraan Pembelajaran**
+
+(1) Kurikulum sebagaimana dimaksud pada Pasal 1 ayat (10) dikembangkan dengan mengacu pada Standar Nasional Pendidikan Tinggi yang menggunakan pendekatan Outcome Based Education (OBE) dan mencakup pengembangan kecerdasan intelektual, akhlak mulia, dan keterampilan.
+
+(2) Kurikulum di PSDKU sama dengan kurikulum di program studi kampus utama.
+
+(3) Kurikulum pada program diploma tiga wajib memfasilitasi mahasiswa agar dapat melaksanakan kegiatan magang di dunia usaha, dunia industri, dan dunia kerja yang relevan.
+
+(4) Kurikulum pada program sarjana terapan wajib memfasilitasi mahasiswa agar dapat melaksanakan kegiatan magang di dunia usaha, dunia industri, atau dunia kerja yang relevan minimal 1 (satu) semester atau setara dengan 20 (dua puluh) SKS.
+
+(5) Penyelenggaraan pembelajaran dilaksanakan dalam ukuran kelas normal yang merupakan standar penyelenggaraan perkuliahan dengan jumlah mahasiswa sesuai dengan kuota kelas.
+
+(6) Penyelenggaraan pembelajaran mata kuliah dapat dibedakan atas mata kuliah noneksepsi sebagaimana dimaksud Pasal 11 ayat (3) atau mata kuliah eksepsi sebagaimana dimaksud pada Pasal 11 ayat (4).
+
+## **Pasal 15 Kurikulum Outcome Based Education (OBE)**
+
+(1) Kurikulum program studi wajib menggunakan pendekatan OBE sebagaimana dimaksud pada Pasal 14 ayat (1).
+
+(2) Kurikulum OBE sebagaimana yang dimaksud pada ayat (1) bertujuan memastikan keselarasan konstruktif antara profil lulusan (Program Educational Objectives/PEO), capaian pembelajaran lulusan (Program Learning Outcome/PLO atau Expected Learning Outcomes/ELO atau Student Learning Outcome/SLO atau Intended Learning Outcome/ILO), capaian pembelajaran mata kuliah (Course Learning Outcomes/CLO), metode pembelajaran, dan metode asesmen, sebagai bentuk proses perbaikan mutu yang berkelanjutan (continuous quality improvement).
+
+(3) Sebagai implementasi proses perbaikan mutu yang berkelanjutan (continuous quality improvement), program studi melaksanakan kurikulum OBE dengan siklus Plan-Do-Check-Act (PDCA) yang mencakup penetapan target capaian, sistem pembelajaran, sistem penilaian, dan tahap perbaikan (improvement).
+
+(4) Implementasi OBE dengan siklus PDCA, program studi wajib melakukan penilaian dan evaluasi kelulusan CLO dan PLO, serta menghasilkan portofolio dan rapor OBE.
+
+(5) Target capaian kurikulum program studi sebagaimana dimaksud ayat (3) mencakup visi misi, PEO, PLO, dan CLO merupakan dasar dari perencanaan kurikulum OBE.
+
+(6) Sistem pembelajaran sebagaimana dimaksud ayat (3) merupakan bentuk realisasi target capaian kurikulum program studi yang mencakup kurikulum dan silabus, model dan metode pembelajaran, ruang pembelajaran tradisional, ruang pembelajaran digital, program pembelajaran di luar program studi, dan sistem penilaian.
+
+(7) Sistem Penilaian sebagaimana dimaksud ayat (3) memiliki standar penilaian pembelajaran yang merupakan kriteria minimal tentang kegiatan sistematis yang dilakukan untuk menentukan hasil penilaian atas perencanaan dan pelaksanaan, pengendalian proses pembelajaran, serta capaian pembelajaran setelah mahasiswa menjalani proses pembelajaran, yang mencakup penilaian mata kuliah, program studi dan institusional.
+
+(8) Penilaian hasil belajar mahasiswa berbentuk penilaian formatif dan sumatif.
+
+(9) Penilaian formatif sebagaimana dimaksud pada ayat (8) bertujuan untuk memantau perkembangan belajar mahasiswa, memberikan umpan balik agar mahasiswa memenuhi capaian pembelajarannya dan memperbaiki proses pembelajaran.
+
+(10) Penilaian sumatif sebagaimana dimaksud pada ayat (8) bertujuan untuk menilai pencapaian hasil belajar mahasiswa sebagai dasar penentuan kelulusan mata kuliah dan kelulusan program studi, dengan mengacu pada pemenuhan capaian pembelajaran lulusan yang dilakukan dalam bentuk ujian lisan, penilaian proyek, penilaian tugas, ujian tertulis, uji kompetensi, dan/atau bentuk penilaian lain yang sejenis.
+
+(11) Pemilihan bentuk penilaian sebagaimana yang dimaksud pada ayat (9) dan (10) disesuaikan dengan karakteristik capaian pembelajaran yang diukur.
+
+(12) Mekanisme penilaian sebagaimana yang dimaksud pada ayat (11) disosialisasikan kepada mahasiswa di awal perkuliahan.
+
+(13) Hasil sistem penilaian sebagaimana dimaksud ayat (7) dapat menjadi dasar pada tahap perbaikan (improvement) program studi untuk area yang memerlukan penyempurnaan sebagai bentuk proses perbaikan mutu yang berkelanjutan (continuous quality improvement).
+
+(14) Program studi perlu menetapkan standar kelulusan PLO dan CLO sebagai instrumen pengukuran pemenuhan capaian pembelajaran.
+
+(15) Standar kelulusan sebagaimana yang dimaksud pada ayat (14) ditetapkan oleh program studi dengan mempertimbangkan masukan dari konstituen internal dan eksternal.
+
+(16) Dosen pengampu perlu melakukan evaluasi dan mengusulkan rekomendasi perbaikan pada portofolio kelas mata kuliah yang diampu di setiap akhir semester.
+
+(17) Dosen koordinator perlu melakukan evaluasi dan mengusulkan rekomendasi perbaikan pada capaian CLO yang terdokumentasikan dalam portofolio mata kuliah di setiap akhir semester.
+
+(18) Program studi perlu melakukan evaluasi dan menetapkan rekomendasi perbaikan pada capaian CLO dan PLO yang terdokumentasikan dalam portofolio program studi di setiap akhir semester.
+
+(19) Program studi perlu melakukan evaluasi capaian pembelajaran sesuai peta jalan PLO.
+
+(20) Hasil dari evaluasi dan rekomendasi perbaikan CLO dan PLO sebagaimana dimaksud pada ayat (16), (17) dan (18) harus memuat sekurang-kurangnya rekomendasi perbaikan materi pembelajaran, metode pembelajaran, kesesuaian dan kecukupan capaian pembelajaran berdasarkan kebutuhan konstituen internal dan eksternal, serta rekomendasi kebutuhan sumber daya.
+
+(21) Program studi perlu menetapkan tindak lanjut dari hasil evaluasi dan rekomendasi perbaikan pada siklus pembelajaran selanjutnya dan dilaporkan ke Universitas.
+
+## **Pasal 16 Bentuk-Bentuk Kegiatan Pembelajaran**
+
+(1) Pendidikan diselenggarakan dalam SKS yang terdiri dari Bentuk-Bentuk Kegiatan Pembelajaran (BKP) berikut:
+
+a. kuliah, kuliah tutorial, dan responsi/mentoring;
+
+b. kuliah umum dan seminar;
+
+c. praktikum, praktik studio, praktik bengkel dan praktik yang sejenis di laboratorium;
+
+d. penelitian, perancangan, pengembangan, pameran, karya, dan tugas akhir;
+
+e. kerja lapangan/industri, kerja praktik atau magang, pertukaran pelajar, studi proyek independen, bela negara/pelatihan militer, wirausaha, pengabdian kepada masyarakat seperti: membangun desa, kuliah kerja nyata tematik (KKN Tematik), proyek kemanusiaan, dan asistensi mengajar pada satuan pendidikan atau unit tertentu; dan
+
+f. atau bentuk pembelajaran lain.
+
+(2) Bentuk pembelajaran sebagaimana dimaksud pada ayat (1) huruf d adalah kegiatan yang dilakukan menurut kaidah dan metode ilmiah secara sistematis untuk memperoleh informasi, data, dan keterangan yang berkaitan dengan pemahaman dan/atau pengujian suatu cabang pengetahuan, teknologi, dan seni yang dilaksanakan di bawah bimbingan dosen.
+
+(3) Bentuk pembelajaran pengabdian kepada masyarakat sebagaimana dimaksud pada ayat (1) huruf e merupakan kegiatan mahasiswa di bawah bimbingan dosen.
+
+(4) Bentuk pembelajaran sebagaimana dimaksud pada ayat (1) huruf d dan e dilakukan dalam rangka memanfaatkan ilmu pengetahuan, teknologi, dan seni untuk memajukan kesejahteraan masyarakat dan mencerdaskan kehidupan bangsa.
+
+(5) Kegiatan pembelajaran sebagaimana dimaksud pada ayat (1) merupakan kegiatan yang dirancang agar mahasiswa dapat memenuhi CLO sesuai dengan RPS yang dibimbing oleh tenaga pendidik (dosen, asisten dosen/tutor, asisten praktikum, dan mentor).
+
+(6) Pelaksanaan kegiatan pembelajaran sebagaimana dimaksud pada ayat (1) dilaksanakan dengan pendekatan Learner Centered Learning (LCL), kolaboratif dan partisipatif, dan pembelajaran bauran (blended learning) yang telah ditetapkan sesuai RPS mata kuliah agar mahasiswa dapat memenuhi CLO.
+
+## **Pasal 17 Pemenuhan Beban Belajar di Luar Program Studi**
+
+(1) Pemenuhan beban belajar dapat dilakukan di luar program studi dalam bentuk pembelajaran:
+
+a. dalam program studi yang berbeda di dalam Universitas
+
+b. pada unit-unit internal di lingkungan Universitas;
+
+c. dalam program studi yang sama atau program studi yang berbeda pada perguruan tinggi lain; atau
+
+d. pada institusi/lembaga di luar Universitas.
+
+(2) Mahasiswa pada program diploma tiga atau sarjana/sarjana terapan dapat memenuhi sebagian beban belajar di luar program studi dengan ketentuan:
+
+a. 1 (satu) semester atau setara dengan 20 (dua puluh) SKS merupakan pembelajaran pada program studi yang berbeda atau di unit tertentu di Universitas; dan
+
+b. paling lama 2 (dua) semester atau setara dengan 40 (empat puluh) SKS di luar Universitas.
+
+(3) Proses pembelajaran di luar program studi sebagaimana dimaksud pada ayat (1) huruf c, dilaksanakan berdasarkan perjanjian kerja sama antara Universitas dengan perguruan tinggi lain yang terkait dan hasil kuliah diakui melalui mekanisme transfer SKS.
+
+(4) Proses pembelajaran di lembaga luar Universitas sebagaimana dimaksud pada ayat (1) huruf d, dilaksanakan berdasarkan perjanjian kerja sama antara Universitas dengan institusi/ lembaga lain yang terkait dan pelaksanaannya dikoordinasikan oleh unit yang mengelola pembelajaran di luar program studi di Universitas.
+
+(5) Proses pembelajaran di luar program studi dapat ditempuh melalui program *Work Ready Programs* (WRAP).
+
+(6) Proses pembelajaran di luar program studi sebagaimana dimaksud pada ayat (1) merupakan kegiatan dalam program yang dapat ditentukan oleh kementerian dan/atau rektor.
+
+(7) Proses pembelajaran di luar program studi sebagaimana dimaksud pada ayat (1) dilaksanakan di bawah bimbingan dosen.
+
+(8) Mahasiswa mitra peserta program pertukaran pelajar atau bentuk kegiatan pembelajaran di luar program studi lainnya yang bersifat resiprokal sebagaimana dimaksud Pasal 16 ayat (1) huruf e dibebaskan dari segala bentuk kewajiban biaya pendidikan.
+
+(9) Prosedur dan ketentuan pemenuhan beban belajar di luar program studi diatur dalam aturan atau pedoman tersendiri.
+
+## **Pasal 18 Work Ready Programs**
+
+(1) *Work Ready Programs* (WRAP) merupakan program yang dirancang untuk menyiapkan lulusan memiliki profil seorang profesional (*WRAP Internship*), wirausaha (*WRAP Entrepreneurship*) atau peneliti (*WRAP Researchship*) yang siap-kerja dan handal.
+
+(2) WRAP merupakan program yang dapat dilaksanakan mulai semester 6 (enam), merupakan bagian yang tidak terpisahkan dari kurikulum program studi (mata kuliah terkait atau tugas akhir) dan bersifat berkelanjutan dengan beberapa mata kuliah program studi.
+
+(3) WRAP merupakan program yang dapat diambil selama 1 (satu) atau 2 (dua) semester dengan beban belajar 10 (sepuluh) sampai 20 (dua puluh) SKS per semester.
+
+(4) WRAP merupakan program yang dikelola oleh Kelompok Keahlian (KK), UPPS, unit-unit di dalam Universitas (direktorat, pusat-pusat penelitian atau pusat inovasi) yang dapat dikerjasamakan dengan institusi-institusi lain di luar Universitas seperti korporasi, rintisan bisnis, dan lembaga-lembaga penelitian lainnya.
+
+(5) Prosedur dan ketentuan WRAP diatur dalam aturan atau pedoman tersendiri.
+
+## **Pasal 19 Responsi/Mentoring**
+
+(1) Responsi/mentoring adalah kegiatan pembelajaran terstruktur pada program pendidikan akademik yang dibimbing oleh dosen atau asisten/mentor yang bertujuan untuk meningkatkan pemahaman materi kuliah melalui latihan soal, diskusi, atau kegiatan terbimbing lainnya. Responsi/mentoring untuk mata kuliah 2 SKS dapat dijadwalkan maksimal selama 25 (dua puluh lima) menit per minggu, 3 SKS dijadwalkan maksimal selama 50 (lima puluh) menit per minggu, dan untuk mata kuliah 4 SKS dijadwalkan maksimal selama 100 (seratus) menit per minggu, dengan penjadwalan yang digabungkan dengan kegiatan kuliah sebagaimana dimaksud Pasal 11 ayat (3).
+
+(2) Untuk mata kuliah dengan 2 SKS, 3 SKS, dan 4 SKS diberikan responsi/mentoring berdasarkan urgensi kebutuhan yang ditetapkan pada rancangan kurikulum dan silabus mata kuliah, dengan jumlah pertemuan yang ditentukan oleh program studi.
+
+(3) Jika dibantu oleh asisten/mentor, maka materi dan tugas-tugas untuk responsi/mentoring diberikan atau dikoordinasikan oleh dosen pengampu mata kuliah, dengan lingkup yang diupayakan mengarah kepada studi kasus/pekerjaan tim dengan tujuan menumbuh kembangkan softskill mahasiswa.
+
+(4) Kegiatan penilaian dari kegiatan responsi/mentoring dilakukan oleh dosen pengampu mata kuliah sesuai waktu yang ditetapkan dan menjadi bagian penilaian kelulusan mata kuliah yang dikompilasikan dengan hasil penilaian dari kegiatan-kegiatan lainnya.
+(5) Prosedur dan ketentuan responsi/mentoring diatur dalam aturan tersendiri yang ditetapkan oleh UPPS.
+
+## **Pasal 20 Praktikum, Studio, dan Bengkel**
+
+(1) Praktikum, Studio, Bengkel, dan Praktik adalah kegiatan pembelajaran melalui pengalaman untuk menerapkan, menguji atau simulasi suatu keadaan nyata dari hal-hal yang terdapat dalam teori atau konsep.
+
+(2) Pada program pendidikan akademik, mata kuliah praktikum, studio atau bengkel diperlakukan setara dengan mata kuliah lainnya, sehingga mahasiswa yang telah menempuhnya diberikan indikator keberhasilan pembelajaran.
+
+(3) Pada program pendidikan vokasi, praktik merupakan bagian dari perkuliahan yang wajib terjadwal untuk suatu mata kuliah yang dilaksanakan bersamaan dengan kuliah.
+
+(4) Persiapan dan pelaksanaan praktikum, studio, bengkel, dan praktik, dikoordinasikan oleh dosen pengampu dan dibantu oleh laboran dan para asisten.
+
+(5) Evaluasi praktikum, studio, bengkel, dan praktik dilakukan oleh dosen pengampu mata kuliah sesuai waktu yang ditetapkan dan menjadi bagian penilaian kelulusan mata kuliah yang dikompilasikan dengan hasil penilaian dari kegiatan-kegiatan lainnya.
+(6) Peraturan atau pedoman yang lebih rinci mengenai teknis dan prosedur pelaksanaan praktikum, studio, bengkel, dan praktik ditetapkan oleh UPPS.
+
+## **Pasal 21 BKP Kerja Praktik/Kerja Industri**
+
+(1) BKP Kerja Praktik/kerja industri merupakan suatu program yang dirancang untuk memperkenalkan dunia praktik/industri/profesi agar memahami ruang lingkup profil lulusan yang berkesesuaian dengan profil lulusan program studi.
+
+(2) Beban belajar BKP kerja praktik/kerja industri ditentukan oleh pengelola kegiatan BKP berdasarkan RPS. Pelaksanaan BKP ini dapat dilakukan dalam format Rekognisi Pembelajaran Lampau (RPL) kegiatan mahasiswa.
+
+(3) Pelaksanaan BKP kerja praktik/kerja industri dibimbing oleh pembimbing lapangan dari perusahaan/instansi dan pembimbing akademik dari Universitas.
+
+(4) Pembimbing Akademik untuk kegiatan BKP Kerja Praktik/Kerja Industri adalah dosen wali mahasiswa peserta atau dosen yang ditugaskan secara khusus oleh ketua program studi.
+
+(5) Peserta BKP kerja praktik/kerja industri wajib menyusun laporan sebagai bagian dari evaluasi pembelajaran (*assessment*).
+
+(6) Peraturan atau pedoman yang lebih rinci mengenai teknis dan prosedur pelaksanaan kerja praktik/kerja industri ditetapkan oleh UPPS.
+
+## **Pasal 22 Rekognisi Pembelajaran Lampau**
+
+(1) Rekognisi Pembelajaran Lampau (RPL) untuk pengakuan Capaian Pembelajaran (CP) secara parsial dapat dibedakan menjadi:
+
+   a. RPL skema transfer SKS yaitu RPL terhadap hasil belajar yang berasal dari pendidikan formal di program studi pada perguruan tinggi sebelumnya; atau
+
+   b. RPL skema perolehan SKS yaitu RPL yang berasal dari pendidikan nonformal, informal (*sertifikasi*, *microcredential*) dan/atau dari pengalaman kerja setelah lulus jenjang pendidikan menengah atau bentuk lain yang sederajat.
+
+(2) RPL sebagaimana dimaksud pada ayat (1) digunakan untuk permohonan pengakuan kredit untuk konversi SKS/mata kuliah atas CP atau pengalaman kerja yang telah dimiliki seseorang untuk melanjutkan pendidikan ke jenjang yang sesuai.
+
+(3) Program studi tujuan di Universitas telah terakreditasi dan telah memiliki lulusan.
+
+(4) Pengakuan kredit untuk RPL baik jumlah SKS atau mata kuliah ditetapkan oleh komite RPL program studi yang berfungsi sebagai penilai RPL, terdiri dari: ketua program studi, dan minimal 1 (orang) dosen bidang terkait.
+
+(5) Pemohon RPL dapat mengajukan RPL skema transfer SKS dan perolehan SKS secara bersamaan.
+
+(6) Komite RPL program studi sebagaimana dimaksud pada ayat (4) memiliki tugas untuk:
+
+ a. melakukan penilaian kepada pemohon RPL;
+
+ b. menetapkan konversi nilai sesuai standar mutu program studi;
+
+ c. pengakuan atas keberlakuan kompetensi hasil belajar RPL yang dimiliki;
+
+ d. menetapkan masa kerja minimum untuk pengajuan RPL skema perolehan SKS yang berasal dari pengalaman kerja; dan
+
+ e. menentukan jumlah SKS yang dapat dikonversi.
+
+(7) Persyaratan pemohon RPL untuk melanjutkan studi di Universitas:
+
+ a. Untuk pendidikan formal (RPL skema transfer SKS) adalah lulusan pendidikan formal minimal Sekolah Menengah Atas (SMA) atau sederajat dan pernah menempuh pendidikan tinggi yang dibuktikan dengan ijazah/transkrip/surat keterangan dari perguruan tinggi sebelumnya.
+
+ b. Untuk pendidikan nonformal, informal dan/atau dari pengalaman kerja (RPL skema perolehan SKS) adalah lulusan pendidikan formal minimal SMA atau sederajat dengan pengalaman kerja mandiri atau terstruktur serta relevan dengan program studi yang ditempuh.
+
+(8) RPL sebagaimana dimaksud pada ayat (1) dilakukan melalui tahapan:
+
+ a. Pendaftaran;
+
+ b. Penilaian; dan
+
+ c. Rekognisi SKS.
+
+(9) Jumlah SKS mata kuliah maksimum yang dapat direkognisi pemohon RPL adalah sebesar 70% SKS mata kuliah dari program studi tujuan.
+
+(10) Penentuan masa studi mahasiswa RPL dihitung berdasarkan beban studi yang harus ditempuh di Universitas sesuai hasil rekognisi SKS, yaitu apabila ditempuh dengan beban normal 20 (dua puluh) SKS per semester yang dihitung menggunakan pembulatan ke atas ditambah dengan masa perpanjangan maksimal dua semester melalui sidang akademik UPPS.
+
+(11) Pelaksanaan pembelajaran beban belajar yang tidak dapat direkognisi sebagaimana dimaksud pada ayat (8) huruf c dapat menggunakan berbagai kombinasi BKP sebagaimana dimaksud Pasal 16 ayat (1).
+
+(12) Penilaian sebagaimana dimaksud pada ayat (8) huruf b harus terjamin kerahasiaan, kesahihan, dan keterpercayaan, serta dapat dibandingkan dengan cara penilaian atas kelulusan suatu mata kuliah.
+
+(13) Hasil atas pengakuan CP melalui penilaian dan rekognisi dinyatakan dengan nilai indeks.
+
+(14) Hasil penilaian ditetapkan melalui keputusan rektor yang memuat jumlah sks yang diakui, mata kuliah yang diakui beserta nilai indeks.
+
+(15) Tahapan pelaksanaan RPL sebagaimana dimaksud pada ayat (8) secara lebih rinci dalam panduan RPL Universitas.
+
+## **Pasal 23 RPL Skema Transfer SKS**
+
+(1) Skema transfer SKS sebagaimana dimaksud pada pasal 22 Ayat (1) huruf a mencakup:
+
+a. Alih jenjang dari program pendidikan vokasi ke program pendidikan akademik.
+
+b. Pindahan antar program pendidikan vokasi maupun akademik.
+
+c. Pindahan program studi di dalam atau dari luar Universitas.
+
+(2) Persyaratan transfer SKS:
+
+a. Program studi asal terakreditasi setara atau lebih tinggi dari program studi tujuan.
+
+b. Mata Kuliah yang ditransferkreditkan memenuhi syarat ekuivalensi isi dan referensi dengan batas minimal 75% dari CLO di program studi yang akan dituju.
+
+c. Menyertakan transkrip dan rubrikasi nilai dari perguruan tinggi asal.
+
+d. Status sebagai mahasiswa aktif terakhir di perguruan tinggi sebelumnya tidak melebihi dari 2 (dua) tahun dari pengajuan.
+
+e. Calon mahasiswa RPL skema transfer SKS, program studi asal yang bersangkutan, dan nilai mata kuliah yang ditransferkreditkan tercatat pada sistem PDDikti.
+
+f. Mata kuliah dan nilai mata kuliah yang ditransferkreditkan menjadi syarat wajib penerimaan mahasiswa program transfer kredit di program studi tujuan.
+
+g. Mahasiswa yang berasal dari perguruan tinggi luar negeri diwajibkan telah mendapatkan dokumen penyetaraan ijazah dan transkrip akademik dari Direktorat Jenderal Pendidikan Tinggi Kementerian Pendidikan dan Kebudayaan Republik Indonesia.
+
+h. UPPS tujuan atas pertimbangan Komite RPL program studi dapat memberikan pengecualian untuk ayat (2) huruf a dengan tetap memperhatikan standar penjaminan mutu.
+
+j. Apabila ayat (2) huruf a, c, dan d tidak terpenuhi maka program studi tujuan dapat meminta persetujuan atau rekomendasi dari Universitas.
+
+(3) Persyaratan alih jenjang dari program pendidikan vokasi ke program pendidikan akademik sebagaimana ayat (1) huruf (a):
+
+a. Mahasiswa yang lulus program alih jenjang wajib menaati ketentuan registrasi baru dan menerima penetapan beban studi yang harus ditempuh di Universitas sesuai hasil ekuivalensi oleh komite RPL program studi.
+
+b. Mahasiswa yang lulus program alih jenjang wajib mengikuti mata kuliah matrikulasi (apabila diselenggarakan program studi) sebagai bentuk penyetaraan kompetensi pendidikan vokasi ke pendidikan akademik.
+
+(4) Persyaratan pindahan antar program pendidikan vokasi maupun akademik sebagaimana ayat (1) huruf (b) dan huruf (c):
+
+a. Mahasiswa yang mengajukan pindah antar program pendidikan vokasi maupun akademik bukan merupakan mahasiswa yang bermasalah, seperti terkena sanksi akan dikeluarkan, sedang dalam status percobaan, dan lain-lain.
+
+b. Mahasiswa yang bermaksud pindah antar program diploma tiga dan sarjana/sarjana terapan harus sudah mengikuti perkuliahan secara aktif selama sedikitnya 2 (dua) semester dengan IPK minimal 3.00.
+
+c. Mahasiswa yang bermaksud pindah antar program studi pada jenjang magister harus sudah mengikuti perkuliahan secara aktif selama sedikitnya 1 (satu) semester dengan IPK minimal 3.00.
+
+d. Permohonan pindah antar program pendidikan vokasi maupun akademik di dalam Universitas disetujui oleh orang tua, dosen wali, ketua program studi dan dekan dari program studi asal mahasiswa yang bersangkutan, serta telah disetujui oleh ketua program studi dan pimpinan UPPS tujuan.
+
+e. Sebagai data pendukung proses perpindahan antar program pendidikan vokasi maupun akademik di dalam Universitas, permohonan harus dilampiri hasil pemeriksaan psikologi yang diselenggarakan oleh unit yang menyelenggarakan layanan konseling di Universitas atau lembaga psikologi yang diakui/disetujui oleh Universitas.
+
+f. Mahasiswa yang lulus pindahan antar program vokasi maupun akademik wajib menaati ketentuan registrasi baru dan menerima penetapan beban studi yang harus ditempuh di Universitas sesuai hasil ekuivalensi mata kuliah yang telah disetujui Komite RPL.
+
+h. Pelaksanaan pindah antar program pendidikan vokasi maupun akademik hanya dapat dilakukan setelah mahasiswa selesai proses perpindahan sebelum masa awal registrasi tahun akademik yang direncanakan.
+
+i. Perpindahan antar program pendidikan vokasi maupun akademik hanya dimungkinkan satu kali selama menempuh studi di Universitas.
+
+## **Pasal 24 RPL Skema Perolehan SKS**
+
+(1) Metode pengakuan untuk RPL terhadap hasil belajar yang berasal dari pendidikan nonformal, informal, dan/atau pengalaman kerja di perguruan tinggi dilakukan melalui proses penilaian dan rekognisi oleh komite RPL program studi tujuan.
+
+(2) Penilaian sebagaimana dimaksud pada ayat (1) adalah proses mengumpulkan bukti dan membuat penilaian apakah seseorang telah mencapai kompetensi tertentu sesuai dengan CP dari program studi yang akan ditempuh.
+
+(3) Rekognisi sebagaimana dimaksud pada ayat (1) adalah proses memperoleh sebuah surat keputusan dari rektor tentang pengakuan sejumlah SKS pada program studi tujuan.
+
+(4) Proses penilaian sebagaimana dimaksud pada ayat (2) terdiri dari tiga tahapan proses yaitu:
+
+a. Evaluasi diri calon peserta;
+
+b. Wawancara dengan penilai RPL; dan/atau
+
+c. Mendemonstrasikan pengetahuan dan keterampilan (jika dibutuhkan).
+
+(5) Penilaian melalui evaluasi diri calon peserta sebagaimana dimaksud pada ayat (4) huruf a dan wawancara sebagaimana dimaksud pada ayat (4) huruf b, dapat dijadikan dasar bagi penilai RPL untuk merekomendasikan hasil RPL. Jika dinilai masih kurang dan masih diperlukan bukti lainnya maka penilai RPL dapat melanjutkan proses penilaian ke tahapan mendemonstrasikan pengetahuan dan keterampilan sebagaimana dimaksud pada ayat (4) huruf c.
+
+(6) Maksud dari proses evaluasi diri calon peserta sebagaimana dimaksud ayat (4) huruf a adalah:
+
+a. Pemohon diberikan kesempatan untuk menentukan profesiensi pengetahuan dan keterampilan yang telah dimiliki, baik dari pendidikan nonformal, informal, maupun dari pengalaman kerja di industri yang relevan;
+
+b. Pemenuhan kriteria CP dari mata kuliah pada program studi yang akan ditempuh harus diverifikasi dan divalidasi sesuai prinsip bukti sahih/valid, autentik, terkini, dan memadai.
+
+(7) Maksud dari proses wawancara dengan penilai RPL sebagaimana dimaksud pada ayat (4) huruf b adalah:
+
+a. Pemohon dan penilai RPL melakukan percakapan professional tentang pengetahuan dan keterampilan yang dibutuhkan;
+
+b. Wawancara dapat berupa serangkaian pertanyaan langsung atau berupa daftar topik untuk diskusi yang diambil dari daftar keterampilan dan pengetahuan yang dibutuhkan.
+
+(8) Maksud dari proses mendemonstrasikan pengetahuan dan keterampilan sebagaimana dimaksud pada ayat (4) huruf c adalah:
+
+a. Mengamati dan menilai kinerja pemohon dalam mendemonstrasikan pengetahuan dan keterampilan pada CP mata kuliah yang akan direkognisi;
+
+b. Metode yang dilakukan dapat berupa bertanya (penilaian tertulis), memberikan tugas terstruktur atau tugas praktik, atau observasi di tempat kerja pemohon.
+
+(9) Bukti untuk proses penilaian harus sahih/valid, autentik, memadai, dan masa keberlakuan kompetensi disesuaikan dengan perkembangan bidang keilmuan program studi tujuan, serta dapat dikumpulkan dari berbagai sumber yang diperoleh secara langsung, tidak langsung dan sumber tambahan lainnya.
+
+(10) Metode penilaian tergantung pada bagaimana bukti akan dikumpulkan dan kriteria capaian pembelajaran atau kriteria kompetensi yang akan dinilai.
+
+## **Pasal 25 Tugas Akhir**
+
+(1) Tugas Akhir sebagaimana dimaksud pada pasal 16 Ayat (1) huruf d adalah hasil karya akhir yang wajib disusun oleh seorang mahasiswa sebagai salah satu syarat penyelesaian pendidikan pada program diploma tiga, sarjana/sarjana terapan, magister/magister terapan, dan doktor/doktor terapan di lingkungan Universitas, yang ditujukan bagi capaian kompetensi lulusan, antara lain sebagaimana disebutkan pada Pasal 5.
+
+(2) Tugas Akhir merupakan mata kuliah akhir dari beberapa mata kuliah yang berkaitan.
+
+(3) Tugas Akhir pada program diploma tiga dapat diberikan dalam bentuk prototipe, proyek, atau bentuk tugas akhir lainnya yang sejenis, baik secara individu maupun berkelompok.
+
+(4) Tugas Akhir pada program sarjana/sarjana terapan dapat diberikan dalam bentuk skripsi, prototipe, proyek, karya, startup atau pengembangan bisnis, atau bentuk tugas akhir lainnya yang sejenis baik secara individu maupun berkelompok.
+
+(5) Tugas Akhir pada program magister/magister terapan dapat diberikan dalam bentuk tesis, prototipe, proyek, atau bentuk tugas akhir lainnya yang sejenis.
+
+(6) Tugas Akhir pada program doktor/doktor terapan dapat diberikan dalam bentuk disertasi, prototipe, proyek, atau bentuk tugas akhir lainnya yang sejenis.
+
+(7) Bentuk tugas akhir sebagaimana dimaksud pada ayat (3), (4), (5), dan (6) dapat berupa:
+
+a. skripsi, dapat berupa hasil penelitian serta pemecahan masalah yang dihadapi atau produk yang dilakukan secara sistematis melalui kegiatan analisis, yang dilaporkan dalam karya tulis ilmiah;
+
+b. tesis, dapat berupa hasil penelitian empiris yang dijadikan sebagai bahan kajian akademis yang disusun dalam bentuk karya ilmiah;
+
+c. disertasi, dapat berupa hasil penelitian yang berkaitan dengan penemuan baru (kebaruan) yang didukung dengan fakta empiris untuk menggali permasalahan secara mendalam dan spesifik;
+
+d. prototipe, dapat berupa hasil produk yang dilakukan secara sistematis terdaftar Hak Kekayaan Intelektual (HKI) yang dilaporkan dalam laporan individu atas hasil produk;
+
+e. proyek, dapat berupa hasil produk atau hasil proyek yang dilakukan secara sistematis dengan sasaran untuk menyelesaikan permasalahan di masyarakat yang dilaporkan dalam laporan individu atas hasil proyek;
+
+f. karya, dapat berupa visual desain, produk, kriya, atau karya lainnya yang diakui oleh masyarakat dan/ atau pakar seni serta dilaporkan dalam laporan individu atas hasil karya;
+
+g. startup atau pengembangan bisnis; dan
+
+h. bentuk tugas akhir lainnya yang dapat menunjukkan capaian kompetensi lulusan program studi.
+
+(8) Pengujian tugas akhir berbentuk prototipe, proyek, karya, dan bentuk tugas akhir lainnya dilaksanakan dalam bentuk presentasi, seminar, pameran, atau bentuk lainnya yang sesuai.
+
+## **Pasal 26 Tugas Akhir pada Diploma Tiga dan Sarjana/Sarjana Terapan**
+
+(1) Pelaksanaan tugas akhir dapat dilakukan secara mandiri maupun berkelompok.
+
+(2) Pada tugas akhir berkelompok:
+
+a. jumlah anggota kelompok dapat disesuaikan dengan efektivitas pengerjaan dan kompleksitas tugas akhir atas persetujuan program studi atau tim dosen program studi.
+
+b. setiap anggota mengambil judul yang merupakan bagian dari satu tema besar dan membuat laporan masing-masing dengan memperlihatkan keterkaitan antar anggota kelompok.
+
+(3) Pembimbing tugas akhir terdiri dari pembimbing satu dan dapat dibantu oleh pembimbing dua dengan persyaratan mengacu pada ketentuan standar dan regulasi nasional pendidikan tinggi, yaitu:
+
+a. Pembimbing satu adalah dosen tetap yang minimal berpendidikan S-2 dengan jabatan akademik minimal Asisten Ahli (AA) pada bidang keahlian yang linier dengan program studi.
+
+b. Pembimbing dua adalah dosen yang minimal berpendidikan S-2 dengan jabatan akademik minimal AA dengan bidang keahlian linier/mendukung topik tugas akhir, atau dapat berasal dari praktisi yang berpengalaman pada bidang yang sesuai dengan topik tugas akhir dan disetujui oleh pembimbing satu atau program studi.
+
+(4) Asesmen tugas akhir dapat berupa sidang atau bentuk lainnya yang ditetapkan oleh UPPS.
+
+(5) Asesmen tugas akhir dalam bentuk sidang dilaksanakan oleh dua orang penguji, dengan salah satu penguji bertugas sebagai ketua sidang dan penguji lain serta pembimbing sebagai anggota.
+
+(6) Penguji tugas akhir dalam bentuk sidang terdiri atas dua orang dosen, yaitu:
+
+a. Ketua Sidang minimal berpendidikan S-2 dan memiliki jabatan akademik minimal AA;
+
+b. dengan anggota minimal berpendidikan S-2 dan memiliki jabatan akademik minimal AA atau dapat berasal dari praktisi yang memiliki kompetensi keahlian relevan dengan topik tugas akhir.
+
+## **Pasal 27 Tugas Akhir pada Magister/Magister Terapan**
+
+(1) Perencanaan, monitoring dan evaluasi pelaksanaan tugas akhir dikelola oleh tim *ad-hoc* yang terdiri dari :
+
+a. Ketua Program Studi,
+
+b. Dosen Pembimbing,
+
+c. Dosen Penguji, dan
+
+d. Perwakilan KK yang telah memenuhi kualifikasi dan berpendidikan S-3.
+
+(2) Tugas Akhir dapat dibimbing oleh 1 (satu) atau 2 (dua) pembimbing dengan persyaratan yang mengacu pada ketentuan standar dan regulasi nasional pendidikan tinggi, yaitu:
+
+a. Pembimbing satu adalah dosen tetap yang berpendidikan S-3 dengan jabatan akademik minimal Lektor (L) dan memiliki bidang keahlian yang linier dengan program studi.
+
+b. Pembimbing dua adalah dosen yang berpendidikan S-3 dengan jabatan akademik minimal AA dan memiliki bidang penelitian yang linier dengan program studi, atau praktisi yang berpendidikan minimal S-2 dengan pengalaman kerja minimal 5 (lima tahun) di sebuah industri atau institusi pada bidang keahlian yang mendukung topik penelitian dari tugas akhir mahasiswa, atau dapat berasal dari praktisi pada suatu komunitas yang memiliki kredibilitas pada bidang keahliannya yang sesuai dengan topik penelitian dari tugas akhir mahasiswa.
+
+(3) Asesmen tugas akhir dapat berupa sidang atau bentuk lainnya yang ditetapkan oleh UPPS.
+
+(4) Asesmen tugas akhir dalam bentuk sidang dilaksanakan oleh minimal dua orang penguji dan dosen pembimbing, dengan salah satu penguji bertugas sebagai ketua sidang.
+
+(5) Asesmen tugas akhir dalam bentuk sidang terdiri atas minimal dua orang dosen, yaitu:
+
+a. Ketua sidang minimal berpendidikan S-3 dengan jabatan akademik minimal Lektor (L);
+
+b. Anggota penguji minimal berpendidikan S-3 dengan jabatan akademik minimal AA, atau praktisi yang memiliki kompetensi keahlian yang relevan dengan topik tugas akhir.
+
+(6) Selama masa studi, evaluasi tugas akhir terdiri dari tiga tahap:
+
+a. Sidang proposal tugas akhir;
+
+b. Sidang kemajuan tugas akhir;
+
+c. Sidang tugas akhir.
+
+(7) Pelaksanaan persidangan Tugas Akhir sebagaimana pada Ayat (6) diatur dalam ketentuan terpisah.
+
+## **Pasal 28 Tugas Akhir pada Doktor/Doktor Terapan**
+
+(1) Perencanaan, monitoring dan evaluasi pelaksanaan tugas akhir dikelola oleh tim *ad-hoc* yang terdiri dari :
+
+a. Ketua Program Studi,
+
+b. Dosen Pembimbing,
+
+c. Dosen Penguji, dan
+
+d. Perwakilan KK yang telah memenuhi kualifikasi dan berpendidikan S-3.
+
+(2) Pembimbing tugas akhir terdiri dari pembimbing satu sebagai promotor serta pembimbing dua dan/atau pembimbing tiga sebagai ko-promotor dengan persyaratan yang mengacu pada ketentuan standar dan regulasi nasional pendidikan tinggi, yaitu:
+
+a. Pembimbing satu adalah dosen tetap dengan jabatan akademik Guru Besar (GB) atau Lektor Kepala (LK) yang berpendidikan S-3 dan memiliki bidang keahlian yang linier dengan program studi, dimana dalam 5 (lima) tahun terakhir telah menghasilkan paling sedikit 1 (satu) karya ilmiah pada jurnal internasional bereputasi.
+
+b. Pembimbing dua adalah dosen yang berpendidikan S-3 dengan jabatan akademik minimal Lektor (L) dan memiliki bidang keahlian yang linier dengan program studi, dimana dalam 5 (lima) tahun terakhir telah menghasilkan paling sedikit 1 (satu) karya ilmiah pada jurnal internasional bereputasi atau sesuai aturan yang berlaku di UPPS.
+
+c. Pembimbing tiga dapat berasal dari praktisi yang berpendidikan S-3 dengan pengalaman kerja minimal 5 (lima) tahun di sebuah industri atau institusi pada bidang keahlian yang mendukung topik penelitian dari tugas akhir mahasiswa.
+
+(3) Selama masa studi program doktor, tahapan sidang penelitian tugas akhir dapat meliputi:
+
+a. Tahap kualifikasi, dapat terdiri atas sidang draf proposal penelitian atau sidang komprehensif;
+
+b. Tahap proposal, dapat terdiri atas sidang proposal penelitian;
+
+c. Tahap penelitian dan publikasi, dapat terdiri atas sidang laporan kemajuan penelitian I, II dan III, dan
+
+d. Tahap ujian tugas akhir, dapat terdiri atas sidang promosi tertutup dan/atau sidang promosi terbuka.
+
+(4) Sidang pada tahap kualifikasi dapat didorong untuk diikutsertakan dalam kolokium pada keilmuan sebidang yang diselenggarakan oleh suatu perguruan tinggi penyelenggara.
+
+(5) Pengujuan untuk tahap sidang penelitian tugas akhir pada ayat (3) huruf a, b, dan c dilaksanakan oleh:
+
+a. Tiga orang penguji dari bidang ilmu yang memiliki kesesuaian dengan topik Tugas Akhir, dengan kualifikasi minimal Lektor Kepala (LK).
+
+b. Para pembimbing sebagaimana pada Ayat (2).
+
+(6) Pengujuan untuk tahap sidang penelitian tugas akhir pada Ayat (3) huruf d dilaksanakan oleh para pembimbing dan penguji sebagaimana pada Ayat (5) ditambah dengan:
+
+a. seorang Guru Besar dari bidang ilmu lain;
+
+b. dan seorang penguji dari eksternal Universitas dengan kualifikasi doktor yang berprofesi sebagai praktisi pada bidang yang relevan disertasi tersebut.
+
+(7) Pelaksanaan persidangan tugas akhir sebagaimana pada ayat (3) diatur dalam ketentuan terpisah.
+
+## **Pasal 29 Kewajiban Laporan Tugas Akhir dan Publikasi Ilmiah**
+
+(1) Laporan tugas akhir untuk memenuhi persyaratan kelulusan studi di Universitas merupakan laporan tertulis dan diterbitkan yang memaparkan hasil penelitian, kajian, hasil karya seni atau desain sesuai dengan pasal 25 ayat (3), (4), (5) dan (6) yang telah dilakukan pada tahap akhir dengan memenuhi kaidah dan etika keilmuan dan etika publikasi.
+
+(2) Laporan tugas akhir merupakan hasil karya ilmiah yang bersifat otentik (bukan buatan pihak lain atau merupakan hasil luaran dari program kecerdasan buatan) dan harus bebas dari unsur plagiat. Apabila terbukti mengandung unsur plagiat maka akan diberikan sanksi sesuai dengan hasil putusan komite disiplin UPPS dengan sanksi terberat pembatalan kelulusan dan atau pemberhentian dari status sebagai mahasiswa. Jika plagiat terbukti dilakukan setelah mahasiswa dinyatakan lulus, akan diberlakukan pencabutan ijazah bagi mahasiswa tersebut.
+
+(3) Laporan tugas akhir dan publikasi ilmiah ditujukan untuk:
+
+a. Membangun budaya positif di lingkungan Universitas, yaitu:
+
+i. Budaya membaca; menumbuhkan minat membaca bagi mahasiswa dan dosen,
+
+ii. Budaya menulis; memotivasi minat menulis mahasiswa dan dosen,
+
+iii. Budaya jujur, membangun budaya jujur yaitu anti plagiat,
+
+iv. Budaya berbagi; membiasakan diri untuk mempublikasikan karya ilmiah,
+
+v. Budaya menghargai orang lain; mengapresiasi karya orang lain dan
+
+vi. Budaya analitis; menumbuhkan kemampuan analitis.
+
+b. Menampung hasil-hasil penelitian dan atau konsep ilmiah dalam disiplin ilmu tertentu.
+
+(4) Laporan tugas akhir sebagaimana disebutkan pada ayat (1) harus memenuhi kriteria minimal sebagai berikut:
+
+a. Memenuhi kaidah ilmiah, sekurang-kurangnya memuat latar belakang, rumusan masalah, pemecahan masalah, dukungan teori, kesimpulan, dan rekomendasi;
+
+b. Substansi masalah harus relevan dengan bidang ilmu yang terkait dengan program studi.
+
+(5) Pilihan kelengkapan tugas akhir perlu mencakup tetapi tidak terbatas pada:
+
+<table>
+  <tr>
+    <th>Jenjang Pendidikan</th>
+    <th>Bentuk Tugas Akhir</th>
+    <th colspan="3">Kelengkapan Tugas Akhir</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <th>Asesmen</th>
+    <th>Laporan</th>
+    <th>Publikasi</th>
+  </tr>
+  <tr>
+    <td>Diploma Tiga</td>
+    <td>- Prototipe<br>- Proyek<br>- Karya<br>- Startup<br>- dan bentuk lainnya yang ditetapkan oleh UPPS</td>
+    <td>- Presentasi kepada Industri dan Pembimbing - Sidang - LoA publikasi</td>
+    <td>- Laporan prototipe<br>- Laporan proyek<br>- Laporan karya<br>- Laporan startup</td>
+    <td>- Publikasi internal Universitas: Openlib (terbuka/tertutup) atau UPPS/program studi - Publikasi eksternal Universitas</td>
+  </tr>
+  <tr>
+    <td>Sarjana Terapan</td>
+    <td>- Prototipe<br>- Proyek<br>- Karya<br>- Startup<br>- dan bentuk lainnya yang ditetapkan oleh UPPS</td>
+    <td>- Sidang<br>- LoA publikasi</td>
+    <td>- Laporan prototipe<br>- Laporan proyek<br>- Laporan karya<br>- Laporan kinerja</td>
+    <td>- Publikasi internal Universitas: Openlib (terbuka/tertutup) atau UPPS/program studi - Publikasi eksternal Universitas</td>
+  </tr>
+  <tr>
+    <td>Sarjana</td>
+    <td>- Skripsi<br>- Prototipe<br>- Proyek<br>- Karya<br>- dan bentuk lainnya yang ditetapkan oleh UPPS</td>
+    <td>- Sidang<br>- LoA publikasi<br>- Pameran<br>- Seminar</td>
+    <td>- Buku skripsi<br>- HKI<br>- Laporan prototipe<br>- Laporan proyek<br>- Laporan karya</td>
+    <td>- Publikasi internal Universitas: Openlib (terbuka/tertutup) atau UPPS/program studi - Publikasi eksternal Universitas</td>
+  </tr>
+  <tr>
+    <td>Magister/Magister Terapan</td>
+    <td>- Tesis<br>- Prototipe<br>- Proyek<br>- Karya<br>- Studi kasus<br>- dan bentuk lainnya yang ditetapkan oleh UPPS</td>
+    <td>- Sidang Tesis<br>- Presentasi Prototipe<br>- Presentasi Proyek<br>- Presentasi Karya<br>- LoA Publikasi</td>
+    <td>- Buku Tesis<br>- Laporan Prototipe<br>- Laproran Proyek<br>- Laporan Karya</td>
+    <td>- Publikasi internal Universitas: Openlib (terbuka/tertutup) atau UPPS/program studi - Publikasi eksternal Universitas</td>
+  </tr>
+  <tr>
+    <td>Doktor/Doktor Terapan</td>
+    <td>- Disertasi<br>- Prototipe<br>- Proyek<br>- Karya<br>- dan bentuk lainnya yang ditetapkan oleh UPPS</td>
+    <td>- Sidang Disertasi<br>- Presentasi Prototipe<br>- Presentasi Proyek<br>- Presentasi Karya<br>- LoA Publikasi</td>
+    <td>- Buku Disertasi<br>- Laporan Prototipe<br>- Laproran Proyek<br>- Laporan Karya</td>
+    <td>- Publikasi internal Universitas: Openlib (terbuka/tertutup) atau UPPS/program studi - Publikasi eksternal Universitas</td>
+  </tr>
+</table>
+
+(6) Mekanisme dan persyaratan kewajiban publikasi ilmiah diatur dalam ketentuan terpisah Universitas.
+
+## **Pasal 30 Program Fast Track**
+
+(1) Program *fast track* adalah program percepatan pendidikan bagi mahasiswa unggulan untuk dapat menempuh 2 (dua) jenjang pendidikan sekaligus:
+
+a. dari jenjang pendidikan sarjana/sarjana terapan ke jenjang pendidikan magister/magister terapan yang dapat diselesaikan dalam waktu 10 (sepuluh) semester, atau
+
+b. dari jenjang pendidikan magister/magister terapan ke jenjang pendidikan doktor/doktor terapan yang dapat diselesaikan dalam waktu 8 (delapan) semester.
+
+(2) Mekanisme program *fast track*:
+
+a. Program *fast track* sarjana/sarjana terapan ke jenjang magister/magister terapan dilaksanakan pada tahun keempat (tingkat-4) di program pendidikan sarjana/sarjana terapan.
+
+b. Program *fast track* magister/magister terapan ke jenjang pendidikan doktor/doktor terapan dilaksanakan pada tahun kedua (tingkat-2) di program pendidikan magister/magister terapan.
+
+(3) Beban belajar program pendidikan magister/magister terapan dan doktor/doktor terapan yang harus diambil pada saat menempuh pendidikan sarjana/sarjana terapan dan magister/magister terapan dapat berkisar antara 9 (sembilan) sampai dengan 18 (delapan belas) SKS.
+
+(4) Persyaratan dan kewajiban mengikuti program *fast track* diatur dalam ketentuan terpisah.
+
+## **Pasal 31 Program Pendidikan Internasional**
+
+(1) Program Pendidikan Internasional terdiri dari: kelas internasional, Program Gelar Bersama Internasional (*international joint degree*), dan Program Gelar Ganda Internasional (*international double degrees*) sebagaimana pada pasal 1 ayat (7) huruf a, b dan c.
+
+(2) Program gelar bersama (*international joint degree*) diatur dengan ketentuan sebagai berikut:
+
+a. Program gelar bersama diselenggarakan oleh Universitas dengan perguruan tinggi mitra di luar negeri untuk program sejenis pada pendidikan akademik, pendidikan vokasi maupun pendidikan profesi.
+
+b. Lulusan program gelar bersama memperoleh ijazah, gelar akademik atau vokasi dari Universitas dan perguruan tinggi mitra.
+
+c. Persyaratan untuk memperoleh ijazah dan gelar bersama harus memiliki kesamaan beban studi paling sedikit 50%.
+
+d. Untuk dapat menyelenggarakan program gelar bersama (*joint degree*), program studi penyelenggara terakreditasi unggul/internasional dan program studi mitra di luar negeri minimal terakreditasi baik di negaranya.
+
+(3) Program gelar ganda (*international double degrees*) diatur dengan ketentuan sebagai berikut:
+
+a. Mahasiswa yang mengikuti program gelar ganda reguler harus telah menempuh minimum 25% dari total beban SKS beban studi awal dengan IPK minimum 3,51.
+
+b. Program gelar ganda dapat diselenggarakan apabila kedua program memiliki kesamaan minimum 50% dari seluruh beban studi.
+
+c. Lulusan program gelar ganda memperoleh dua ijazah dari Universitas dan perguruan tinggi mitra kerja sama.
+
+d. Untuk dapat menyelenggarakan program gelar ganda (*double degrees*), program studi penyelenggara terakreditasi unggul/internasional dan program studi mitra di luar negeri minimal terakreditasi baik di negaranya.
+
+(4) Penyelenggaraan program gelar bersama (*joint degree*) dan program gelar ganda (*double degrees*) harus didasarkan pada izin yang telah diberikan oleh pemerintah yang berwenang. Dalam rangka rintisan program pendidikan internasional, program studi didorong untuk menyelenggarakan sebagian perkuliahan pada sejumlah kelas dengan menggunakan bahasa Inggris sebagai bahasa pengantar (*english based class*).
+
+(5) Beban studi, capaian kompetensi dan cakupan isi pembelajaran, penjaminan mutu penyelenggaraan dan standar penilaian terhadap capaian kompetensi pembelajaran pada program pendidikan internasional diwajibkan menggunakan ketentuan sama atau setara dengan yang berlaku pada program studi reguler dalam bidang keilmuan yang sama, berikut pemberlakuan persyaratan kelulusan studi, termasuk kewajiban publikasi ilmiah.
+
+(6) Penyelenggaraan program pendidikan internasional dapat dikelola secara khusus, namun tetap diwajibkan menginduk dan terkoordinasi pada program pendidikan reguler, sehingga program pendidikan internasional pada suatu bidang keilmuan tidak dapat diselenggarakan apabila tidak terdapat program studi reguler pada bidang keilmuan yang bersangkutan.
+
+## **Pasal 32 Perkuliahan pada Kelas Internasional**
+
+(1) Karakteristik perkuliahan di kelas internasional sebagaimana dimaksud pada pasal (1) ayat (7) huruf (a) adalah sebagai berikut:
+
+a. Seluruh proses kegiatan pembelajaran dilaksanakan dengan menggunakan Bahasa Inggris sebagai bahasa pengantar pada penyelenggaraan semua mata kuliah, kecuali Mata Kuliah Wajib Kurikulum (MKWK).
+
+b. Pengelola, dosen dan mahasiswa wajib berbahasa Inggris di English Speaking Zone (ESZ);
+
+c. Cakupan ESZ sekurang-kurangnya adalah di seluruh lantai dan atau gedung yang digunakan untuk penyelenggaraan perkuliahan, kegiatan kemahasiswaan, dan administrasi kelas internasional;
+
+d. Perkuliahan di dalam kelas dapat digantikan dengan international company visit, international edutrip, international general lecture, international internship, dan international certification sebagaimana Pasal 1 ayat (7) huruf e, f, g, h, dan i dalam bidang dan materi yang sesuai dengan kurikulum.
+
+(2) Universitas memberikan bantuan penguatan kemampuan berbahasa Inggris, bagi mahasiswa yang memerlukannya, dengan cara:
+
+a. Selama satu tahun pertama, mahasiswa mendapatkan pendampingan peningkatan bahasa Inggris dari Pusat Bahasa Universitas;
+
+b. Hal-hal yang bersifat tambahan dalam program penguatan bahasa Inggris bisa dikelola oleh program studi.
+
+(3) Kapasitas rombongan pembelajaran pada kelas internasional adalah:
+
+a. Jumlah mahasiswa pada setiap kelas internasional adalah 20 sampai dengan 30 orang;
+
+b. Jika mahasiswa baru tidak mencapai 20 orang, maka kelas internasional tetap diselenggarakan untuk sekurang-kurangnya dengan jumlah mahasiswa sebanyak 15 orang.
+
+(4) Sistem perkuliahan pada kelas internasional diselenggarakan dalam rencana pembelajaran yang menganut 2 (dua) semester untuk setiap tahun akademik.
+
+(5) Penyelenggaraan Global Learning Week (GLOW) pada kelas internasional:
+
+a. Untuk mata kuliah yang ditetapkan, program studi dapat menyelenggarakan GLOW;
+
+b. Penyelenggaraan GLOW dilaksanakan dengan takaran pelaksanaan sesuai aturan ketentuan SKS;
+
+(6) Penyelenggaraan mata kuliah GLOW pada kelas internasional, merupakan bagian dari program kelas internasional dengan tetap mengedepankan penjaminan mutu terhadap capaian pembelajaran lulusan yang harus dicapai tanpa dikenakan biaya pendidikan tambahan.
+
+## **Pasal 33 Konsep Umum Penyelenggaraan Kelas Internasional**
+
+(1) Struktur kurikulum perkuliahan yang digunakan pada kelas internasional merupakan struktur kurikulum pada program studi reguler ditambah sejumlah konteks, kegiatan dan sertifikasi internasional.
+
+(2) Administrasi kelas internasional diselenggarakan dalam pengelolaan dan layanan dengan menggunakan sumber daya manusia berkualifikasi tertentu.
+
+(3) Sistem administrasi penyelenggaraan kelas internasional harus terintegrasi dalam sistem informasi akademik Universitas sebagai kelas khusus.
+
+(4) Dosen kelas internasional adalah dosen program studi yang memenuhi persyaratan.
+
+(5) Kualifikasi dan persyaratan sebagaimana dimaksud pada ayat (2) dan (4) diatur dalam ketentuan terpisah.
+
+## **Pasal 34 Program Pendidikan Jarak Jauh**
+
+(1) Program Pendidikan Jarak Jauh (PJJ) sebagaimana yang dimaksud Pasal 3 ayat (4) adalah pendidikan yang dikhususkan untuk mahasiswa paruh waktu.
+
+(2) Program PJJ sebagaimana yang dimaksud Pasal 3 ayat (4) merupakan pendidikan yang menitikberatkan pada sistem pembelajaran jarak jauh yang memungkinkan mahasiswa dan dosen tidak bertemu secara fisik dengan menggunakan berbagai sumber belajar melalui perantara teknologi informasi dan komunikasi maupun media lainnya.
+
+(3) Kurikulum program studi PJJ sama dengan program studi reguler.
+
+(4) Pengelolaan sarana dan prasarana PJJ di Universitas dilakukan secara khusus oleh unit pengelola pendidikan jarak jauh di kampus utama dan unit pendukung penyelenggaraan PJJ di luar kampus utama yang disebut dengan Pusat Belajar Jarak Jauh (PBJJ).
+(5) Proses pembelajaran PJJ diselenggarakan dengan:
+
+a. mahasiswa dan dosen beraktivitas pada ruang belajar dalam waktu yang sama (sinkron), atau beraktivitas pada ruang belajar dalam waktu yang berbeda (asinkron).
+
+b. menekankan interaksi pembelajaran berbasis teknologi informasi dan komunikasi, meskipun tetap dimungkinkan dilakukannya pembelajaran tatap muka secara terbatas.
+
+c. kehadiran mahasiswa dalam suatu sesi perkuliahan atau tutorial diwakili dengan keikutsertaan dalam berbagai tugas dan kegiatan untuk sesi tersebut dan keterlibatan dalam forum diskusi maupun tanya-jawab dengan dosen atau tutor dengan standar kehadiran mengikuti standar persentase minimal pada kehadiran program perkuliahan reguler.
+
+d. evaluasi hasil belajar akhir dilakukan melalui mekanisme ujian yang komprehensif secara tatap muka, jarak jauh, atau pemanfaatan teknologi informasi dan komunikasi di bawah kendali dosen.
+
+(6) Beban studi, capaian kompetensi dan cakupan isi pembelajaran, penjaminan mutu penyelenggaraan dan standar penilaian terhadap capaian kompetensi pembelajaran pada program PJJ diwajibkan menggunakan ketentuan sama atau setara dengan yang berlaku pada program studi reguler dalam bidang keilmuan yang sama, berikut pemberlakuan persyaratan kelulusan studi, termasuk kewajiban publikasi ilmiah.
+
+## **Pasal 35 Program Pendidikan Mahasiswa Paruh Waktu**
+
+(1) Mahasiswa paruh waktu dapat mengikuti kegiatan pendidikan pada program PJJ atau program khusus pada diploma tiga, sarjana/sarjana terapan, magister/magister terapan, atau doktor/doktor terapan.
+
+(2) Penyelenggaraan pembelajaran untuk mahasiswa paruh waktu sebagaimana dimaksud pada ayat (1) perlu memperhatikan fleksibilitas dan karakteristik mahasiswa paruh waktu.
+
+(3) Tugas akhir untuk mahasiswa paruh waktu disesuaikan dengan karakteristik dan kemampuan mahasiswa paruh waktu.
+
+(4) Sistem penjaminan mutu penyelenggaraan pendidikan untuk mahasiswa paruh waktu perlu memperhatikan karakteristiktik mahasiswa dan sistem pembelajarannya.
+
+(5) Sistem penjaminan mutu sebagaimana dimaksud pada ayat (4) diatur dalam ketentuan terpisah.
+
+## **Pasal 36 Learner Centered Learning**
+
+(1) Learner Centered Learning (LCL) sebagaimana dimaksud pada Pasal 16 ayat (6) merupakan pendekatan pembelajaran berpusat pada pemelajar dimana dosen dan mahasiswa terlibat aktif dalam proses pembelajaran, sehingga peran pengajar bukan hanya untuk merancang aktivitas pembelajaran yang memicu partisipasi aktif, mendorong diskusi, dan memotivasi mahasiswa untuk berpikir kritis tetapi juga mendapatkan umpan balik dari proses pembelajaran.
+
+(2) Dosen wajib mengimplementasikan pembelajaran dengan pendekatan LCL yang merupakan pendekatan pembelajaran berpusat pada pemelajar yang mengutamakan pengembangan kreativitas, kapasitas, kepribadian, dan kebutuhan mahasiswa, serta mengembangkan kemandirian dalam mencari dan menemukan pengetahuan.
+
+(3) Teknis pelaksanaan LCL sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dalam panduan terpisah.
+
+## **Pasal 37 Pembelajaran Kolaboratif dan Partisipatif**
+
+(1) Pembelajaran kolaboratif dan partisipatif sebagaimana dimaksud pada Pasal 16 ayat (6) adalah pendekatan pembelajaran secara bersama/berkelompok yang melibatkan interaksi dan partisipasi aktif antar individu pemelajar untuk menghasilkan kapitalisasi sikap, pengetahuan dan keterampilan dalam rangka untuk meraih capaian pembelajaran tertentu.
+
+(2) Setiap mata kuliah wajib mengimplementasikan bentuk kegiatan pembelajaran yang kolaboratif dan partisipatif baik sebagian atau menyeluruh.
+
+(3) Setiap mata kuliah wajib memiliki bentuk evaluasi pembelajaran yang bersifat kolaboratif dan/atau partisipatif minimal 50% (lima puluh persen) dari total evaluasi pembelajaran.
+
+(4) Teknis pelaksanaan pembelajaran kolaboratif dan partisipatif sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dalam panduan terpisah.
+
+## **Pasal 38 Pembelajaran Bauran (Blended Learning)**
+
+(1) Pembelajaran Bauran (*blended learning*) sebagaimana dimaksud Pasal 16 ayat (6) merupakan kombinasi penggunaan berbagai metode pembelajaran baik pada tingkat pertemuan perkuliahan, tingkat mata kuliah, tingkat program studi, maupun tingkat universitas/institusional dalam memenuhi capaian pembelajaran.
+
+(2) Metode pembelajaran sebagaimana dimaksud pada ayat (1) adalah cara penyampaian pendidikan pada peserta didik yang dilakukan secara sistematis dan teratur oleh tenaga pendidik yang dapat dibedakan atas:
+
+a. Metode Pembelajaran Berbasis Ruang Tradisional (pembelajaran luring)
+   Proses belajar mengajar dilaksanakan dengan mempertemukan dosen dan mahasiswa secara langsung di ruang kelas, laboratorium, studio dan ruang terbuka.
+
+b. Metode Pembelajaran Berbasis Ruang Digital (pembelajaran daring)
+   Proses belajar mengajar dilaksanakan dengan mempertemukan dosen dan mahasiswa secara langsung maupun tidak langsung di ruang virtual seperti di *platform* aplikasi tatap-muka daring, *platform Learning Management System* (LMS), *platform massive online open courses* (MOOCs). Proses belajar mengajar dilaksanakan secara daring dengan basis waktu yang berbeda dapat berupa sinkron dan asinkron.
+
+c. Metode Pembelajaran Berbasis Pusat Belajar
+   Proses belajar mengajar dilaksanakan dengan menggunakan sumber belajar program studi terkait atau pada pusat belajar lain di kampus utama (program studi lain di kampus utama, direktorat- direktorat di kampus utama), dan/atau di kampus satelit (program studi lain di kampus utama, direktorat-direktorat di kampus utama), dan/atau di (PBJJ).
+
+d. Metode Pembelajaran Berbasis Tingkat Institusional
+   Proses belajar mengajar dilaksanakan dengan menggunakan sumber belajar di dalam atau di luar program studi pada perguruan tinggi sama/berbeda, perusahaan-perusahaan di berbagai industri, dan/ atau instansi-instansi pemerintahan.
+
+e. Metode Pembelajaran Berbasis Materi Objek Pembelajaran
+   Proses belajar mengajar dilaksanakan dengan menggunakan berbagai sumber belajar digital berupa materi objek pembelajaran atau *Learning Object Materials* (LOMs) baik berupa objek yang bersifat *low-sense* (teks) ataupun *high-sense* (video interaktif).
+
+f. Metode Pembelajaran Berbasis Sumber Kecerdasan
+   Proses belajar mengajar dilaksanakan dengan menggunakan berbagai sumber kecerdasan, baik berupa penggunaan kecerdasan manusia (*high human/no machine*) sampai penggunaan kecerdasan buatan/ mesin (*no human/artificial intelligence/machine learning*).
+
+g. Metode Pembelajaran Berbasis Teknologi Pembelajaran Virtual
+   Proses belajar mengajar dilaksanakan dengan menggunakan berbagai pelantar (*platform*) aplikasi virtual (*virtual application platform*) yang memberikan pembelajaran berbasis virtual-realitas (*virtual-reality learning based*).
+
+(3) Pembelajaran Bauran (*blended learning*) untuk setiap tingkat dapat dikombinasikan sebagai berikut:
+
+a. Pada tingkat pertemuan perkuliahan, belajar terbimbing dapat dikombinasikan antara pembelajaran berbasis ruang tradisional dan pembelajaran berbasis ruang digital dalam satuan SKS.
+
+b. Pada tingkat mata kuliah, pertemuan perkuliahan dapat dikombinasikan antara pembelajaran berbasis ruang tradisional dan pembelajaran berbasis ruang digital dalam satuan SKS.
+
+c. Pada tingkat program studi, mata kuliah dapat dikombinasikan antara pembelajaran berbasis ruang tradisional, pembelajaran berbasis ruang digital dan pembelajaran berbasis pusat belajar di dalam Universitas.
+
+d. Pada tingkat Universitas/institusional, mata kuliah dapat dikombinasikan antara pembelajaran berbasis ruang tradisional, pembelajaran berbasis ruang digital, pembelajaran berbasis pusat belajar dan pembelajaran berbasis tingkat institusional di luar Universitas.
+
+(4) Pembelajaran Bauran pada program studi pendidikan reguler:
+
+a. Mengutamakan metode pembelajaran berbasis ruang tradisional, pusat belajar, dan atau tingkat universitas/institusional.
+
+b. Dapat menyelenggarakan pertemuan perkuliahan dengan metode pembelajaran berbasis ruang digital minimal 25% dari 16 pertemuan perkuliahan (4 pertemuan) dan maksimal kurang dari 50% dari 16 pertemuan perkuliahan (7 pertemuan).
+
+c. Program studi dapat menyelenggarakan mata kuliah yang dilaksanakan secara daring penuh (metode pembelajaran berbasis ruang digital) maksimum kurang dari 50% mata kuliah atau jumlah total SKS.
+
+<table>
+<thead>
+<tr>
+<th>Jenis Interaksi Antara Tenaga Pengajar dan Peserta Didik pada Kegiatan Belajar Terbimbing</th>
+<th>Minimum (Pertemuan)</th>
+<th>Maksimum (Pertemuan)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pembelajaran Bauran pada Sistem Pendidikan Reguler<br>i. Tatap Muka Kelas<br>ii. Tatap Muka Daring atau Tutorial Daring Sinkron/Asinkron</td>
+<td>9<br>4</td>
+<td>12<br>7</td>
+</tr>
+</tbody>
+</table>
+
+d. Ketentuan terkait kombinasi penggunaan metode pembelajaran berbasis pusat belajar dan tingkat Universitas/institusional dapat dilihat pada Pasal 11 ayat (3) dan (4).
+
+e. Wajib memberikan hak kepada mahasiswa untuk menggunakan metode pembelajaran berbasis institusional sebagaimana dimaksud pada pasal 17 dan pasal 18.
+
+(5) Proses pembelajaran dalam perkuliahan program studi reguler dilaksanakan dengan model Pembelajaran Bauran (*blended learning*).
+
+(6) Dalam kondisi khusus (kejadian luar biasa/KLB) yang ditetapkan oleh pemerintah atau Universitas maka semua proses pembelajaran dalam perkuliahan program studi Reguler dapat dilaksanakan dengan model pembelajaran daring penuh (*fully online learning*).
+
+(7) Jenis pembelajaran untuk model *blended learning* sebagaimana disebutkan dalam ayat (3) menggunakan kombinasi pembelajaran tatap muka kelas (*classroom learning*) atau pembelajaran daring (*online learning*), sementara untuk model pembelajaran daring penuh (*fully online learning*) sebagaimana disebutkan dalam ayat (4) hanya menggunakan pembelajaran daring (*online learning*).
+
+(8) Kegiatan belajar untuk masing-masing jenis pembelajaran sebagaimana dimaksud dalam Ayat (6) adalah sebagai berikut:
+
+a. Pembelajaran tatap muka kelas (*classroom learning*)
+
+i. Kegiatan/belajar terjadwal, yaitu kegiatan belajar dalam bentuk tatap muka di dalam kelas antara mahasiswa dan tenaga pengajar baik dalam bentuk kuliah maupun diskusi.
+
+ii. Tugas Terstruktur, yaitu kegiatan studi oleh mahasiswa yang tak terjadwal tetapi direncanakan oleh tenaga pengajar, misalnya dalam bentuk mengerjakan pekerjaan rumah atau menyelesaikan soal-soal yang diberikan oleh tenaga pengajar.
+
+iii. Kegiatan/belajar Mandiri, yaitu kegiatan belajar yang dilakukan mahasiswa secara mandiri (tidak direncanakan oleh tenaga pengajar) seperti mendalami bahan perkuliahan, mempersiapkan catatan kuliah, diskusi atau kegiatan-kegiatan akademik lainnya.
+b. Pembelajaran daring (*online learning*)
+
+i. Kegiatan/Belajar Terbimbing, yaitu proses pembelajaran yang disediakan oleh perguruan tinggi untuk membantu proses belajar mahasiswa dalam bentuk tutorial tatap muka dan tutorial daring, dengan mengandalkan bimbingan tenaga pengajar.
+
+ii. Kegiatan/Belajar Mandiri, yaitu proses pembelajaran yang diinisiasi oleh mahasiswa dalam periode tertentu untuk dapat membantu mahasiswa belajar secara mandiri, dosen menyiapkan beragam tugas dan pemicu/inisiasi dengan memanfaatkan TIK.
+
+(9) Setiap pertemuan perkuliahan wajib memiliki kegiatan belajar yang bersifat interaktif antara tenaga pengajar dan mahasiswa baik untuk perkuliahan model pembelajaran kelas tatap-muka (*classroom learning*), pembelajaran daring (*online learning*) atau pembelajaran daring penuh (*fully online learning*) dengan jenis interaksi sebagai berikut:
+
+a. Pelaksanaan kegiatan belajar melalui tugas terstruktur, tugas mandiri dan belajar mandiri sebagaimana disebutkan pada Pasal 11 ayat (3) termediasi dengan LMS Universitas.
+
+b. Pelaksanaan pertemuan perkuliahan dilaksanakan dalam durasi 1 (satu) minggu menggunakan strategi *flipped classroom*, yaitu strategi pembelajaran yang berfokus pada keterlibatan siswa dan pembelajaran aktif, memberi dosen kesempatan yang lebih baik untuk menangani perbedaan tingkat pemahaman dan preferensi belajar mahasiswa di dalam kelas tatap muka atau ruang diskusi.
+
+c. Kehadiran dosen dan mahasiswa ditentukan berdasarkan kehadiran dalam pertemuan tatap muka (pertemuan di kelas atau daring) dan kriteria penyelesaian (*completion criteria*) tugas terstruktur, tugas mandiri dan belajar mandiri di LMS Universitas.
+
+## **Pasal 39 Basis Evaluasi**
+
+(1) Basis evaluasi BKP suatu mata kuliah sebagaimana dimaksud pada Pasal 16 ayat (1) dapat terdiri atas satu atau kombinasi dari:
+
+a. Evaluasi kognitif/pengetahuan adalah evaluasi untuk komponen penilaian yang menitikberatkan pada penyampaian teori atau pengetahuan.
+
+b. Evaluasi aktivitas partisipatif adalah evaluasi untuk komponen penilaian yang menitikberatkan pada penggunaan metode pembelajaran berbasis kasus (*case-based learning method*).
+
+c. Evaluasi hasil proyek adalah evaluasi untuk komponen penilaian yang menitikberatkan pada penggunaan metode pembelajaran berbasis proyek (*team-based project learning method*).
+
+(2) Kombinasi dari basis evaluasi pembelajaran yang dapat diimplementasikan untuk setiap kelompok mata kuliah:
+
+<table>
+<thead>
+<tr>
+<th>Basis Evaluasi Pembelajaran</th>
+<th colspan="4">Kelompok Mata Kuliah</th>
+</tr>
+<tr>
+<td></td>
+<td>MKWP dan MKPP</td>
+<td>MKWK</td>
+<td>MKWU</td>
+<td>MKMB</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kognitif/Pengetahuan</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Aktivitas Partisipatif</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Hasil Proyek</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+</tbody>
+</table>
+
+(3) Bobot setiap jenis evaluasi yang tersebut pada ayat (1) dan (2) ditentukan oleh tim pengampu mata kuliah berdasarkan rancangan capaian pembelajaran mata kuliah. Untuk dapat diakui sebagai mata kuliah kolaboratif dan partisipatif maka total bobot basis evaluasi pembelajaran dalam bentuk aktivitas partisipatif dan hasil proyek minimum 50% dari total basis evaluasi.
+
+(4) Untuk setiap basis evaluasi sebagaimana dimaksud ayat (1) terdapat beberapa komponen evaluasi yang dapat dipilih yaitu diantaranya:
+
+a. Kuis
+
+b. Tugas Individu
+
+c. Tugas Kelompok
+
+d. Ujian
+
+e. Forum Diskusi
+
+<table>
+<thead>
+<tr>
+<th>Basis Evaluasi Pembelajaran</th>
+<th colspan="5">Komponen Evaluasi</th>
+</tr>
+<tr>
+<td></td>
+<td>Kuis</td>
+<td>Tugas Individu</td>
+<td>Tugas Kelompok</td>
+<td>Ujian</td>
+<td>Forum Diskusi</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kognitif/Pengetahuan</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>T</td>
+</tr>
+<tr>
+<td>Aktivitas Partisipatif</td>
+<td>T</td>
+<td>T</td>
+<td>Y</td>
+<td>T</td>
+<td>Y</td>
+</tr>
+<tr>
+<td>Hasil Proyek</td>
+<td>T</td>
+<td>T</td>
+<td>Y</td>
+<td>T</td>
+<td>T</td>
+</tr>
+</tbody>
+</table>
+* Y = Ya, T = Tidak
+
+(5) Kuis atau ujian kecil atau *pop-up test* adalah komponen evaluasi untuk mengetahui tingkat pemahaman atas penyampaian sebuah materi pembelajaran dalam satu atau beberapa pertemuan perkuliahan dengan atau tanpa pemberitahuan sebelumnya. bacaan/textbook, menyusun makalah, membuat proyek kecil, melatih keterampilan tertentu atau tugas lainnya.
+
+(6) Kuis
+
+(7) Ujian (exam) adalah komponen evaluasi pembelajaran untuk mengetahui hasil belajar dari beberapa pertemuan perkuliahan yang dilaksanakan secara terjadwal dalam periode 16 (enam belas) minggu perkuliahan.
+
+(8) Forum Diskusi adalah komponen evaluasi pembelajaran untuk menilai interaksi dan partisipasi mahasiswa dalam sebuah kelompok diskusi pada saat membahas isu atau tugas tertentu, dan juga untuk menilai interaksi dosen dengan mahasiswa atau kelompok mahasiswa.
+
+(9) Hasil-hasil penilaian kuis, tugas, ujian, dan forum diskusi disampaikan kepada mahasiswa dan dievaluasi oleh dosen sebagai umpan balik bagi mahasiswa maupun dosen selama perkuliahan berjalan, sehingga dapat dilakukan upaya-upaya perbaikan pembelajaran dan diharapkan mencegah kegagalan mata kuliah yang bersangkutan pada akhir semester.
+
+(10) Komponen evaluasi sebagaimana dimaksud pada ayat (4) dilaksanakan menggunakan aplikasi LMS Universitas dan dapat menjadi basis penilaian kehadiran/presensi mahasiswa.
+
+(11) Untuk setiap basis evaluasi sebagaimana dimaksud pada ayat (4) dosen wajib menentukan kriteria activity completion.
+
+(12) Untuk setiap pertemuan perkuliahan menggunakan metode asinkron maka wajib menyertakan minimal kegiatan forum diskusi dengan menyertakan komponen evaluasi forum diskusi untuk menilai interaksi dosen dan mahasiswa sebagai bentuk pengakuan atas kehadiran dosen.
+
+## **Pasal 40 Standar Penilaian**
+
+(1) Standar penilaian merupakan kriteria minimal mengenai penilaian hasil belajar mahasiswa untuk mencapai standar kompetensi lulusan.
+
+(2) Penilaian hasil belajar mahasiswa sebagaimana dimaksud pada ayat (1) dilakukan secara valid, reliabel, transparan, akuntabel, berkeadilan, objektif, dan edukatif.
+
+(3) Pada setiap mata kuliah wajib dilakukan penilaian hasil belajar mahasiswa berbentuk penilaian formatif dan penilaian sumatif sebagaimana dimaksud pada Pasal 15 ayat (9) dan (10) yang berfungsi untuk mengukur capaian belajar mahasiswa.
+
+(4) Penilaian hasil belajar mahasiswa dalam suatu mata kuliah dinyatakan dalam:
+
+a. harkat indeks nilai mata kuliah; atau
+
+b. kriteria lulus atau tidak lulus.
+
+(5) Penilaian hasil belajar mahasiswa berfungsi untuk:
+
+a. memotivasi belajar mahasiswa;
+
+b. menentukan tingkat keberhasilan mahasiswa memenuhi capaian pembelajaran pada setiap mata kuliah/blok mata kuliah;
+
+c. menentukan tingkat keberhasilan mahasiswa memenuhi capaian pembelajaran lulusan (PLO) dan pemetaan capaian tersebut terhadap rekomendasi profil lulusan yang sesuai; dan
+
+d. memperbaiki perencanaan dan pelaksanaan proses pembelajaran.
+
+(6) Lingkup penilaian dilakukan terhadap:
+
+a. perencanaan, pelaksanaan, dan pengendalian proses pembelajaran oleh dosen; dan
+
+b. capaian pembelajaran mata kuliah/blok mata kuliah oleh mahasiswa;
+
+c. capaian pembelajaran lulusan yang dicapai mahasiswa; dan
+
+d. keberhasilan UPPS dalam melaksanakan proses pembelajaran untuk menghasilkan capaian pembelajaran yang telah ditetapkan, dilakukan melalui Sistem Penjaminan Mutu Internal (SPMI) dan Sistem Penjaminan Mutu Eksternal (SPME).
+
+(7) Sasaran penilaian capaian pembelajaran mahasiswa meliputi:
+
+a. Sasaran penilaian capaian pembelajaran mahasiswa peserta mata kuliah di dalam kelas/kegiatan laboratorium/bengkel/studio/lapangan, meliputi:
+
+i. Penguasaan pengetahuan, keterampilan, dan perilaku;
+
+ii. Partisipasi/kinerja mahasiswa;
+
+iii. Hasil kerja berupa karya tulis/laporan/karya seni/desain; dan
+
+iv. Penguasaan kompetensi.
+
+b. Sasaran penilaian capaian pembelajaran mahasiswa untuk setiap komponen evaluasi mata kuliah:
+
+i. Pemahaman dan penguasaan terhadap materi pembelajaran yang sedang disampaikan;
+
+ii. Penguasaan dan pemanfaatan pengetahuan, keterampilan, dan perilaku atas capaian pembelajaran tertentu;
+
+iii. Pemahaman dan penguasaan menyeluruh terhadap materi pembelajaran yang telah disampaikan atas beberapa capaian pembelajaran; dan
+
+iv. Kemampuan menyampaikan gagasan/pendapat dan partisipasi/kinerja mahasiswa dalam forum diskusi yang berkaitan dengan penguasaan dan pemanfaatan pengetahuan;
+
+c. Sasaran penilaian capaian pembelajaran mahasiswa dalam penyusunan tugas akhir meliputi:
+
+i. Penguasaan pengetahuan, sikap dan keterampilan serta pemanfaatannya dalam penyusunan tugas akhir;
+
+ii. Kedalaman isi, penggunaan bahasa dan struktur penulisan buku/laporan tugas akhir;
+
+iii. Metode penelitian/penyusunan/penciptaan/perancangan karya/proyek;
+
+iv. Kreativitas dan penyajian hasil karya tulis/karya cipta/karya seni/desain;
+
+v. Kebenaran ilmiah dan orisinalitas;
+
+vi. Partisipasi/kinerja mahasiswa;
+
+vii. Penerapan norma akademik yang berlaku; dan
+
+viii. Kemampuan mempertahankan tugas akhir.
+
+(8) Penilaian hasil belajar sebagaimana dimaksud pada Pasal 15 Ayat (8) dilaksanakan dengan penilaian dalam Nilai Skor Mata Kuliah (NSM), dengan rentang 0–100, berdasarkan penjumlahan terbobot dari beberapa komponen nilai assessment evaluasi pembelajaran. Assessment terhadap capaian pembelajaran program studi dapat dimasukkan dalam elemen dari semua komponen nilai. Ketentuan terkait komponen nilai dan pembobotan diatur sebagai berikut:
+
+a. Komponen nilai dan pembobotan terhadap setiap jenis kegiatan pembelajaran ditentukan oleh tim pengajar mata kuliah berdasarkan rancangan kurikulum, sesuai jenjang, jenis program pendidikan dan capaian pembelajaran program studi.
+
+b. Komponen nilai dan pembobotan terhadap setiap jenis kegiatan pembelajaran yang digunakan untuk penentuan NSM diberitahukan kepada mahasiswa pada awal perkuliahan.
+
+(9) Penilaian hasil belajar sebagaimana dimaksud pada ayat (4) huruf b dapat digunakan pada mata kuliah yang:
+
+a. Berbentuk kegiatan pembelajaran di luar program studi; dan/atau
+
+b. Menggunakan penilaian sumatif berupa uji kompetensi.
+
+(10) Terhadap NSM pada Ayat (1) dilakukan konversi menjadi harkat indeks Nilai Mata Kuliah (NMK) yang dinyatakan dalam huruf mutu dan angka mutu untuk perhitungan Indeks Prestasi (IP) dengan menggunakan Penilaian Acuan Kriteria (PAK).
+
+(11) Penilaian Acuan Kriteria (PAK), yaitu merupakan penafsiran skor penilaian dengan cara membandingkan capaian pembelajaran mata kuliah dengan kriteria yang ditetapkan berdasarkan ketercapaian learning outcomes mata kuliah.
+
+(12) Penilaian hasil belajar sebagaimana dimaksud pada ayat (4) huruf a didapatkan melalui NMK dari NSM dengan menggunakan konversi PAK berikut:
+
+<table>
+<thead>
+<tr>
+<th>Nilai Skor Mata Kuliah (NSM)</th>
+<th>Nilai Mata Kuliah (NMK)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>85 &lt; NSM</td>
+<td>A</td>
+</tr>
+<tr>
+<td>75 &lt; NSM ≤ 85</td>
+<td>AB</td>
+</tr>
+<tr>
+<td>65 &lt; NSM ≤ 75</td>
+<td>B</td>
+</tr>
+<tr>
+<td>60 &lt; NSM ≤ 65</td>
+<td>BC</td>
+</tr>
+<tr>
+<td>50 &lt; NSM ≤ 60</td>
+<td>C</td>
+</tr>
+<tr>
+<td>40 &lt; NSM ≤ 50</td>
+<td>D</td>
+</tr>
+<tr>
+<td>NSM ≤ 40</td>
+<td>E</td>
+</tr>
+</tbody>
+</table>
+
+(13) NMK dalam nilai huruf sebagaimana ayat (12) mewakili Nilai Angka Mutu (NAM) dan penafsiran kategori capaian pembelajaran yang akan digunakan untuk perhitungan IP sebagai berikut:
+
+<table>
+<thead>
+<tr>
+<th>Nilai Mata Kuliah (NMK)</th>
+<th>Nilai Angka Mutu (NAM)</th>
+<th>Kategori</th>
+<th>Category</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>4</td>
+<td>Istimewa</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>AB</td>
+<td>3,5</td>
+<td>Baik Sekali</td>
+<td>Very Good</td>
+</tr>
+<tr>
+<td>B</td>
+<td>3</td>
+<td>Baik</td>
+<td>Good</td>
+</tr>
+</tbody>
+</table>
+<table>
+  <tr>
+    <td>BC</td>
+    <td>2,5</td>
+    <td>Cukup Baik</td>
+    <td><em>Fair</em></td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>2</td>
+    <td>Cukup</td>
+    <td><em>Satisfactory</em></td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>1</td>
+    <td>Kurang</td>
+    <td><em>Passing</em></td>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>0</td>
+    <td>Sangat Kurang</td>
+    <td><em>Poor</em></td>
+  </tr>
+</table>
+
+(14) Nilai huruf terendah untuk kriteria lulus mata kuliah pada jenjang sarjana untuk mata kuliah tingkat 1, 2 dan 3 adalah D, kecuali untuk mata kuliah tingkat 4 serta untuk mata kuliah Internalisasi Budaya dan Pembentukan Karakter dan MKWK nilai huruf terendah adalah C.
+
+(15) Nilai huruf terendah untuk kriteria lulus mata kuliah pada jenjang diploma tiga, sarjana terapan, dan magister/magister terapan adalah C dan untuk jenjang program studi doktor/doktor terapan adalah B.
+
+(16) Nilai huruf terendah atau kelulusan pada suatu mata kuliah menjadi persyaratan yang harus dipenuhi untuk evaluasi kelulusan studi, evaluasi kelulusan tingkat, dan untuk pengambilan mata kuliah lain pada semester atau tingkat selanjutnya yang dinyatakan memiliki prasyarat (prerequisite) dari mata kuliah tersebut.
+
+(17) Apabila mahasiswa mengulang suatu mata kuliah, maka nilai yang berlaku untuk mata kuliah tersebut adalah nilai mata kuliah dari pengambilan terakhir.
+
+(18) Pengambilan mata kuliah pada suatu tingkat dapat diulang untuk tujuan perbaikan nilai selama mahasiswa belum dinyatakan lulus dari tingkat tersebut.
+
+(19) Dosen wajib memasukkan nilai mata kuliah ke dalam sistem informasi akademik sesuai dengan jadwal yang telah ditentukan dalam kalender akademik.
+
+## **Pasal 41 Indeks Prestasi**
+
+(1) Keberhasilan pembelajaran mahasiswa diukur berdasarkan Indeks Prestasi atau IP, yaitu:
+$$IP = \frac{\sum_{i=1}^{n} K_i NAM_i}{\sum_{i=1}^{n} K_i}$$
+dengan
+NAM : Nilai Angka Mutu mata kuliah yang telah diambil sesuai Pasal 40 Ayat (13)
+K : besaran SKS mata kuliah
+N : jumlah mata kuliah yang dinyatakan dalam indeks NMK sebagaimana dimaksud pada pasal 40 ayat (12)
+
+(2) Ukuran keberhasilan pembelajaran dalam satu semester diukur dengan Indeks Prestasi Semester (IPS), yaitu IP yang dihitung dari semua mata kuliah pada suatu semester.
+
+(3) Ukuran keberhasilan pembelajaran dalam satu semester diukur dengan indeks prestasi tingkat, yaitu IP yang dihitung dari semua mata kuliah pada suatu tingkat/tahap.
+
+(4) Ukuran keberhasilan pembelajaran secara keseluruhan diukur dengan Indeks Prestasi Kumulatif (IPK), yaitu IP yang dihitung dari semua mata kuliah yang sudah pernah diambil dan lulus dengan menggunakan nilai terakhir apabila suatu mata kuliah pernah diulang.
+
+(5) IPS dan IPK hanya dihitung dari rata-rata nilai mata kuliah yang menggunakan penilaian indeks prestasi sebagaimana dimaksud pada ayat (4).
+
+## **Pasal 42 Evaluasi Masa Studi Program Diploma Tiga**
+
+(1) Evaluasi masa studi mahasiswa program diploma tiga dilakukan di setiap akhir semester genap dalam bentuk evaluasi tingkat.
+
+(2) Program diploma tiga terdiri dari 3 tingkat, yaitu tingkat-1, tingkat-2 dan tingkat-3 yang masing-masing paling lama harus diselesaikan dalam 4 (empat) semester dengan total keseluruhan tingkat harus dapat diselesaikan paling lama 8 (delapan) semester sesuai aturan Pasal 12.
+
+(3) Mahasiswa diploma tiga yang belum lulus tingkat-1 dapat melanjutkan studi sampai akhir semester IV dan dapat melanjutkan ke semester berikutnya jika pada akhir semester IV (termasuk semester antara) telah lulus semua mata kuliah tingkat-1 dengan IPK sekurang-kurangnya 2,00. Serta mengikuti kegiatan wajib kemahasiswaan dan <em>softskill</em> untuk mahasiswa tingkat-1 yang dibuktikan dengan Transkrip Aktivitas Kemahasiswaan (TAK). Penjelasan detail terkait TAK diatur dalam keputusan tersendiri.
+
+(4) Mahasiswa diploma tiga yang tidak memenuhi ketentuan ayat (1) sampai (3) maka kelanjutan studinya akan diproses melalui mekanisme sidang akademik UPPS.
+
+(5) Ketentuan evaluasi masa studi sebagaimana dimaksud ayat (1) sampai (3), dapat disesuaikan atau dibuat pengecualian untuk mahasiswa paruh waktu berdasarkan ketetapan pimpinan UPPS dengan tetap memperhatikan masa studi maksimal.
+
+(6) Mahasiswa yang sudah habis masa studinya dapat mengajukan undur diri atau perpanjangan masa studi maksimum 4 (empat) semester melalui mekanisme evaluasi kelayakan untuk setiap semesternya melalui sidang akademik di UPPS dan dilaporkan ke Direktur Akademik.
+
+(7) Mahasiswa pada masa studi normal yang tidak memenuhi kriteria sebagaimana dimaksud pada ayat (3) maka diberikan:
+
+a. Surat Peringatan 1 (SP-1) di masa studi normal diberikan pada awal semester III bagi mahasiswa yang tidak lulus semua mata kuliah tingkat-1 atau IPK < 2.00.
+
+b. Surat Peringatan 2 (SP-2) di masa studi normal diberikan pada awal semester IV bagi mahasiswa tidak lulus semua mata kuliah tingkat-1 atau IPK < 2.00.
+
+c. Surat Peringatan 3 (SP-3) di masa studi normal diberikan pada awal semester V sebelum masa registrasi bagi mahasiswa tidak lulus semua mata kuliah tingkat-1 atau IPK < 2.00. Mahasiswa dapat melanjutkan atau tidak melanjutkan studi atas dasar keputusan UPPS melalui sidang akademik.
+
+d. Surat Peringatan Akhir (SPA) di masa studi normal diberikan pada akhir semester VI. Mahasiswa dapat melanjutkan atau tidak melanjutkan studi atas dasar keputusan UPPS melalui sidang akademik.
+
+(8) Mahasiswa yang berada dalam masa studi tambahan maka diberikan:
+
+a. Surat Peringatan 1 (SP-1) di masa studi tambahan diberikan pada awal semester VIII bagi mahasiswa yang belum lulus di akhir semester VII atau IPK < 2.00.
+
+b. Surat Peringatan Akhir (SPA) di masa studi tambahan diberikan pada setiap awal semester bagi mahasiswa di masa studi perpanjangan sebagaimana dimaksud ayat (6). Mahasiswa dapat melanjutkan atau tidak melanjutkan studi atas dasar keputusan UPPS melalui sidang akademik.
+
+(9) Penyampaian surat peringatan sebagaimana dimaksud ayat (7) huruf a, b, dan c serta ayat (8) huruf a dilakukan oleh program studi. Penyampaian SPA sebagaimana dimaksud ayat (7) huruf d serta ayat (8) huruf b dilakukan oleh UPPS.
+
+(10) Mahasiswa yang mendapatkan surat peringatan sebagaimana dimaksud ayat (7) dan (8) dapat melanjutkan studi setelah membuat surat pernyataan yang ditandatangani oleh mahasiswa dan orang tua/wali terkait komitmen untuk meningkatkan kinerja akademiknya.
+
+(11) Jika mahasiswa tidak memenuhi persyaratan sebagaimana dimaksud pada ayat (10) maka mahasiswa dapat mengajukan surat pengunduran diri atau diundurdirikan.
+
+## **Pasal 43 Evaluasi Masa Studi Program Sarjana/Sarjana Terapan**
+
+(1) Evaluasi masa studi mahasiswa program sarjana/sarjana terapan dilakukan di setiap akhir semester genap dalam bentuk evaluasi tingkat.
+
+(2) Program sarjana/ sarjana terapan terdiri dari 4 tingkat yaitu tingkat-1, tingkat-2, tingkat-3 dan tingkat-4 yang masing-masing paling lama harus diselesaikan dalam waktu 4 (empat) semester, dengan total seluruh tingkat harus dapat diselesaikan paling lama 12 (dua belas) semester, dan indeks prestasi tingkat sekurang-kurangnya 2,00.
+
+(3) Mahasiswa yang belum lulus tingkat-1 dapat melanjutkan studi sampai akhir semester IV dan dapat melanjutkan ke semester berikutnya jika pada akhir semester IV (termasuk semester antara) telah lulus semua mata kuliah tingkat-1 dengan IPK sekurang-kurangnya 2,00. Serta mengikuti kegiatan wajib kemahasiswaan dan softskill untuk mahasiswa tingkat-1 yang dibuktikan dengan TAK. Penjelasan detail terkait TAK diatur dalam keputusan tersendiri.
+
+(4) Khusus mahasiswa kelas internasional, selain harus memenuhi ayat (3), mahasiswa kelas internasional harus lulus program persiapan bahasa (ESyP untuk mahasiswa kelas internasional dan BIPA untuk mahasiswa asing).
+
+(5) Mahasiswa sarjana/sarjana terapan yang tidak memenuhi ketentuan ayat (1) sampai ayat (3) maka kelanjutan studinya akan diproses melalui mekanisme sidang akademik UPPS.
+
+(6) Ketentuan evaluasi masa studi sebagaimana dimaksud ayat (1) sampai (3), dapat disesuaikan atau dibuat pengecualian untuk mahasiswa paruh waktu berdasarkan ketetapan pimpinan UPPS dengan tetap memperhatikan masa studi maksimal.
+
+(7) Mahasiswa yang belum lulus hingga akhir habis masa studinya sebagaimana dimaksud Pasal 12 ayat (1) huruf a dan ayat (2) huruf b dapat mengajukan undur diri atau perpanjangan masa studi maksimum 4 (empat) semester melalui mekanisme evaluasi kelayakan untuk setiap semesternya melalui sidang akademik di UPPS dan dilaporkan ke Direktur Akademik.
+
+(8) Mahasiswa pada masa studi normal yang tidak memenuhi kriteria sebagaimana dimaksud pada ayat (3) maka diberikan:
+
+a. Surat Peringatan 1 (SP-1) di masa studi normal diberikan pada awal semester III bagi mahasiswa yang tidak lulus semua mata kuliah tingkat-1 atau IPK < 2.00.
+
+b. Surat Peringatan 2 (SP-2) di masa studi normal diberikan pada awal semester IV bagi mahasiswa tidak lulus semua mata kuliah tingkat-1 atau IPK < 2.00.
+
+c. Surat Peringatan 3 (SP-3) di masa studi normal diberikan pada awal semester V sebelum masa registrasi bagi mahasiswa tidak lulus semua mata kuliah tingkat-1 atau IPK < 2.00. Mahasiswa dapat melanjutkan atau tidak melanjutkan studi atas dasar keputusan UPPS melalui sidang akademik.
+
+d. Surat Peringatan Akhir (SPA) di masa studi normal diberikan pada akhir semester VIII bagi mahasiswa belum lulus semua mata kuliah tingkat-1, belum lulus mencapai 80 SKS atau IPK < 2.00. Mahasiswa dapat melanjutkan atau tidak melanjutkan studi atas dasar keputusan UPPS melalui sidang akademik.
+
+(9) Mahasiswa yang berada dalam masa studi tambahan maka diberikan:
+
+a. Surat Peringatan 1 (SP-1) di masa studi tambahan diberikan pada awal semester X bagi mahasiswa yang belum lulus di akhir semester IX atau IPK < 2.00.
+
+b. Surat Peringatan 2 (SP-2) di masa studi tambahan diberikan pada awal semester XI bagi mahasiswa yang belum lulus di akhir semester X atau IPK < 2.00.
+
+c. Surat Peringatan 3 (SP-3) di masa studi tambahan diberikan pada awal semester XII bagi mahasiswa yang belum lulus di akhir semester XI atau IPK < 2.00.
+
+d. Surat Peringatan Akhir (SPA) di masa studi tambahan diberikan pada setiap awal semester bagi mahasiswa di masa studi perpanjangan sebagaimana dimaksud ayat (6). Mahasiswa dapat melanjutkan atau tidak melanjutkan studi atas dasar keputusan UPPS melalui sidang akademik.
+
+(10) Penyampaian surat peringatan sebagaimana dimaksud ayat (8) huruf a, b, dan c serta ayat (9) huruf a, b, dan c dilakukan oleh program studi. Penyampaian SPA sebagaimana dimaksud ayat (7) huruf d serta ayat (8) huruf d dilakukan oleh UPPS.
+
+(11) Mahasiswa yang mendapatkan surat peringatan sebagaimana dimaksud ayat (8) dan (9) dapat melanjutkan studi setelah membuat surat pernyataan yang ditandatangani oleh mahasiswa dan orang tua/wali terkait komitmen untuk meningkatkan kinerja akademiknya.
+
+(12) Jika mahasiswa tidak memenuhi persyaratan sebagaimana dimaksud pada ayat (11) maka mahasiswa dapat mengajukan surat pengunduran diri atau diundurdirikan.
+
+## **Pasal 44 Evaluasi Masa Studi Program Magister/Magister Terapan**
+
+(1) Evaluasi masa studi mahasiswa program magister/magister terapan dilakukan pada setiap akhir semester.
+
+(2) Mahasiswa program magister/magister terapan dapat melanjutkan studinya jika memenuhi syarat sebagai berikut:
+
+a. Lulus seluruh mata kuliah semester I dengan capaian IP semester I sekurang-kurangnya 3,00 paling lambat pada akhir semester III;
+
+b. Lulus seluruh mata kuliah semester I dan semester II dengan IPK sekurang-kurangnya 3,00 paling lambat pada akhir semester IV;
+
+c. Lulus seluruh mata kuliah semester I, semester II, dan semester III dengan IPK sekurang-kurangnya 3,00 paling lambat pada akhir semester V.
+
+(3) Mahasiswa program magister/magister terapan yang tidak memenuhi ketentuan ayat (2) maka kelanjutan studinya akan diproses melalui mekanisme sidang akademik UPPS.
+
+(4) Ketentuan evaluasi masa studi sebagaimana dimaksud ayat (2), dapat disesuaikan atau dibuat pengecualian untuk mahasiswa paruh waktu berdasarkan ketetapan pimpinan UPPS dengan tetap memperhatikan masa studi maksimal.
+
+(5) Mahasiswa program magister/magister terapan yang melebihi masa studi normal maka diberikan surat peringatan :
+
+a. Surat Peringatan 1 (SP-1) bagi mahasiswa yang belum lulus hingga akhir semester IV.
+
+b. Surat Peringatan 2 (SP-2) bagi mahasiswa yang belum lulus hingga akhir semester V.
+
+c. Surat Peringatan Akhir (SPA) bagi mahasiswa program magister/magister terapan yang belum lulus hingga habis masa studi maksimum sebagaimana dimaksud Pasal 12 ayat (1) huruf b dan ayat (2) huruf c.
+
+(6) Penyampaian surat peringatan sebagaimana dimaksud ayat (5) huruf a dan b dilakukan oleh program studi dan ayat (5) huruf c dilakukan oleh UPPS.
+
+(7) Mahasiswa yang mendapatkan Surat Peringatan sebagaimana dimaksud ayat (5) diperbolehkan melanjutkan studinya jika mahasiswa tersebut menyanggupi untuk meningkatkan kinerja akademiknya dengan membuat surat pernyataan yang ditandatangani oleh mahasiswa tersebut dan orang tua/walinya.
+
+(8) Jika mahasiswa tidak dapat memenuhi persyaratan sebagaimana dimaksud pada ayat (7) maka mahasiswa tersebut dapat mengajukan surat pengunduran diri atau diundurdirikan.
+
+(9) Mahasiswa yang telah mendapatkan SPA sebagaimana dimaksud ayat (5) huruf c dapat mengajukan perpanjangan masa studi maksimum 2 (dua) semester dengan mekanisme evaluasi kelayakan yang ditetapkan melalui sidang akademik UPPS.
+
+## **Pasal 45 Evaluasi Masa Studi Program Doktor/Doktor Terapan**
+
+(1) Evaluasi masa studi mahasiswa program magister/magister terapan dilakukan pada setiap akhir semester.
+
+(2) Evaluasi studi program doktor/ doktor terapan terdiri atas empat tahapan yaitu tahap kualifikasi, tahap proposal, tahap penelitian dan publikasi serta tahap ujian tugas akhir.
+
+(3) Mahasiswa program doktor/doktor terapan dapat melanjutkan studinya jika memenuhi syarat sebagai berikut :
+
+a. Lulus tahap kualifikasi di semester I dengan capaian IP sekurang-kurangnya 3,00 dan nilai mata kuliah sekurang-kurangnya B paling lambat pada akhir semester III;
+
+b. Lulus tahap kualifikasi di semester I dan tahap proposal di semester II dengan IPK sekurang-kurangnya 3,00 dan nilai mata kuliah sekurang-kurangnya B paling lambat pada akhir semester IV;
+
+c. Lulus tahap kualifikasi di semester I, tahap proposal di semester II, dan tahap penelitian dan publikasi di semester III dengan IPK sekurang-kurangnya 3,00 dan nilai mata kuliah sekurang-kurangnya B paling lambat pada akhir semester V.
+
+d. Lulus tahap kualifikasi di semester I, tahap proposal di semester II, dan tahap penelitian dan publikasi di semester III dan IV dengan IPK sekurang-kurangnya 3,00 dan nilai mata kuliah sekurang-kurangnya B paling lambat pada akhir semester VI.
+
+e. Lulus tahap kualifikasi di semester I, tahap proposal di semester II, dan tahap penelitian dan publikasi di semester III, IV dan V dengan IPK sekurang-kurangnya 3,00 dan nilai mata kuliah sekurang-kurangnya B paling lambat pada akhir semester VII.
+f. Lulus tahap kualifikasi di semester I, tahap proposal di semester II, dan tahap penelitian dan publikasi di semester III, IV dan V, dan tahap ujian tugas akhir dengan IPK sekurang-kurangnya 3,00 dan nilai mata kuliah sekurang-kurangnya B paling lambat pada akhir semester X.
+
+(4) Mahasiswa program doktor/ doktor terapan yang tidak memenuhi ketentuan ayat (3) maka kelanjutan studinya akan diproses melalui mekanisme sidang akademik UPPS.
+
+(5) Ketentuan evaluasi masa studi sebagaimana dimaksud ayat (3), dapat disesuaikan atau dibuat pengecualian untuk mahasiswa paruh waktu berdasarkan ketetapan pimpinan UPPS dengan tetap memperhatikan masa studi maksimal.
+
+(6) Mahasiswa program doktor/ doktor terapan yang melebihi masa studi normal maka diberikan surat peringatan :
+
+a. Surat Peringatan 1 (SP-1) bagi mahasiswa yang belum lulus hingga akhir semester VI.
+
+b. Surat Peringatan 2 (SP-2) bagi mahasiswa yang belum lulus hingga akhir semester VIII.
+
+c. Surat Peringatan Akhir (SPA) bagi mahasiswa program doktor/ doktor terapan yang belum lulus hingga habis masa studi maksimum sebagaimana dimaksud Pasal 12 ayat (1) huruf b dan ayat (2) huruf c.
+
+(7) Penyampaian surat peringatan sebagaimana dimaksud ayat (6) huruf a dan b dilakukan oleh program studi dan ayat (6) huruf c dilakukan oleh UPPS.
+
+(8) Mahasiswa yang mendapatkan Surat Peringatan sebagaimana dimaksud ayat (6) diperbolehkan melanjutkan studinya jika mahasiswa tersebut menyanggupi untuk meningkatkan kinerja akademiknya dengan membuat surat pernyataan yang ditandatangani oleh mahasiswa tersebut.
+
+(9) Jika mahasiswa tidak dapat memenuhi persyaratan sebagaimana dimaksud pada ayat (8) maka mahasiswa tersebut dapat mengajukan surat pengunduran diri atau diundurdirikan.
+
+(10) Mahasiswa yang telah mendapatkan SPA sebagaimana dimaksud ayat (6) huruf c dapat mengajukan perpanjangan masa studi maksimum 2 (dua) semester dengan mekanisme evaluasi kelayakan yang ditetapkan melalui sidang akademik UPPS.
+
+## **Pasal 46 Evaluasi Kelulusan Studi/Yudisium**
+
+(1) Mahasiswa program diploma dinyatakan lulus apabila telah lulus semua mata kuliah termasuk tugas akhir, mempunyai IPK ≥ 2,00 dan memenuhi nilai minimum kecakapan bahasa asing.
+
+(2) Mahasiswa program sarjana dinyatakan lulus apabila telah lulus semua mata kuliah termasuk tugas akhir, mempunyai IPK ≥ 2,00 dan memenuhi nilai minimum kecakapan bahasa asing dan persyaratan publikasi Tugas Akhir.
+
+(3) Mahasiswa program magister dinyatakan lulus apabila telah lulus semua mata kuliah termasuk tugas akhir, mempunyai IPK ≥ 3,00 dan memenuhi nilai minimum kecakapan bahasa asing dan persyaratan publikasi tugas akhir.
+
+(4) Mahasiswa program doktor dinyatakan lulus apabila telah lulus semua mata kuliah termasuk tugas akhir, mempunyai IPK ≥ 3,00 dan memenuhi nilai minimum kecakapan bahasa asing dan persyaratan publikasi karya ilmiah, memiliki kinerja penelitian dan publikasi karya ilmiah yang baik, serta memiliki sikap dan kontribusi ilmiah yang baik berdasarkan penilaian pada sidang promosi.
+
+(5) Kelulusan studi sebagaimana dimaksud ayat (1) sampai dengan (4) didasarkan pada kesesuaian penilaian hasil evaluasi studi mahasiswa tersebut terhadap ukuran capaian pembelajaran (learning outcomes) untuk memenuhi kompetensi program studi (PLO) yang telah dirumuskan pada setiap program studi.
+
+(6) Selain berdasarkan kriteria sebagaimana dimaksud ayat (5), kelulusan studi harus juga memenuhi persyaratan sebagai berikut:
+a. memiliki sertifikasi kecakapan bahasa asing;
+
+b. telah memenuhi segala kewajiban administratif (tunggakan, pinjaman, dan lain-lain);
+
+c. kewajiban laporan tugas akhir yang diunggah pada repository Universitas ;
+
+(7) Mahasiswa program diploma, sarjana/sarjana terapan diwajibkan memiliki skor TAK tidak lebih rendah dari ketentuan minimal pada aturan kemahasiswaan yang berlaku di Universitas sebagai persyaratan mengikuti yudisium.
+
+(8) Kelulusan program diploma, sarjana/sarjana terapan, magister/magister terapan, dan doktor/doktor terapan ditetapkan melalui keputusan rektor berdasarkan rekomendasi sidang yudisium kelulusan dalam sidang akademik UPPS.
+
+## **Pasal 47 Laporan Kemajuan Studi**
+
+(1) Laporan Kemajuan Studi (LKS) sebagaimana dimaksud Pasal 1 ayat (12) dapat diakses sewaktu-waktu oleh orang tua mahasiswa pada aplikasi sistem informasi akademik dilengkapi dengan berbagai informasi yang melengkapi gambaran tentang capaian pembelajaran mahasiswa, serta dilengkapi media komunikasi interaktif dengan dosen wali dan ketua program studi.
+
+(2) Dosen Wali memberikan catatan evaluasi hasil belajar suatu semester dan memberikan saran serta motivasi untuk pengambilan rencana studi semester selanjutnya yang disampaikan melalui aplikasi sistem informasi akademik atas persetujuan ketua program studi.
+
+(3) Penyampaian LKS dilaksanakan oleh unit pengelola administrasi akademik dan unit pengelola sistem informasi Universitas kepada mahasiswa dan/atau orang tua melalui media broadcast pada awal studi paling lambat satu minggu sebelum masa awal registrasi mata kuliah semester selanjutnya.
+
+## **Pasal 48 Daftar Nilai Mata Kuliah dan Surat Keterangan Lulus**
+
+(1) Daftar nilai mata kuliah dalam bentuk Kartu Hasil Studi (KHS) dapat diterbitkan oleh UPPS dengan memuat nilai-nilai mata kuliah yang sudah lulus, berdasarkan permintaan mahasiswa yang berkepentingan yang ditujukan untuk keperluan tertentu, termasuk untuk kepentingan transfer kredit bagi mahasiswa yang akan pindah ke perguruan tinggi lain, pengajuan beasiswa instansi tertentu, dan lain-lain.
+
+(2) Surat keterangan lulus berfungsi sebagai keterangan kelulusan sementara dapat diterbitkan oleh UPPS setelah yudisium berdasarkan permintaan mahasiswa yang berkepentingan yang ditujukan untuk keperluan tertentu, termasuk untuk melamar pekerjaan sebelum diterbitkannya ijazah yang disahkan oleh dekan dan rektor.
+
+## **Pasal 49 Tujuan dan Asas Seleksi Mahasiswa Baru**
+
+(1) Seleksi mahasiswa baru ditujukan untuk menghasilkan masukan proses pendidikan dengan kualifikasi sesuai program studi yang dituju dan memenuhi ambang batas ukuran yang menjamin kesuksesan dalam menempuh studi sampai lulus.
+
+(2) Seleksi mahasiswa baru Universitas harus dilaksanakan dengan memberlakukan asas-asas berikut:
+
+a. Menganut *Good University Governance* (GUG), yaitu *transparency*, *accountability*, *responsibility*, *independency*, dan *fairness*.
+
+b. Kelulusan seleksi dilakukan berdasarkan penilaian yang objektif terhadap terlampauinya kriteria yang ditetapkan.
+
+(3) Dengan tetap memberlakukan asas-asas sebagaimana pada ayat (2) dan tujuan seleksi mahasiswa baru pada ayat (1), seleksi mahasiswa baru Universitas memperhatikan pemerataan kesempatan akses pendidikan tinggi bagi para mahasiswa baru, tanpa membeda-bedakan suku, agama, ras, golongan, dan jenis kelamin.
+
+(4) Sistem seleksi juga dapat memberikan kesempatan yang sama kepada calon mahasiswa berkebutuhan khusus untuk mengikuti seleksi penerimaan mahasiswa baru dengan memperhatikan kesiapan dan kapabilitas program studi.
+
+(5) Dengan memberlakukan asas-asas sebagaimana pada ayat (2) di atas, maka dalam pelaksanaan kegiatan seleksi mahasiswa baru berlaku asas-asas yang sama dengan pada penyelenggaraan Universitas, yaitu:
+
+a. tidak melakukan pembohongan publik,
+
+b. menerapkan rasa hormat dan kesantunan kepada masyarakat sebagai konsumen,
+
+c. tidak memungut biaya selain yang tercantum dalam pengumuman,
+
+d. menerima dan menindaklanjuti laporan jika terjadi pungutan selain yang tercantum pada pengumuman,
+
+e. melindungi tahap-tahap dan bagian-bagian dari proses kegiatan seleksi yang rawan harus dijamin dan dilindungi oleh suatu pakta integritas.
+
+(6) Jalur seleksi, persyaratan, dan kuota penerimaan mahasiswa baru pada masing-masing program studi untuk setiap tahun akademik ditetapkan oleh suatu keputusan rektor.
+
+(7) Seleksi mahasiswa baru Universitas menyediakan alokasi kuota penerimaan bagi masyarakat yang kurang mampu tetapi memiliki keterpenuhan persyaratan akademik, yaitu pada jalur seleksi penerimaan mahasiswa berbeasiswa, baik yang didukung oleh sumber pendanaan eksternal maupun dari sumber pendanaan internal.
+
+## **Pasal 50 Kewajiban Registrasi Mata Kuliah dan Kartu Studi Mahasiswa**
+
+(1) Mahasiswa wajib melakukan registrasi akademik yang mencakup registrasi keuangan dan registrasi mata kuliah.
+
+(2) Registrasi keuangan sebagaimana dimaksud pada ayat (1) diatur dalam ketentuan terpisah yang dikeluarkan oleh unit yang mengelola keuangan di Universitas.
+
+(3) Registrasi mata kuliah sebagaimana dimaksud pada ayat (1) wajib dilakukan mahasiswa sebelum memulai suatu awal semester pada jadwal dan aturan yang ditentukan oleh Universitas.
+
+(4) Hasil registrasi mata kuliah sebagaimana ayat (3) dinyatakan dalam bentuk Kartu Rencana Studi (KRS).
+
+(5) Proses registrasi akademik dinyatakan selesai dan mahasiswa dinyatakan aktif pada semester berjalan apabila memiliki Kartu Studi Mahasiswa (KSM) yang diterbitkan setelah memiliki KRS dan telah menyelesaikan registrasi keuangan.
+
+(6) Segala bentuk kegiatan pembelajaran (kampus merdeka, joint atau double degrees dan students exchange) yang dilaksanakan di luar program studi, dalam hal ini pemilik program wajib melaporkan kegiatan tersebut pada Direktorat Akademik sebelum masa registrasi mata kuliah untuk dapat ditentukan status mahasiswanya.
+
+(7) Kelalaian mengunduh/mencetak KSM dapat menyebabkan proses registrasi mahasiswa dianggap belum dilaksanakan dan mahasiswa akan berstatus sebagai non aktif atau mangkir. Sebagai akibatnya, aktivitas akademik seorang mahasiswa menjadi tidak diakui, karena nama mahasiswa tidak tercantum dalam daftar hadir perkuliahan dan daftar hadir praktikum.
+
+(8) Mahasiswa yang tidak lulus sidang yudisium pada akhir semester tertentu, maka mahasiswa tersebut diwajibkan melakukan registrasi pada periode registrasi di semester berikutnya.
+
+(9) Registrasi akademik melebihi jadwal yang ditetapkan dikenakan konsekuensi sesuai dengan ketentuan yang berlaku.
+
+(10) Data registrasi mata kuliah seluruh mahasiswa satu semester dilaporkan kepada pemerintah melalui sistem aplikasi pelaporan pada PDDikti, sesuai periode waktu pelaporan yang ditentukan.
+
+## **Pasal 51 Ketentuan Status Mahasiswa**
+
+(1) Status Mahasiswa terdiri dari dua jenis, yaitu status Aktivitas Kuliah Mahasiswa (AKM) dan status mahasiswa keluar.
+
+(2) Status AKM adalah status pencatatan administratif seorang mahasiswa yang berlaku pada setiap semester, yang mencakup dan tidak terbatas pada: aktif, cuti, nonaktif, kampus merdeka, menunggu ujian, dan sedang menempuh double degrees.
+
+(3) Status mahasiswa keluar adalah status pencatatan administratif seorang mahasiswa saat keluar dari Universitas, yang mencakup dan tidak terbatas pada status: selesai pendidikan nongelar, lulus, mutasi, dikeluarkan, mengundurkan diri, putus studi, dan wafat.
+
+(4) Pencatatan status sebagaimana dimaksud pada ayat (2) dilakukan pada setiap awal semester, dan dilaporkan kepada Pemerintah melalui PDDikti. Perubahan status mahasiswa setelah periode PRS tidak dapat dilaporkan dalam pelaporan PDDikti.
+
+## **Pasal 52 Kartu Tanda Pengenal Mahasiswa**
+
+(1) Kartu tanda pengenal mahasiswa dapat berupa Kartu Tanda Mahasiswa (KTM) berbentuk fisik atau digital yang diberikan sebagai penanda bagi seseorang yang berstatus mahasiswa.
+
+(2) KTM diterbitkan secara resmi oleh Universitas pada awal masa studi mahasiswa yang bersangkutan, dengan memuat identitas diri, identitas studi dan Universitas.
+
+(3) KTM setiap mahasiswa berlaku sejak awal masa studi hingga berakhirnya studi mahasiswa yang bersangkutan di Universitas, baik disebabkan oleh kelulusannya maupun karena berhenti sebelum lulus.
+
+(4) KTM dapat dikerjasamakan (co-branding) dengan perusahaan mitra.
+
+(5) Dalam hal KTM merupakan kartu co-branding dengan perusahaan mitra sebagaimana ayat (4), keberlakuan intrinsik kartu tersebut sebagai KTM telah berakhir ketika mahasiswa pemegang kartu tidak lagi menjadi mahasiswa dan hanya keberlakuan sebagai kartu jasa perusahaan mitra hingga penggantian dengan kartu fungsi tunggal.
+
+## **Pasal 53 Sidang Akademik**
+
+(1) Sidang akademik adalah sidang majelis dosen yang dilaksanakan oleh UPPS, yang dihadiri dan tidak terbatas oleh pimpinan UPPS atau wakil pimpinan UPPS, ketua program studi, ketua KK, dosen wali dan dosen, untuk membahas sejumlah agenda terkait evaluasi dan status studi mahasiswa, yaitu diantaranya:
+
+a. Rekomendasi penetapan status dan yudisium kelulusan studi mahasiswa
+
+b. Rekomendasi terhadap permohonan perpanjangan masa studi setelah melewati masa studi maksimal di Universitas
+
+c. Rekomendasi mahasiswa yang diundurdirikan per tingkat
+
+d. Rekomendasi mahasiswa yang diundurdirikan karena masa studi maksimal
+
+e. Rekomendasi status studi mahasiswa undur diri maupun yang tidak registrasi 2 (dua) semester berturut-turut (dianggap mengundurkan diri)
+
+f. Rekomendasi penetapan kelulusan tingkat/tahap studi
+
+g. Rekomendasi penetapan kelulusan capaian pembelajaran sesuai peta jalan CPL/PLO
+
+h. Rekomendasi terhadap permohonan perpanjangan masa studi setelah melewati masa studi normal
+
+i. Rekomendasi perubahan nilai mata kuliah
+
+j. Rekomendasi hasil pemantauan mahasiswa bermasalah dan solusinya
+
+(2) Sidang akademik yang dimaksud ayat (1) dapat dilaksanakan secara terjadwal dan atau sewaktu-waktu dengan memperhatikan dan mempertimbangkan tenggat periode kelulusan mahasiswa.
+
+(3) Sidang akademik untuk mahasiswa program studi di UPPS dipimpin oleh pimpinan UPPS atau wakil pimpinan UPPS, dengan data yang disajikan oleh ketua program studi.
+
+(4) Pada jadwal yang ditentukan, mahasiswa diwajibkan mendaftarkan kepesertaannya dalam sidang akademik melalui administrasi UPPS dengan menyampaikan tujuan kepesertaan sebagaimana ayat (1) setelah mendapatkan persetujuan dari dosen wali.
+
+(5) Hasil rekomendasi penetapan sidang akademik oleh pimpinan sidang akademik sebagaimana pada ayat (1) huruf a – e ditetapkan dalam rektor/wakil rektor.
+
+(6) Hasil rekomendasi penetapan sidang akademik oleh pimpinan sidang akademik sebagaimana pada ayat (1) huruf f – k ditetapkan dalam keputusan Pimpinan UPPS.
+
+(7) Perubahan hasil rekomendasi penetapan sidang akademik oleh Pimpinan Sidang Akademik sebagaimana pada Ayat (1) dapat dimungkinkan dengan ketentuan sebagai berikut:
+
+a. Perubahan pada huruf a tidak dapat dilakukan kecuali adanya pelanggaran etika akademik dan ditetapkan dalam keputusan rektor/wakil rektor.
+
+b. Perubahan dapat dilakukan khusus untuk huruf b – e dan ditetapkan dalam keputusan rektor/wakil rektor.
+
+c. Perubahan dapat dilakukan khusus untuk huruf f – k dan ditetapkan dalam keputusan Pimpinan UPPS.
+
+(8) Hasil sidang akademik yang menyangkut rencana studi mahasiswa wajib disampaikan kepada dosen wali sebagai tindak lanjut dalam proses perwalian.
+
+(9) Universitas dapat mengadakan sidang akademik di tingkat Universitas untuk mengevaluasi sidang akademik tingkat UPPS.
+
+## **Pasal 54 Perubahan Rencana Studi**
+
+(1) Perubahan Rencana Studi (PRS) dijadwalkan selama satu minggu pada minggu kedua perkuliahan. Perubahan yang dimaksudkan pada dasarnya hanya diizinkan untuk mengurangi pengambilan jumlah mata kuliah.
+
+(2) Penambahan pengambilan jumlah mata kuliah hanya dapat dilakukan sebagai kompensasi pengurangan akibat pemindahan kelas mata kuliah apabila terjadi bentrok penjadwalan yang tidak dapat dihindarkan oleh program studi. Penambahan jumlah mata kuliah harus melalui izin dosen wali dan persetujuan ketua program studi.
+
+(3) Penyelesaian proses PRS juga harus ditandai dengan pengunduhan/pencetakan KSM sebagaimana Pasal 50 apabila tidak dilakukan pencetakan, maka yang berlaku adalah KSM yang terakhir dicetak.
+
+(4) Akhir masa PRS pada awal suatu semester dalam kalender pendidikan Universitas merupakan batas (cut-off) masa tenggang untuk penutupan (closing) seluruh proses akademik pada semester sebelumnya, yaitu dengan beberapa implikasi sebagai berikut:
+
+a. Jika mahasiswa telah dinyatakan lulus berdasarkan pelaporan sidang akademik yudisium kelulusan kepada direktur akademik sebelum akhir masa PRS, maka mahasiswa tersebut dianggap telah lulus studi pada semester sebelumnya, sehingga tidak diwajibkan registrasi dan membayar Biaya Penyelenggaraan Pendidikan (BPP) lagi pada semester tersebut.
+
+b. Seluruh nilai mata kuliah (NMK) semester sebelumnya harus telah diunggah ke sistem akademik, karena semester tersebut telah ditutup, sehingga seluruh data akademik yang dihasilkannya sudah berada dalam status final dan siap diunggah ke PDDikti.
+
+c. Seluruh proses administrasi akademik untuk semester baru harus sudah terselesaikan dengan status final pada sistem informasi akademik Universitas, yaitu meliputi: pembayaran BPP dan registrasi, pencetakan KSM, persetujuan permohonan cuti akademik, undur diri, dan lain-lain.
+
+d. Keterlambatan proses-proses administrasi akademik pada ayat (4) huruf c yang tidak diselesaikan hingga akhir tenggat PRS akan menyebabkan mahasiswa diberi status tidak aktif atau mangkir registrasi pada semester baru sebagaimana pada Pasal 51.
+
+## **Pasal 55 Tugas dan Wewenang Dosen Wali**
+
+(1) Tugas dan wewenang dosen wali berkenaan dengan aspek akademik mahasiswa adalah sebagai berikut:
+
+a. Memberikan bimbingan dan persetujuan rencana studi bagi mahasiswa perwaliannya, dengan mengacu pada peraturan akademik yang berlaku.
+
+b. Memberikan arahan kepada mahasiswa perwaliannya dalam mengikuti kegiatan kurikuler maupun ekstrakurikuler, sehingga diperoleh hasil studi yang optimal.
+
+c. Mengikuti perkembangan/kemajuan studi mahasiswa perwaliannya sebagai bahan untuk menentukan penanganan selanjutnya.
+
+d. Memberikan persetujuan kepada mahasiswa dalam mengajukan permohonan sidang akademik yang menentukan status dan atau kelulusan tahap pendidikannya.
+
+e. Memberikan persetujuan terkait hasil unggahan pasfoto untuk ijazah.
+
+(2) Tugas dan wewenang dosen wali berkenaan dengan aspek nonakademik mahasiswa adalah sebagai berikut:
+
+a. Membantu mencari jalan penyelesaian masalah-masalah pribadi mahasiswa yang berkaitan dengan kemajuan studi.
+
+b. Memberikan rekomendasi untuk keperluan-keperluan tertentu yang berkaitan dengan kelancaran studi mahasiswa.
+
+c. Memberikan motivasi dan dorongan belajar kepada mahasiswa.
+
+(3) Untuk menangani masalah nonakademik sebagaimana dimaksud pada ayat (2) yang membutuhkan penanganan khusus dari tenaga profesional psikolog, maka dosen wali dapat memberikan rujukan kepada mahasiswa untuk mendapatkan layanan konseling.
+
+## **Pasal 56 Perwalian**
+
+(1) Perwalian sebagaimana yang dimaksud pada Pasal 1 ayat (9) huruf a merupakan hak bagi mahasiswa.
+
+(2) Pelaksanaan perwalian dapat dilakukan melalui konsultasi individu maupun kelompok mahasiswa yang berada dalam bimbingan perwalian seorang dosen wali.
+
+(3) Salah satu sesi perwalian yang wajib dilaksanakan adalah proses konsultasi dan persetujuan dosen wali mengenai rencana studi pada semester yang akan berjalan.
+
+(4) Perwalian kelompok mahasiswa sebagaimana pada ayat (2) tidak menghilangkan hak mahasiswa untuk melakukan perwalian secara individu.
+
+## **Pasal 57 Cuti Akademik**
+
+(1) Cuti akademik adalah izin yang diberikan oleh Pimpinan UPPS melalui wakil pimpinan UPPS bagi mahasiswa untuk tidak mengikuti seluruh kegiatan akademik dalam waktu 1 (satu) semester penuh.
+
+(2) Cuti akademik tidak mengakibatkan bertambahnya batas masa studi maksimal.
+
+(3) Syarat seorang mahasiswa untuk dapat mengajukan permohonan cuti akademik adalah:
+
+a. Menderita sakit yang memerlukan perawatan cukup lama, yang dapat mengganggu kegiatan akademik.
+
+b. Mengalami kesulitan ekonomi atau kewajiban mengikuti suatu kegiatan tertentu yang membuat mahasiswa tidak dapat mengikuti perkuliahan.
+
+c. Memenuhi persyaratan administrasi yang dipersyaratkan oleh UPPS.
+
+(4) Cuti akademik tidak diperkenankan bagi mahasiswa diploma dan sarjana/sarjana terapan yang belum menyelesaikan perkuliahan tingkat-1.
+
+(5) Cuti akademik tidak diperkenankan bagi magister/magister terapan yang belum menyelesaikan perkuliahan semester I.
+
+(6) Cuti akademik tidak diperkenankan bagi mahasiswa doktor/doktor terapan yang belum menyelesaikan perkuliahan tingkat-1 dan belum lulus tahap kualifikasi sebagaimana dimaksud Pasal 28 ayat (3) huruf a.
+
+(7) Pengajuan permohonan cuti akademik untuk suatu semester dilakukan paling lambat di masa PRS pada semester berjalan. Permohonan cuti akademik diajukan mahasiswa dan harus disetujui dosen wali, ketua program studi, admin UPPS, dan wakil dekan bidang akademik/wakil direktur akademik UPPS.
+
+(8) Dalam hal permohonan cuti akademik pada suatu semester telah diajukan dalam waktu yang tidak melampaui ketentuan sebagaimana pada ayat (7), apabila permohonan tersebut disetujui, maka persetujuan terhadap permohonan cuti akademik ditetapkan melalui keputusan Pimpinan UPPS.
+
+(9) Mahasiswa yang sedang melaksanakan cuti akademik tidak dikenakan kewajiban pembayaran BPP untuk semester yang bersangkutan, tetapi dikenakan kewajiban pembayaran biaya status sebesar 10% dari BPP paket sesuai ketentuan yang berlaku bagi mahasiswa tersebut.
+
+(10) Hak cuti akademik untuk mahasiswa tidak dapat disetujui apabila sisa masa studi setelah menjalani cuti akademik tidak mencukupi untuk menyelesaikan beban studi dengan kuota pengambilan beban studi normal (tidak melebihi 20 SKS) pada setiap semester tersisa berdasarkan ketentuan aturan masa studi maksimal pada Pasal 12 maupun aturan evaluasi masa studi per tingkat pada Pasal 42, 43, 44, dan 45.
+
+(11) Perhitungan hak cuti akademik bagi seorang mahasiswa sebagaimana pada ayat (10) menjadi tanggung-jawab mahasiswa yang bersangkutan serta menjadi kewenangan dosen wali dan Ketua Program Studi untuk penetapan sebelum disahkan oleh UPPS.
+
+(12) Cuti akademik dibatasi maksimal 2 (dua) semester selama masa studi dan tidak boleh diambil secara berturut-turut.
+
+## **Pasal 58 Mahasiswa Nonaktif**
+
+(1) Mahasiswa nonaktif adalah mahasiswa yang tidak registrasi atau terkena sanksi skorsing.
+
+(2) Mahasiswa tidak registrasi sebagaimana dimaksud pada ayat (1) adalah mahasiswa yang tidak melaksanakan registrasi sesuai dengan jadwal dan ketentuan yang telah ditetapkan pada kalender pendidikan, sehingga tercatat sebagai mahasiswa nonaktif pada semester berjalan.
+
+(3) Mahasiswa terkena sanksi skorsing sebagaimana dimaksud pada ayat (1) adalah mahasiswa yang statusnya sebagai mahasiswa sedang dibekukan akibat terkena sanksi pelanggaran akademik dan atau nonakademik selama 1 (satu) atau 2 (dua) semester.
+
+(4) Mahasiswa nonaktif, tidak diperkenankan mengikuti kegiatan akademik dan kemahasiswaan pada semester berjalan.
+
+(5) Mahasiswa nonaktif akibat tidak registrasi, apabila pada semester berikutnya akan mendaftar diri kembali, maka:
+
+a. Mahasiswa harus mengajukan permohonan dengan diketahui oleh orang tua mahasiswa, yang dilampiri dengan surat rekomendasi dari dosen wali dan ketua program studi.
+
+b. Rekomendasi dosen wali dan ketua program studi diberikan berdasarkan dapat diterima atau tidaknya alasan mangkir serta dilengkapi dengan pertimbangan mengenai tentang beban studi dan durasi masa studi tersisa.
+
+c. Jika permohonan aktif kembali dapat disetujui oleh oleh direktur akademik, maka status mahasiswa yang bersangkutan dikembalikan menjadi aktif.
+
+(6) Setelah nonaktif selama 1 (satu) semester sebagaimana ayat (4), mahasiswa yang tidak mengajukan permohonan untuk mendaftarkan diri kembali sampai batas waktu PRS semester berikutnya sesuai ayat (5), maka mahasiswa tersebut akan tercatat tidak melaksanakan registrasi selama dua semester berturut-turut, sehingga dianggap mengundurkan diri dari Universitas pada semester berikutnya yang ditetapkan melalui keputusan rektor berdasarkan rekomendasi sidang akademik.
+
+(7) Dalam hal permohonan registrasi kembali setelah nonaktif disetujui, disamping kewajiban membayar BPP untuk masa studi pada semester yang akan diikuti, mahasiswa tetap diwajibkan membayar denda nonaktif (mangkir) untuk masa semester yang bersangkutan nonaktif.
+
+(8) Mahasiswa yang sedang menjalani sanksi skorsing tidak dikenakan kewajiban pembayaran BPP untuk semester yang bersangkutan, tetapi diwajibkan melaksanakan registrasi 0 SKS dan dikenakan kewajiban pembayaran biaya status sebesar 10% dari BPP paket yang berlaku bagi mahasiswa tersebut.
+
+(9) Masa mahasiswa nonaktif sebagaimana yang disebutkan pada ayat (1) tidak menambah masa studi maksimum sebagaimana pada Pasal 12 maupun aturan evaluasi masa studi per tingkat pada Pasal 42, 43, 44, dan 45.
+
+(10) Status mahasiswa nonaktif dapat menyebabkan mahasiswa dianggap mengundurkan diri atau menjadi pemberhentian studi apabila sisa masa studi setelah tidak registrasi atau skorsing tidak mencukupi untuk menyelesaikan beban studi dengan kuota pengambilan beban studi normal.
+
+## **Pasal 59 Pemutusan Studi dan Undur Diri**
+
+(1) Mahasiswa dinyatakan putus studi melalui penetapan surat keputusan rektor dengan kriteria sebagai berikut:
+
+a. tidak berhasil memenuhi syarat kelulusan dan masa studi maksimal pada setiap evaluasi tingkat atau evaluasi studi secara keseluruhan sesuai ketentuan Pasal 42, 43, 44, dan 45.
+
+b. tidak melaksanakan registrasi selama dua semester berturut-turut dan tidak mengajukan permohonan untuk mendaftarkan diri kembali sampai batas waktu PRS semester berikutnya sebagaimana dimaksud pada Pasal 54.
+
+c. menerima sanksi pelanggaran akademik maupun nonakademik berdasarkan rekomendasi Komisi Disiplin Universitas.
+
+(2) Mahasiswa putus studi (diundurdirikan) tidak mendapatkan transkrip mata kuliah yang telah diambil selama menjalani studi di Universitas, kecuali bagi mahasiswa yang mengajukan pengunduran diri.
+
+(3) Mahasiswa yang mengajukan pengunduran diri sebagaimana dimaksud ayat (2) dan telah ditetapkan melalui surat keterangan pengunduran diri, dapat diberikan transkrip mata kuliah yang telah diambil selama menjalani studi di Universitas dan surat keterangan mutasi, setelah menyelesaikan semua kewajiban pembayaran.
+
+## **Pasal 60 Perpindahan dari Kelas Reguler ke Kelas Internasional**
+
+(1) Mahasiswa kelas reguler diperbolehkan pindah ke kelas internasional pada program studi yang sama dengan persyaratan sebagai berikut:
+
+a. Minimal skor setara ITP TOEFL 475 dan ECCT 3.25;
+
+b. IPK minimal 3.00;
+
+c. Dilakukan paling lambat pada awal semester III;
+
+d. Membayar semua biaya pendidikan di kelas internasional sesuai dengan ketentuan yang berlaku;
+
+e. Besaran BPP mengikuti ketentuan untuk kelas internasional;
+
+f. Penerimaan ditentukan oleh ketersediaan kapasitas kelas internasional.
+
+(2) Mahasiswa kelas internasional tidak diperkenankan pindah ke kelas reguler.
+
+## **Pasal 61 Penyediaan Fasilitas dan Kemudahan bagi Mahasiswa Disabilitas**
+
+(1) Penyediaan fasilitas dan kemudahan bagi mahasiswa penyandang disabilitas di Universitas dapat dilakukan sesuai dengan rancangan program yang telah ditetapkan.
+
+(2) Fasilitas dan kemudahan sebagaimana dimaksud ayat (1) dapat berupa penyediaan dukungan anggaran dan/atau bantuan pendanaan, penyediaan sarana dan prasarana, penyiapan dan penyediaan dosen dan tenaga kependidikan, penerimaan mahasiswa baru, proses pembelajaran, serta penilaian dan evaluasi pembelajaran yang sesuai.
+
+(3) Fasilitas dan kemudahan bagi mahasiswa penyandang disabilitas sebagaimana dimaksud ayat (1) diatur dalam ketentuan terpisah.
+
+## **Pasal 62 Hakikat Kebebasan Akademik, Kebebasan Mimbar Akademik, dan Otonomi Keilmuan**
+
+(1) Dalam penyelenggaraan pendidikan dan pengembangan ilmu pengetahuan, teknologi, dan seni di Universitas berlaku kebebasan akademik, kebebasan mimbar akademik, dan otonomi keilmuan yang merupakan elemen-elemen budaya akademik bagi seluruh civitas akademika dalam menjaga harkat, martabat, dan marwah Universitas, serta dalam pelaksanaan misi untuk mencapai visi Universitas.
+
+(2) Pengembangan ilmu pengetahuan, teknologi, dan seni di Universitas dilakukan oleh civitas akademika melalui pembelajaran dan/atau penelitian ilmiah dengan menjunjung tinggi nilai-nilai ketuhanan, kebudayaan, kemanusiaan dan persatuan bangsa untuk kemajuan peradaban dan kesejahteraan umat manusia.
+
+(3) Pelaksanaan kebebasan akademik, kebebasan mimbar akademik, dan otonomi keilmuan di Universitas merupakan tanggung jawab institusi dan pribadi civitas akademika yang wajib dilindungi dan difasilitasi oleh pimpinan Universitas.
+
+(4) Kebebasan akademik, kebebasan mimbar akademik, dan otonomi keilmuan di Universitas dilaksanakan oleh civitas akademik sesuai dengan budaya akademik, yaitu dengan mengutamakan penalaran dan akhlak mulia serta bertanggung jawab.
+
+(5) Kebebasan akademik, kebebasan mimbar akademik, dan otonomi keilmuan di Universitas dilaksanakan oleh civitas akademik pada bidang-bidang keilmuan yang sedang menjadi perhatian dan/atau sedang dikembangkan oleh Universitas.
+
+(6) Kebebasan akademik, kebebasan mimbar akademik, dan otonomi keilmuan yang dianut dan dikembangkan oleh Universitas bersifat ilmiah dan terbebas dari kepentingan politik dan ideologi yang bertentangan dengan kepentingan Negara Kesatuan Republik Indonesia.
+
+(7) Kebebasan akademik, kebebasan mimbar akademik, dan otonomi keilmuan yang dianut dan dikembangkan oleh Universitas merupakan elemen-elemen budaya akademik yang sejalan dan bersanding sejajar dengan tanggung jawab dan etika/susila akademik, sehingga bentuk-bentuk pelaksanaannya yang melanggar tanggung jawab dan etika akademik akan memberi dampak negatif bagi pribadi dan komunitas civitas akademika serta Universitas, yang oleh karena itu dapat diberikan sanksi yang tepat dan pantas menurut ketentuan aturan yang berlaku, sesuai dengan bobot dan keterulangan hakekat dari pelanggaran yang dilakukan.
+
+## **Pasal 63 Pelaksanaan Kebebasan Akademik**
+
+(1) Kebebasan akademik merupakan asas yang mendorong berlangsungnya proses-proses penelitian, debat, pembelajaran dan publikasi ilmiah yang tak terbelenggu di perguruan tinggi. Kebebasan tersebut menjadi watak suatu komunitas civitas akademika Universitas.
+
+(2) Oleh karena itu Universitas memberikan kebebasan akademik kepada civitas akademikanya. Berarti, Universitas mendukung kebebasan dosen dan mahasiswa untuk membuat pernyataan-pernyataan dalam pengajaran, melakukan investigasi dalam penelitian, dan penyebarluasan hasilnya melalui presentasi, peragaan dan publikasi karya ilmiah.
+
+(3) Sebagai konsekuensinya, civitas akademika Universitas dinilai berdasarkan kinerja profesional mereka, selama tidak melanggar kebijakan dan peraturan Universitas.
+
+(4) Agar kebebasan akademik yang diberikan benar-benar dapat meningkatkan kemampuan untuk melaksanakan fungsi-fungsi kegiatan keskolaran/kecendekiaan di Universitas, maka pada kebebasan akademik melekat tanggung jawab pribadi dan institusi.
+
+(5) Di luar Universitas, para dosen dan mahasiswa sebagai warga masyarakat umum mempunyai hak dan kewajiban yang sama seperti setiap warga negara yang lain dan berdiri sama tinggi di hadapan hukum. Namun pelaksanaan hak dan kewajiban tersebut selalu terukur relevansi dan urgensinya dari sudut pandang tanggung jawab terhadap disiplin keilmuan, kedudukan sebagai dosen dan/atau mahasiswa, serta terhadap reputasi Universitas.
+
+## **Pasal 64 Pelaksanaan Kebebasan Mimbar Akademik**
+
+(1) Universitas memberikan wewenang secara terbatas hanya kepada Guru Besar yang memiliki reputasi, otoritas, dan wibawa ilmiah untuk menyatakan secara terbuka dan bertanggung jawab mengenai sesuatu yang berkenaan dengan rumpun dan cabang ilmunya.
+
+(2) Kebebasan mimbar akademik diberikan kepada Guru Besar Universitas dalam hal:
+
+a. melaksanakan tugas mentransformasikan ilmu pengetahuan, teknologi, dan seni yang dikuasainya kepada mahasiswa dengan mewujudkan suasana belajar dan pembelajaran sehingga mahasiswa aktif mengembangkan potensinya.
+
+b. menjalankan tugas pokok dan fungsi sebagai ilmuwan yang sedang mengembangkan suatu cabang ilmu pengetahuan, teknologi, dan seni melalui penalaran dan penelitian ilmiah serta menyebarluaskannya.
+
+c. menjalankan tugas secara perseorangan atau berkelompok ketika menulis buku ajar atau buku teks, baik yang diterbitkan maupun terunggah di dunia maya, dan/atau publikasi ilmiah sebagai salah satu sumber belajar dan untuk pengembangan budaya akademik serta pembudayaan kegiatan baca tulis bagi civitas akademika.
+
+(3) Kebebasan mimbar akademik untuk membahas topik-topik yang berhubungan dengan bidang keahlian profesi di ruang kuliah, pada pertemuan profesi, atau melalui publikasi disertai dengan tanggung jawab untuk tidak mengajukan diri dalam bentuk pernyataan atau kegiatan yang berkesan atau berdampak pengaruh mewakili atau berbicara atas nama Universitas, kecuali jika secara spesifik telah diberi mandat oleh Universitas.
+
+## **Pasal 65 Pelaksanaan Otonomi Keilmuan**
+
+(1) Universitas mendukung otonomi keilmuan yang dimiliki oleh civitas akademika pada suatu cabang ilmu pengetahuan, teknologi, dan seni dalam menemukan, mengembangkan, mengungkap, dan/atau mempertahankan kebenaran ilmiah menurut kaidah, metode keilmuan, dan budaya akademik.
+
+(2) Dalam pelaksanaan otonomi keilmuan sebagaimana dimaksud pada ayat (1), civitas akademika mempertimbangkan kesesuaiannya dengan cabang ilmu pengetahuan, teknologi, dan seni yang menjadi cakupan perhatian dalam visi dan misi Universitas.
+
+(3) Dalam pelaksanaan otonomi keilmuan sebagaimana dimaksud pada ayat (1), civitas akademika memperhatikan koordinasi dan kemungkinan kolaborasi jika terdapat sumber daya dan/atau kelompok keilmuan lain yang telah mengembangkan cabang ilmu pengetahuan, teknologi, dan seni di lingkungan Universitas.
+
+(4) Dalam pelaksanaan otonomi keilmuan sebagaimana dimaksud pada ayat (1), civitas akademika dapat memanfaatkan keberadaan sumberdaya yang telah tersedia di lingkungan Universitas dan dapat pula memahami keterbatasannya, serta dapat memanfaatkan sumber daya di luar Universitas dalam suatu kerangka kerjasama secara kelembagaan.
+
+## **Pasal 66 Pengembangan Budaya Akademik**
+
+(1) Pengembangan budaya akademik dilakukan melalui interaksi sosial yang tidak membedakan suku, agama, ras, antar golongan, jenis kelamin, kedudukan sosial, tingkat kemampuan ekonomi, dan aliran politik serta mazhab pemikiran.
+
+(2) Interaksi sosial sebagaimana dimaksud pada ayat (1) dilakukan dalam proses-proses pembelajaran, pencarian kebenaran ilmiah, penguasaan dan/atau pengembangan keilmuan serta pengembangan Universitas sebagai lembaga ilmiah.
+
+(3) Civitas akademika berkewajiban memelihara dan mengembangkan budaya akademik dengan memperlakukan ilmu pengetahuan, teknologi, dan seni sebagai proses dan produk serta sebagai amal dan paradigma moral.
+
+## **Pasal 67 Hakikat Suasana Akademik**
+
+(1) Universitas mendorong terciptanya kehidupan akademik dalam suasana kecendekiaan yang kondusif bagi pelaksanaan kebebasan akademik, kebebasan mimbar akademik, dan bagi proses transformasi keilmuan yang bermanfaat bagi pengembangan civitas akademika, kontribusi bagi kesejahteraan masyarakat, dan reputasi Universitas.
+
+(2) Proses-proses akademik di Universitas bercirikan diskursus yang aktif dan makmur antar-civitas akademika, sehingga terwujud suasana akademik (*academic atmosphere*) yang merupakan ciri khas interaksi antar-civitas akademika yang memiliki kebebasan akademik dan kebebasan mimbar akademik, serta berjalannya otonomi keilmuan, berdasarkan argumentasi ilmiah yang dapat dipertanggungjawabkan.
+
+(3) Suasana akademik sangat didukung untuk berkembang melalui penyelenggaraan berbagai forum pertukaran pandangan dan pemikiran, yaitu melalui simposium, seminar, diskusi panel, diskusi kelompok studi, perkuliahan, praktikum, rapat tinjauan manajemen mengenai pelaksanaan Tridharma Perguruan Tinggi, dan lain-lain, masing-masing dengan tata tertibnya, baik dalam rangka kegiatan pendidikan, penelitian, maupun pengabdian masyarakat.
+
+## **Pasal 68 Bentuk-Bentuk Pengembangan Suasana Akademik**
+
+(1) Suasana akademik di Universitas dikembangkan melalui berbagai interaksi akademik antar-civitas akademika, yaitu antar-dosen, antara dosen dengan mahasiswa, antar-mahasiswa, dan antara civitas akademik dengan akademisi atau praktisi eksternal serta masyarakat, termasuk orang tua mahasiswa.
+
+(2) Interaksi akademik antar-dosen dalam pengembangan suasana akademik meliputi:
+
+a. Rapat Tinjauan Manajemen Penyelenggaraan Pendidikan, berupa pertemuan para dosen di tingkat Universitas, UPPS, dan program studi untuk membahas berbagai kebijakan dan aturan akademik, kurikulum, evaluasi hasil pembelajaran, sidang akademik kelulusan, koordinasi penyelenggaraan pendidikan, pembahasan tentang kebijakan, aturan, perencanaan dan evaluasi pelaksanaan Tridharma, dan lain-lain.
+
+b. Diskusi akademik pada KK, berupa interaksi antar-dosen yang membahas silabus perkuliahan, penyusunan materi dan metode pembelajaran, diskusi ilmiah tentang penelitian, publikasi, dan pengabdian masyarakat, penulisan buku, *sharing* serta laporan kegiatan ilmiah anggota KK di luar kampus/luar negeri, dan lain-lain.
+
+(3) Interaksi akademik antara dosen dengan mahasiswa dalam pengembangan suasana akademik meliputi: perkuliahan, praktikum, responsi, perwalian, bimbingan akademik dan konseling, bimbingan kerja industri, bimbingan tugas akhir, pembinaan kemahasiswaan bidang penalaran, kewirausahaan, kebudayaan, kerohanian dan olahraga.
+
+(4) Interaksi akademik antar-mahasiswa dalam pengembangan suasana akademik meliputi: tugas kelompok, praktikum kelompok, diskusi kelompok, kelompok studi keilmuan, kelompok kompetisi karya cipta/ilmiah nasional dan internasional, pembinaan kelompok keprofesian.
+
+(5) Interaksi akademik antara civitas akademik dengan akademisi atau praktisi eksternal: kerja sama penelitian, kerja sama pengabdian masyarakat, kuliah tamu, studium generale, pembicara tamu dalam konferensi/seminar, narasumber diskusi akademik.
+
+(6) Interaksi akademik antara civitas akademik dengan akademisi atau praktisi eksternal dapat dilaksanakan dalam berbagai kegiatan kerja sama penelitian, pengabdian masyarakat, kuliah tamu, studium generale, pembicara tamu konferensi/seminar, narasumber diskusi akademik dan kerja sama lainnya yang saling menguntungkan dalam kebersamaan dan kesetaraan.
+
+(7) Interaksi akademik antara civitas akademik dengan masyarakat umum antara lain dilaksanakan dalam bentuk sidang terbuka senat dalam rangka wisuda, sidang terbuka senat dalam rangka penerimaan mahasiswa baru, sidang terbuka senat dalam rangka dies natalis Universitas, pameran karya, dan bentuk-bentuk lain yang relevan.
+
+## **Pasal 69 Sumber Daya Pendukungan Pengembangan Suasana Akademik**
+
+(1) Universitas mengupayakan secara maksimal terdukungnya pengembangan suasana akademik dalam hal pengerahan sumber daya yang dibutuhkan, baik sumber daya manusia, prasarana dan sarana, sistem informasi dan akses kepustakaan, finansial maupun kebijakan, lingkungan kampus yang mendukung proses-proses akademik baik formal maupun informal.
+
+(2) Dalam pembangunan, pengembangan, dan pemeliharaan sumber daya akademik pada ayat (1), Universitas sesuai dengan kemampuannya akan sangat memperhatikan untuk dapat memenuhi dan bahkan melampaui ketentuan baku mutu menurut standar nasional pendidikan, yaitu untuk mendorong Universitas menuju kampus berkelas dunia.
+
+(3) Perencanaan, pengembangan, dan pemeliharaan sumber daya akademik sebagaimana dimaksud pada ayat (1), harus dilaksanakan melalui suatu kegiatan audit secara periodik.
+
+(4) Perencanaan, pengembangan, dan pemeliharaan prasarana, sarana, dan lingkungan kampus sebagai sumber daya akademik sebagaimana dimaksud pada ayat (1), juga diberlakukan kebijakan-kebijakan khusus yang mendukung terwujudnya kampus hijau, yaitu meliputi kebijakan penggunaan energi, kebijakan lahan hijau, kebijakan transportasi dalam kampus, dan kebijakan pengelolaan limbah kampus.
+
+(5) Perencanaan, pengembangan, dan pemeliharaan prasarana, sarana, dan lingkungan kampus sebagai sumber daya akademik sebagaimana dimaksud pada ayat (1), juga diberlakukan kebijakan-kebijakan khusus yang mendukung berlangsungnya proses-proses akademik formal maupun informal, seperti gedung serba guna multimedia, auditorium multimedia, akses laboratorium berdasarkan pengelolaan dan/atau izin khusus, penyediaan akses internet yang merata di seluruh lingkungan kampus dengan lebar pita sangat lebar, penyediaan taman-taman belajar, penyediaan berbagai fasilitas umum yang sangat baik, dan lain-lain.
+
+## **Pasal 70 Kinerja Pengembangan Suasana Akademik**
+
+(1) Suasana akademik di Universitas dikembangkan melalui upaya-upaya peningkatan yang berkelanjutan, baik kuantitas maupun kualitasnya, sehingga perlu direncanakan, dilaksanakan, dievaluasi dan ditindaklanjuti secara terukur agar dapat memacu pengembangannya.
+
+(2) Sejumlah ukuran kondisi dan kinerja yang digunakan untuk melihat kemajuan pengembangan suasana akademik, yaitu:
+
+a. Kualitas lulusan, yang terdiri atas:
+
+ i. jumlah lulusan memiliki pekerjaan yang layak (bekerja, melanjutkan studi, atau wiraswata),
+
+ ii. jumlah mahasiswa berkegiatan/meraih prestasi di luar program studi.
+
+b. Kualitas dosen, yang terdiri atas:
+
+i. persentase dosen yang berkegiatan tridharma di perguruan tinggi lain, bekerja sebagai praktisi di dunia industri, atau membimbing mahasiswa berkegiatan di luar program studi,
+
+ii. persentase dosen yang memiliki sertifikat kompetensi/profesi yang diakui oleh dunia usaha dan dunia industri,
+
+iii. persentase pengajar yang berasal dari kalangan praktisi profesional, dunia usaha, atau dunia industri,
+
+iv. jumlah keluaran dosen yang berhasil mendapat rekognisi internasional atau diterapkan oleh masyarakat/industri/ pemerintah per jumlah dosen.
+
+c. Kualitas kurikulum dan pembelajaran, yang terdiri atas:
+
+i. jumlah kerja sama per program studi,
+
+ii. persentase mata kuliah yang menggunakan metode pembelajaran pemecahan kasus atau pembelajaran keiompok berbasis project sebagai bagian dari bobot evaluasi,
+
+iii. persentase program studi yang memiliki akreditasi atau sertifikasi internasional yang diakui pemerintah.
+
+d. Kualitas layanan Universitas, yang terdiri atas:
+
+i. jumlah keluhan civitas akademika (dosen/mahasiswa),
+
+ii. kondisi sarana dan prasarana akademik,
+
+iii. jumlah sanksi akademik yang diberikan,
+
+iv. persentase kehadiran dosen/mahasiswa dalam perkuliahan,
+
+v. jumlah koleksi buku teks/referensi, jurnal, perpustakaan digital, dan lain-lain,
+
+vi. ketersediaan akses informasi akademik melalui internet,
+
+vii. jumlah seminar/simposium yang diselenggarakan,
+
+viii. jumlah kuliah umum dengan pembicara nasional dan internasional,
+
+ix. jumlah hibah-hibah nasional maupun internasional,
+
+x. jumlah dan rasio dosen berpendidikan S2 dan S3.
+
+e. dan lain-lain.
+
+## **Pasal 71 Mata Kuliah Pada Program Studi**
+
+(1) Struktur mata kuliah pada program diploma, sarjana/sarjana terapan di Universitas wajib memuat:
+
+a. Mata Kuliah Wajib Kurikulum (MKWK) yang terdiri dari agama, pancasila, kewarganegaraan dan bahasa Indonesia;
+
+b. Mata Kuliah Wajib Universitas (MKWU) yang merepresentasikan visi-misi dan tata nilai Universitas yang terdiri dari bahasa inggris, kewirausahaan, literasi data, literasi teknologi, literasi manusia, dan internalisasi budaya dan pembentukan karakter, atau mata kuliah lainnya yang ditetapkan oleh universitas;
+
+c. Mata Kuliah Wajib Program Studi (MKWP) yang merupakan semua mata kuliah yang menjadi dasar *body of knowledge* program studi yang dapat mencakup mata kuliah keahlian, mata kuliah profesi, dan mata kuliah yang ditetapkan UPPS untuk mendukung visi misinya; dan
+
+d. Mata Kuliah Merdeka Belajar (MKMB) yang merupakan sejumlah mata kuliah yang meliputi semua bentuk kegiatan pembelajaran (BKP) di luar program studi.
+
+(2) Selain kelompok mata kuliah pada ayat (1), mata kuliah program sarjana/sarjana terapan di Universitas wajib memuat Mata Kuliah Pilihan Program Studi (MKPP) yang merupakan mata kuliah untuk memperdalam atau memberikan pengayaan *body of knowledge* sesuai rumpun keilmuan program studi dan wajib diambil oleh mahasiswa sesuai dengan preferensinya.
+
+(3) Capaian pembelajaran beberapa mata kuliah dalam kelompok MKWP dan/atau MKPP terpetakan ke minimal tiga (3) sasaran *Sustainable Development Goals* (SDG’s) sebagai upaya dalam mencapai tujuan SDG’s terkait berdasarkan kekhasan yang dimiliki oleh program studi.
+
+(4) Pelaksanaan mata kuliah dalam kelompok MKWU sebagaimana dimaksud pada Ayat (1) huruf b:
+
+ a. Untuk mata kuliah bahasa inggris, kewirausahaan, literasi data, literasi teknologi, literasi manusia, serta internalisasi budaya dan pembentukan karakter dapat diselenggarakan dalam kelas besar (2 atau 3 kali ukuran kelas normal) dan lintas program studi;
+
+ b. Dapat dilebur ke dalam MKWP yang memiliki kesamaan capaian pembelajaran.
+
+(5) MKWP sebagaimana dimaksud pada ayat (1) huruf c wajib memuat *capstone design* atau *capstone project* sesuai dengan kekhasan program studi.
+
+(6) Seluruh mata kuliah pada kelompok MKWK, MKWU, MKWP, dan MKPP yang telah diambil oleh mahasiswa saat registrasi mata kuliah harus berstatus lulus.
+
+(7) Pengambilan setiap mata kuliah harus memperhatikan mata kuliah prasyaratnya, dengan nilai mata kuliah prasyarat harus memenuhi kriteria lulus sebagaimana dimaksud Pasal 40 ayat (16).
+
+(8) Mata kuliah matrikulasi dapat diberikan sebagai prasyarat mata kuliah tertentu sebagai persiapan mengikuti kegiatan pendidikan yang dilaksanakan dan berakhir sebelum awal perkuliahan dan tidak dicatatkan pada sistem informasi akademik.
+
+## **Pasal 72 Mata Kuliah Merdeka Belajar (MKMB)**
+
+(1) MKMB sebagaimana dimaksud pada Pasal 71 ayat (1) huruf d meliputi:
+
+a. Kelompok Mata Kuliah WRAP
+
+b. Kelompok Mata Kuliah non-WRAP
+
+(2) Kelompok Mata Kuliah WRAP merupakan kelompok mata kuliah konversi dari program WRAP sebagaimana dimaksud pada Pasal 18.
+
+(3) Kelompok Mata Kuliah non-WRAP meliputi:
+
+a. Mata kuliah yang tergabung ke dalam kelompok mata kuliah konversi atas kegiatan pembelajaran di luar program studi sesuai dengan BKP-nya;
+
+b. Mata kuliah yang tergabung dalam kelompok Mata Kuliah Pilihan Universitas (MKPU) yang dikelola Universitas, seperti *Financial for Non Financial Students* (FINON), *Computing for Non Computing Students* (COMPNON), dan mata kuliah lainnya yang disediakan dan ditetapkan oleh Universitas; dan
+
+c. MKPP yang diambil dari luar program studi.
+
+## **Pasal 73 Kompetensi dan Kualifikasi Dosen**
+
+(1) Persyaratan kompetensi dan kualifikasi minimum dosen sebagaimana dimaksud pada Pasal 2 ayat (3) merupakan kompetensi dan kualifikasi dosen untuk melaksanakan tugas dan fungsi sebagai teladan, pendidik dan perancang pembelajaran, fasilitator, serta motivator mahasiswa untuk mencapai standar kompetensi lulusan program studi.
+
+(2) Kompetensi dosen sebagaimana dimaksud pada ayat (1) meliputi kompetensi pedagogik, kepribadian, sosial, dan profesional.
+
+(3) Pemenuhan kualifikasi dosen yang berasal dari praktisi dapat dilakukan melalui rekognisi pembelajaran lampau.
+
+(4) Dosen pada pendidikan vokasi dan akademik dapat berasal dari praktisi dunia usaha, dunia industri, dan dunia kerja.
+
+(5) Ketentuan pemenuhan persyaratan kompetensi dan kualifikasi minimal dosen, dikoordinasikan oleh unit di Universitas yang mengelola sumber daya manusia.
+
+## **Pasal 74 Kompetensi dan Kualifikasi Tenaga Kependidikan**
+
+(1) Kompetensi dan kualifikasi tenaga kependidikan sesuai dengan tugas dan fungsi dalam melaksanakan administrasi, pengelolaan, pengembangan, pengawasan, dan pelayanan teknis untuk menunjang proses pendidikan untuk mencapai standar kompetensi lulusan program studi.
+
+(2) Ketentuan pemenuhan persyaratan kompetensi dan kualifikasi minimal tenaga kependidikan, dikoordinasikan oleh unit di Universitas yang mengelola sumber daya manusia.
+
+## **Pasal 75 Peralihan**
+
+(1) Dengan diterbitkannya peraturan ini maka Peraturan Universitas Telkom Nomor PU.025/AKD1/AKD-BAA/2022 tentang Pedoman Akademik Universitas Telkom dinyatakan tidak berlaku.
+
+(2) Aturan peralihan yang berkaitan dengan ayat (1) akan diatur kemudian.
+
+## **Pasal 76 Penerapan Tata kelola Universitas dan Sistem Informasi Yang Baik**
+
+(1) Keseluruhan proses-proses penyelenggaraan universitas yang diatur dalam Keputusan ini hendaknya dilaksanakan berlandaskan penerapan asas-asas tatakelola Universitas yang baik (Good University Governance), yaitu credibility, transparancy, accountability, responsibility, independent, dan fairness yang ditujukan kepada seluruh pemangku kepentingan Universitas.
+
+(2) Untuk mendukung pelaksanaan kebijakan sebagaimana pada Ayat (1), keseluruhan proses-proses penyelenggaraan Universitas yang diatur dalam keputusan ini hendaknya secara maksimal dapat didukung oleh tata kelola sistem informasi yang baik (Good IT Governance), yang senantiasa dilakukan perbaikan dan pengembangan dengan menggulirkan siklus PDCA dan/atau Penetapan-Pelaksanaan-Evaluasi-Pengendalian-Peningkatan (PPEPP) yang terdokumentasi secara kokoh dan rapi dalam kerangka SPMI dan SPME sehingga dapat tercapai jaminan kualitas akademik (academic quality assurance).
+
+(3) Isi dan substansi ilmiah yang dijalankan dan diselenggarakan pada seluruh proses dan kegiatan akademik, program pendidikan, penelitian dan pengabdian masyarakat yang dilaksanakan atas nama Universitas wajib menaati etika ilmiah dan kaidah publikasi ilmiah yang dianut dalam sistem etika Universitas, regulasi nasional maupun kelaziman universal.
+
+(4) Hal-hal yang belum ditetapkan dalam pedoman ini dan/atau memerlukan penyesuaian disebabkan adanya dinamika atau perubahan internal maupun eksternal, akan diatur lebih lanjut dalam ketentuan terpisah.
