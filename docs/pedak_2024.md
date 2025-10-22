@@ -473,9 +473,6 @@ Predikat kelulusan pada program doktor/doktor terapan diberikan berdasarkan peni
 <td>427<br>485</td>
 <td>450<br>500</td>
 </tr>
-</tbody>
-</table>
-<table>
   <tr>
     <td>3</td>
     <td>Magister/Magister Terapan<br>a. Belum Terakreditasi<br>b. Terakreditasi</td>
@@ -492,6 +489,7 @@ Predikat kelulusan pada program doktor/doktor terapan diberikan berdasarkan peni
     <td>500</td>
     <td>500</td>
   </tr>
+  </tbody>
 </table>
 
 *Sesuai dengan syarat akreditasi yang ditetapkan oleh UPPS
