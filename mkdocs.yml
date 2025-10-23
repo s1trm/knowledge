@@ -3,7 +3,8 @@ site_url: https://s1trm.github.io/knowledge
 theme:
   name: material
   palette:
-    primary: yellow
+    primary: black
+    accent: yellow
   features:
     - search.suggest
     - search.highlight
