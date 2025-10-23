@@ -2,6 +2,8 @@ site_name: s1trm.github.io
 site_url: https://s1trm.github.io/knowledge
 theme:
   name: material
+  palette:
+    primary: yellow
   features:
     - search.suggest
     - search.highlight
