@@ -15,5 +15,6 @@ plugins:
 nav:
   - Akademik:
     - pedak_2024.md
+    - kriteria_tambahan_summa_cumlaude.md
   - FAQ: faq.md
     
