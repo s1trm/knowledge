@@ -9,5 +9,10 @@
 
 ## Rekognisi
 1. **Apakah mata kuliah TA dapat direkognisi?** Tidak.
-1. **Mengapa matakuliah Internalisasi Budaya dan Pembentukan Karakter tidak direkognisi?** Karen itu matakuliah tingkat 1. Semua matakuliah tingkat 1 tidak direkognisi.
+1. **Mengapa matakuliah Internalisasi Budaya dan Pembentukan Karakter tidak direkognisi?** Karena itu matakuliah tingkat 1. Semua matakuliah tingkat 1 tidak direkognisi.
+1. **Apakah matakuliah Konten Digital 2D dapat direkognisi?** Tidak, semua matakuliah tingkat 1 tidak dapat direkognisi.
+
+## Surat-Menyurat
+1. **Bagaimana cara mendapatkan surat rekomendasi kampus untuk beasiswa?** Lewat aplikasi [Toss](https://toss.telkomuniversity.ac.id)
+1. **Bagaimana cara mendapatkan surat keterangan aktif bagi mahasiswa?** Lewat aplikasi [Toss](https://toss.telkomuniversity.ac.id)
 
