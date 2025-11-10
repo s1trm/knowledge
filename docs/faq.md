@@ -16,3 +16,5 @@
 1. **Bagaimana cara mendapatkan surat rekomendasi kampus untuk beasiswa?** Lewat aplikasi [Toss](https://toss.telkomuniversity.ac.id)
 1. **Bagaimana cara mendapatkan surat keterangan aktif bagi mahasiswa?** Lewat aplikasi [Toss](https://toss.telkomuniversity.ac.id)
 
+## Perkuliahan
+1. **Bagaimana cara mengajukan pencetakan BAP yang terlewat?** Dapat dilihat di [link berikut](https://linktr.ee/Layanan_LA_Dosen_FIT)

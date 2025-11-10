@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Selamat Datang di Knowledge Base Program Studi S1 Terapan Teknologi Rekayasa Multimedia 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Kumpulan link penting:
 
-## Commands
+1. [Layanan Akademik (LA) Fakultas](https://linktr.ee/Layanan_LA_Dosen_FIT)
+2. [Layanan Kerjasama dan Magang (LKM)](https://link.telkomuniversity.ac.id/@LKMFIT)
+3. [Kemahasiswaan Tel-U](https://linktr.ee/ditmawa_univtelkom)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
