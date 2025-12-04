@@ -18,3 +18,8 @@
 
 ## Perkuliahan
 1. **Bagaimana cara mengajukan pencetakan BAP yang terlewat?** Dapat dilihat di [link berikut](https://linktr.ee/Layanan_LA_Dosen_FIT)
+
+## Tugas Akhir
+1. **Bagaimana caranya perpanjang SK TA?**
+    * Mahasiswa mengirimkan [form perpanjangan SK](https://docs.google.com/document/d/1z9MXe59BC98oW0b2jangrNct2cQ8EsO7/edit?usp=drive_link&ouid=110307251224013813322&rtpof=true&sd=true) ke email la@tass.telkomuniversity.ac.id yang sudah dilengkapi tanda tangan. 
+    * Mahasiswa melakukan klik perpanjangan di iGracias 1x di menu TA/PA dan minta approval dosen pembimbing 1.
