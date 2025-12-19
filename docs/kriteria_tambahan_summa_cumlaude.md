@@ -8,7 +8,7 @@
 
 ## B. Kriteria Tambahan Khusus untuk Predikat Summa Cumlaude:
 
-1. **tidak pernah mengulang mata kuliah;**
+1. **Tidak pernah mengulang mata kuliah;**
 
 2. **Program Diploma Tiga dan Sarjana/Sarjana Terapan** wajib menghasilkan luaran minimal satu publikasi ilmiah berbahasa Inggris bersama dengan dosen pembimbing/pengampu selama studi, terkait dengan bidang keilmuan, terafiliasi dengan Universitas Telkom sebagai penulis pertama, pada minimal Sinta-1 atau telah terindeks Scopus/Web of Science (WoS), dan sekurang-kurangnya telah memiliki Letter of Acceptance (LoA).
 
