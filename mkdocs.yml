@@ -13,12 +13,18 @@ plugins:
   - search
 
 nav:
-  - Akademik:
-    - pedak_2024.md
+  - pedak_2024.md
+
+  - Proyek Akhir:
     - kriteria_tambahan_summa_cumlaude.md
-    - persyaratan_kelulusan_dan_standar_tugas_akhir.md 
+    - persyaratan_kelulusan_dan_standar_tugas_akhir.md
     - skpi_2022.md
-    - tak.md
+
+  - tak.md
     # - sptjm.md
+
+  - Kurikulum:
+    - plo.md
+    - clo_plo.md
   # - FAQ: faq.md
     
