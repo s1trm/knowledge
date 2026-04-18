@@ -26,5 +26,8 @@ nav:
   - Kurikulum:
     - plo.md
     - clo_plo.md
+
+  - Rekognisi:
+    - panduan_rekognisi.md
   # - FAQ: faq.md
     
