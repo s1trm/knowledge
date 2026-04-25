@@ -2,15 +2,22 @@ site_name: TRM Knowledge Base
 site_url: https://s1trm.github.io/knowledge
 theme:
   name: material
-  palette:
-    primary: black
-    accent: yellow
   features:
     - search.suggest
     - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
 
-plugins:
-  - search
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  logo: assets/logo.png
 
 nav:
   - pedak_2024.md
