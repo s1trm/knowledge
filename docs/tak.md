@@ -1,4 +1,4 @@
-# TAK
+# Infografis TAK
 
 Transkrip Aktivitas Kemahasiswaan (TAK) merupakan rekap penilaian keaktifan mahasiswa dalam
 kegiatan kemahasiswaan selama menempuh pendidikan Sarjana dan Diploma di Universitas Telkom
