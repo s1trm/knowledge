@@ -7,6 +7,8 @@ theme:
     - search.highlight
     - content.code.copy
   palette:
+    # - primary: black
+    # - accent: yellow
     - scheme: default
       toggle:
         icon: material/brightness-7

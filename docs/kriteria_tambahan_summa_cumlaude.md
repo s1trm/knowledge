@@ -1,12 +1,14 @@
 # Kriteria Tambahan untuk Predikat Summa Cumlaude dan Cumlaude
 
-## A. Kriteria Tambahan Umum untuk Predikat Summa Cumlaude dan Cumlaude:
+[Dokumen Lengkap](https://drive.google.com/file/d/1AdMWZSzQvpU99mCMsryozSmql2GjhgED/view?usp=sharing)
+
+## **Kriteria Tambahan Umum untuk Predikat Summa Cumlaude dan Cumlaude:**
 
 1. tidak pernah mendapat sanksi pelanggaran akademik maupun nonakademik;
 
 2. mendapat nilai indeks A pada mata kuliah Tugas Akhir;
 
-## B. Kriteria Tambahan Khusus untuk Predikat Summa Cumlaude:
+## *Kriteria Tambahan Khusus untuk Predikat Summa Cumlaude:*
 
 1. **Tidak pernah mengulang mata kuliah;**
 
@@ -28,7 +30,7 @@
 
       2) minimal 2 (dua) publikasi di jurnal internasional bereputasi sebagai penulis pertama berafiliasi Universitas Telkom dengan status sekurang kurangnya telah memiliki LoA dari jurnal yang berada dalam kuartil dua (Q2) di Scimago, dan sesuai dengan bidang ilmu yang bersangkutan serta berkaitan dengan materi disertasi.
 
-## C. Kriteria Tambahan Khusus untuk Predikat Cumlaude:
+## **Kriteria Tambahan Khusus untuk Predikat Cumlaude:**
 
 1. **Program Diploma Tiga dan Sarjana/Sarjana Terapan**
 
@@ -71,18 +73,7 @@
     
     4) paten sederhana/lisensi industri berafiliasi Universitas Telkom yang telah didaftarkan dan memiliki nomor registrasi pada Direktorat Jenderal Kekayaan Intelektual Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia.
     
-## Contoh Penerapan Predikat
-
-### Program Diploma Tiga
-
-| No | IPK | Lama Masa Studi (Semester) | Skor EPrT | Status Sanksi | Nilai Indeks TA | Status MK Mengulang | Publikasi Ilmiah | Prestasi | Karya | HKI | Predikat |
-|----|-----|---------------------------|-----------|---------------|-----------------|---------------------|------------------|----------|-------|-----|----------|
-| 1 | 3,95 | 6 | 455 | Tidak ada | A | Tidak ada | Terindeks scopus/WoS | - | - | - | Summa cumlaude |
-| 2 | 3,91 | 6 | 475 | Tidak ada | A | Tidak ada | Sinta-1 | - | - | - | Summa cumlaude |
-| 3 | 3,95 | 6 | 460 | Tidak ada | A | Tidak ada | - | - | - | HKI prototipe dan sertifikat dari industri usaha menengah | Cumlaude |
-| 4 | 3,55 | 6 | 450 | Tidak ada | AB | Tidak ada | - | Juara 1 nasional | - | - | Sangat Memuaskan |
-| 5 | 3,60 | 7 | 470 | Tidak ada | AB | Ada | - | - | - | HKI prototipe dan sertifikat dari industri usaha menengah | Sangat Memuaskan |
-| 6 | 3,52 | 8 | 455 | Tidak ada | A | Tidak ada | - | - | - | HKI prototipe dan sertifikat dari industri usaha menengah | Sangat Memuaskan |
+## **Contoh Penerapan Predikat**
 
 ### Program Sarjana/Sarjana Terapan (kelas reguler)
 
@@ -94,36 +85,3 @@
 | 4 | 3,60 | 7 | 490 | Tidak ada | A | Tidak ada | - | - | Pameran internasional | - | Cumlaude |
 | 5 | 3,58 | 9 | 500 | Tidak ada | AB | Ada | - | Juara 2 internasional | - | - | Sangat Memuaskan |
 | 6 | 3,45 | 8 | 475 | Tidak ada | AB | Tidak ada | Terindeks scopus/WoS | - | - | - | Sangat Memuaskan |
-
-### Program Sarjana/Sarjana Terapan (kelas internasional)
-
-| No | IPK | Lama Masa Studi (Semester) | Skor EPrT | Status Sanksi | Nilai Indeks TA | Status MK Mengulang | Publikasi Ilmiah | Prestasi | Karya | HKI | Predikat |
-|----|-----|---------------------------|-----------|---------------|-----------------|---------------------|------------------|----------|-------|-----|----------|
-| 1 | 3,98 | 7 | 600 | Tidak ada | A | Tidak ada | Terindeks scopus/WoS | - | - | - | Summa cumlaude |
-| 2 | 3,91 | 8 | 515 | Tidak ada | A | Tidak ada | Sinta-1 | - | - | - | Summa cumlaude |
-| 3 | 3,93 | 8 | 575 | Tidak ada | A | Tidak ada | - | Juara 3 internasional | - | - | Cumlaude |
-| 4 | 3,55 | 7 | 605 | Tidak ada | A | Tidak ada | - | - | Pameran internasional | - | Cumlaude |
-| 5 | 3,05 | 9 | 510 | Tidak ada | A | Ada | - | - | - | HKI prototipe dan sertifikat dari industri usaha menengah | Sangat Memuaskan |
-| 6 | 3,66 | 8 | 590 | Tidak ada | AB | Tidak ada | Terindeks scopus/WoS | - | - | - | Sangat Memuaskan |
-
-### Program Magister/Magister Terapan
-
-| No | IPK | Lama Masa Studi (Semester) | Skor EPrT | Status Sanksi | Nilai Indeks TA | Status MK Mengulang | Nilai MK Terendah | Publikasi Ilmiah | Prestasi | Karya | HKI | Predikat |
-|----|-----|---------------------------|-----------|---------------|-----------------|---------------------|-------------------|------------------|----------|-------|-----|----------|
-| 1 | 3,97 | 3 | 477 | Tidak ada | A | Tidak ada | AB | Jurnal Bereputasi Q1 | - | - | - | Summa cumlaude |
-| 2 | 3,97 | 4 | 500 | Tidak ada | A | Tidak ada | AB | Jurnal Bereputasi Q4 | - | - | - | Summa cumlaude |
-| 3 | 3,95 | 4 | 510 | Tidak ada | A | Tidak ada | B | Jurnal Terindeks Q4 | - | - | - | Cumlaude |
-| 4 | 3,87 | 4 | 525 | Tidak ada | A | Tidak ada | B | - | - | Pameran internasional | - | Cumlaude |
-| 5 | 3,97 | 5 | 475 | Tidak ada | AB | Ada | AB | Sinta-2 | - | - | - | Sangat Memuaskan |
-| 6 | 3,55 | 7 | 500 | Tidak ada | B | Tidak ada | C | Sinta-3 | - | - | - | Sangat Memuaskan |
-
-### Program Doktor/Doktor Terapan
-
-| No | IPK | Lama Masa Studi (Semester) | Skor EPrT | Status Sanksi | Nilai Indeks TA | Status MK Mengulang | Nilai MK Terendah | Publikasi Ilmiah | Prestasi | Karya | HKI | Predikat |
-|----|-----|---------------------------|-----------|---------------|-----------------|---------------------|-------------------|------------------|----------|-------|-----|----------|
-| 1 | 4,00 | 6 | 510 | Tidak ada | A | Tidak ada | A | Jurnal Bereputasi Q1 | - | - | - | Summa cumlaude |
-| 2 | 3,97 | 6 | 500 | Tidak ada | A | Tidak ada | AB | 2 Jurnal Bereputasi Q2 | - | - | - | Summa cumlaude |
-| 3 | 3,87 | 6 | 525 | Tidak ada | A | Tidak ada | B | 2 Jurnal Bereputasi Q3 | - | - | - | Cumlaude |
-| 4 | 3,78 | 8 | 500 | Tidak ada | A | Tidak ada | B | Jurnal Bereputasi Q2 | - | - | - | Cumlaude |
-| 5 | 3,95 | 8 | 510 | Tidak ada | A | Tidak ada | B | Jurnal Bereputasi Q1 | - | - | - | Cumlaude |
-| 6 | 3,76 | 10 | 500 | Tidak ada | B | Ada | C | Jurnal Terindeks Q3 | - | - | - | Sangat Memuaskan |

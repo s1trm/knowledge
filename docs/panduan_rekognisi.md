@@ -1,16 +1,16 @@
 # Panduan Rekognisi Kegiatan Mahasiswa S1 TRM
 
-## Bab 1 Pendahuluan
+## **Pendahuluan**
 
-### 1.1. Latar Belakang
+### **Latar Belakang**
 
 Di era digital dan revolusi industri 4.0, dunia pendidikan tinggi dituntut menghasilkan lulusan yang tidak hanya memiliki kompetensi akademik tetapi juga kemampuan praktis yang relevan dengan kebutuhan industri dan masyarakat. Program Studi Sarjana Terapan Teknologi Rekayasa Multimedia berkomitmen mendukung pengembangan kompetensi mahasiswa melalui berbagai kegiatan di luar program studi, seperti praktik kerja industri, proyek independen, penelitian, kewirausahaan, dan kegiatan sosial.
 
 Kebijakan Merdeka Belajar Kampus Merdeka (MBKM) yang dicanangkan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi memberikan kesempatan bagi mahasiswa belajar di luar program studi selama maksimal tiga semester. Hal ini memungkinkan mahasiswa memperoleh pengalaman belajar yang lebih luas dan kontekstual. Akan tetapi, untuk memastikan kegiatan tersebut sejalan dengan capaian pembelajaran lulusan (CPL) program studi, diperlukan panduan ekuivalensi yang jelas dan terukur.
 
-### 1.2. Dasar Hukum
+### **Dasar Hukum**
 
-#### 1.2.1. Nasional
+#### **Nasional**
 
 Penyusunan panduan ekuivalensi kegiatan mahasiswa ini didasarkan peraturan perundang-undangan yang berlaku, antara lain sebagai berikut.
 
@@ -18,14 +18,14 @@ Penyusunan panduan ekuivalensi kegiatan mahasiswa ini didasarkan peraturan perun
 2. Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia Nomor 74/P/2021 tentang Pengakuan Satuan Kredit Semester Pembelajaran Program Kampus Merdeka, yang mengatur pengakuan SKS atas kegiatan pembelajaran di luar program studi.
 3. Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia Nomor 63 Tahun 2024 tentang Penyelenggaraan Magang Mahasiswa, yang memberikan pedoman pelaksanaan magang sebagai bagian dari kegiatan pembelajaran di luar program studi.
 
-#### 1.2.2. Perguruan Tinggi
+#### **Perguruan Tinggi**
 
 Universitas Telkom memiliki dasar peraturan dalam memberikan fasilitas kepada mahasiswa untuk melaksanakan kegiatan di luar program studi, di antaranya:
 
 1. Panduan Merdeka Belajar Kampus Merdeka (MBKM) tahun 2023 Universitas Telkom.
 2. Surat Keputusan Dekan No.KD041/AKD06/IT-DEK/2023 tentang rekognisi MBKM: Skenario dan ekuivalensi SKS di Fakultas Ilmu Terapan.
 
-### 1.3. Tujuan
+### **Tujuan**
 
 Panduan ekuivalensi ini bertujuan untuk:
 
@@ -33,7 +33,7 @@ Panduan ekuivalensi ini bertujuan untuk:
 2. Membantu dosen pembimbing akademik dan tim asesor dalam menilai dan menyetarakan kegiatan mahasiswa dengan mata kuliah yang sesuai dalam kurikulum.
 3. Menjamin kegiatan di luar program studi yang diakui memiliki kualitas dan relevansi setara dengan pembelajaran di dalam program studi.
 
-### 1.4. Manfaat
+### **Manfaat**
 
 Manfaat penerapan panduan ekuivalensi ini meliputi:
 
@@ -42,7 +42,7 @@ Manfaat penerapan panduan ekuivalensi ini meliputi:
 3. Memperkuat hubungan dunia akademik dan industri melalui pengakuan terhadap pengalaman praktis mahasiswa.
 4. Memastikan kegiatan di luar program studi berkontribusi secara signifikan terhadap pencapaian CPL program studi.
 
-### 1.5. Batasan
+### **Batasan**
 
 Panduan ekuivalensi ini memiliki batasan sebagai berikut.
 
@@ -53,15 +53,15 @@ Panduan ekuivalensi ini memiliki batasan sebagai berikut.
 
 ---
 
-## Bab 2 Landasan Ekuivalensi
+## **Landasan Ekuivalensi**
 
-### 2.1. Pengertian Ekivalensi
+### **Pengertian Ekivalensi**
 
 Ekuivalensi kegiatan adalah proses penyetaraan kegiatan pembelajaran mahasiswa di luar program studi formal dengan capaian pembelajaran yang telah ditentukan dalam kurikulum program studi. Proses ini dilakukan dengan menilai kesesuaian output, proses, dan kompetensi yang dihasilkan suatu kegiatan terhadap Capaian Pembelajaran Lulusan (CPL) dan Capaian Pembelajaran Mata Kuliah (CPMK) dalam kurikulum yang berlaku.
 
 Ekuivalensi tidak hanya bersifat administratif tetapi juga bertujuan menjamin pengalaman belajar mahasiswa melalui jalur non-konvensional memiliki nilai akademik dan kontribusi nyata terhadap pengembangan kompetensi.
 
-### 2.2. Prinsip Ekivalensi
+### **Prinsip Ekivalensi**
 
 Dalam pelaksanaan ekuivalensi terdapat prinsip-prinsip dasar yang menjadi pedoman, yaitu:
 
@@ -71,55 +71,55 @@ Dalam pelaksanaan ekuivalensi terdapat prinsip-prinsip dasar yang menjadi pedoma
 4. **Transparansi:** Prosedur dan kriteria ekuivalensi disusun secara terbuka agar mudah dipahami seluruh pihak terkait.
 5. **Akuntabilitas:** Setiap keputusan ekivalensi harus dapat dipertanggungjawabkan secara akademik dan administratif.
 
-### 2.3. Batasan Kegiatan dan Ekivalensi
+### **Batasan Kegiatan dan Ekivalensi**
 
 Setiap kegiatan harus disertai dokumentasi lengkap yang digunakan sebagai dasar penilaian. Jenis kegiatan yang dapat diajukan untuk proses ekuivalensi meliputi:
 
-#### 1. Praktik Kerja Industri
+#### **Praktik Kerja Industri**
 
 Praktik kerja industri adalah kegiatan pembelajaran di dunia kerja (industri, perusahaan, lembaga pemerintahan, atau organisasi lain) yang dilakukan dalam jangka waktu tertentu. Mahasiswa terlibat secara langsung dalam proses kerja profesional, baik sebagai anggota tim maupun individu.
 
 Jenis kegiatan yang dapat direkognisi adalah kegiatan yang sudah terdaftar dalam program rekognisi dari penyelenggara, di antaranya magang bersertifikat (MBKM), magang dua semester, magang ekstensi, Kuliah Kerja Nyata (KKN) Tematik, dan kegiatan serupa yang bersifat pembelajaran di dunia kerja. Jenis kegiatan ini hanya bisa diajukan mahasiswa tingkat 4 (empat) dan mengekuivalensi mata kuliah paket di semester aktif.
 
-#### 2. Studi Independen
+#### **Studi Independen**
 
 Studi independen adalah proses belajar di luar kampus yang menerapkan pembelajaran terstruktur maupun non-struktur dari mentor yang berpengalaman di perusahaan. Kegiatan pembelajaran yang diikuti harus sesuai Capaian Pembelajaran Lulusan di program studi dan memiliki rencana, tujuan, dan waktu yang jelas.
 
 Beberapa jenis kegiatan yang dapat diikuti dari program Studi Independen Bersertifikat (SIB) MBKM adalah Bangkit Academy, Dicoding Academy, dan Skilvul. Sedangkan contoh program Non-SIB diantaranya Coursera, Udemy, dan jenis kegiatan lain yang serupa dan bersifat pembelajaran reguler secara mandiri. Jenis kegiatan ini diajukan mahasiswa tingkat 3 (tiga) dan mengekuivalensi mata kuliah paket di semester aktif.
 
-#### 3. Penelitian atau Pengembangan Ilmiah
+#### **Penelitian atau Pengembangan Ilmiah**
 
 Penelitian atau pengembangan ilmiah adalah kegiatan yang berorientasi pada pencarian solusi berbasis metode ilmiah terhadap suatu permasalahan yang relevan dengan bidang teknologi multimedia interaktif. Jenis penelitian atau pengembangan ilmiah yang dilakukan harus berkolaborasi dengan industri atau masyarakat dan memiliki rencana, tujuan, dan waktu yang jelas.
 
 Beberapa jenis kegiatan yang dapat diikuti adalah Kedaireka (Kemitraan Dunia Usaha dan Kreasi Reka), PKM (Program Kreativitas Mahasiswa), dan jenis kegiatan lain yang serupa dan bersifat Problem Based Solving. Jenis kegiatan ini diajukan mahasiswa tingkat 3 (tiga) atau 4 (empat) dan mengekuivalensi mata kuliah paket di semester aktif.
 
-#### 4. Kegiatan Organisasi dan Sosial Kemasyarakatan
+#### **Kegiatan Organisasi dan Sosial Kemasyarakatan**
 
 Kegiatan organisasi dan sosial kemasyarakatan adalah aktivitas kemahasiswaan yang mengembangkan keterampilan kepemimpinan, manajemen, komunikasi, serta tanggung jawab sosial. Jenis kegiatan yang dilakukan harus berkolaborasi dengan komunitas kemasyarakatan dan memiliki dampak langsung terhadap lingkungan sosial.
 
 Beberapa jenis kegiatan yang dapat diikuti adalah POMN (Program Ormawa Membangun Negeri), P2MD (Program Pemberdayaan Masyarakat Desa), dan jenis kegiatan lain yang serupa dan bersifat pembelajaran dengan layanan kepada masyarakat. Jenis kegiatan ini diajukan mahasiswa tingkat 3 (tiga) atau 4 (empat) dan mengekuivalensi mata kuliah paket di semester aktif.
 
-#### 5. Pertukaran Pelajar atau Studi di Luar Prodi
+#### **Pertukaran Pelajar atau Studi di Luar Prodi**
 
 Pada pertukaran pelajar atau studi di luar prodi, mahasiswa mengikuti program akademik di perguruan tinggi lain, baik di dalam negeri maupun luar negeri, yang relevan dengan pengembangan keilmuan program studi. Beberapa jenis kegiatan yang dapat diikuti adalah PMM (Pertukaran Mahasiswa Merdeka), IISMA (Indonesian International Student Mobility Awards), dan jenis kegiatan lain yang serupa dan bersifat perkuliahan reguler. Jenis kegiatan ini diajukan mahasiswa tingkat 3 (tiga) dan mengekuivalensi mata kuliah paket di semester aktif.
 
-#### 6. Sertifikasi Profesi atau Pelatihan Intensif
+#### **Sertifikasi Profesi atau Pelatihan Intensif**
 
 Sertifikasi profesi atau pelatihan intensif adalah kegiatan berupa pelatihan, workshop, atau sertifikasi resmi yang diakui secara nasional/internasional dalam bidang multimedia, teknologi informasi, dan manajemen proyek. Jenis sertifikasi dan pelatihan yang diikuti harus sesuai profil lulusan program studi dan memenuhi Capaian Pembelajaran Mata Kuliah yang akan diekuivalensi.
 
 Beberapa jenis kegiatan yang dapat diikuti adalah sertifikasi yang diselenggarakan BNSP yang relevan dengan program studi, Adobe Certified Professional, Unity Certified Developer, dan Google Certified (Digital Garage/UX Design/IT Support), dan jenis kegiatan lain yang serupa dan bersifat pembelajaran keahlian. Jenis kegiatan ini diajukan mahasiswa tingkat 3 (tiga) atau 4 (empat) dan mengekuivalensi mata kuliah paket di semester aktif.
 
-#### 7. Kompetisi
+#### **Kompetisi**
 
 Untuk pengajuan rekognisi kompetisi, mahasiswa harus berpartisipasi dalam lomba atau ajang perlombaan yang bersifat akademik, baik secara individu maupun tim, yang menghasilkan capaian konkret sesuai bidang ilmu program studi. Kompetisi yang dapat direkognisi harus bersifat resmi, relevan dengan bidang teknologi multimedia, serta memiliki kontribusi terhadap pengembangan keterampilan, inovasi, dan portofolio mahasiswa.
 
 Beberapa jenis kegiatan yang dapat diikuti adalah GemasTIK (Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi), LIDM (Lomba Inovasi Digital Mahasiswa), Innovillage, dan jenis kegiatan lain yang serupa dan bersifat kompetitif dengan tujuan untuk menghasilkan pemenang, juara, atau finalis dalam bidang yang dilombakan. Jenis kegiatan ini diajukan mahasiswa tingkat 3 (tiga) atau 4 (empat) dan mengekuivalensi mata kuliah paket di semester aktif.
 
-#### 8. Bekerja
+#### **Bekerja**
 
 Khusus mahasiswa yang telah bekerja secara profesional di bidang yang sesuai profil lulusan, kegiatan kerja tersebut dapat diusulkan untuk diekuivalensikan dengan mata kuliah tertentu. Status bekerja meliputi pegawai perusahaan (tetap/kontrak), kerja lepas (freelance), dan wirausaha mandiri. Jenis kegiatan ini diajukan mahasiswa mulai tingkat 2 (dua) dengan syarat sudah lulus sidang tingkat 1 (satu) dan akan mengekuivalensi seluruh mata kuliah di semester aktif maksimal 20 SKS.
 
-### 2.4. Kesesuaian Capaian Pembelajaran Lulusan (CPL)
+### **Kesesuaian Capaian Pembelajaran Lulusan (CPL)**
 
 Penilaian ekuivalensi dilakukan dengan memetakan kegiatan mahasiswa terhadap Capaian Pembelajaran Mata Kuliah (CPMK) Program Studi Sarjana Terapan Teknologi Rekayasa Multimedia. Kegiatan yang memenuhi CPMK harus selaras dengan Capaian Pembelajaran Lulusan (CPL), yang dapat ditunjukkan melalui:
 
@@ -129,7 +129,7 @@ Penilaian ekuivalensi dilakukan dengan memetakan kegiatan mahasiswa terhadap Cap
 
 Pendekatan ini memastikan kegiatan mahasiswa tidak hanya diakui secara administratif tetapi juga secara substantif mencerminkan kemampuan lulusan yang diharapkan.
 
-### 2.5. Penilaian dan Validasi
+### **Penilaian dan Validasi**
 
 Penilaian ekuivalensi dilakukan tim operasional bidang akademik dan sistem pembelajaran Program Studi beserta Ketua Program Studi berdasarkan rubrik dan indikator yang telah disusun. Proses penilaian mencakup:
 
@@ -147,11 +147,11 @@ Validasi akhir dilakukan Ketua Program Studi dan ditetapkan melalui Surat Ketera
 
 ---
 
-## Bab 3 Proses Ekuivalensi
+## **Proses Ekuivalensi**
 
-### 3.1. Persyaratan Pengajuan Ekivalensi
+### **Persyaratan Pengajuan Ekivalensi**
 
-#### 3.1.1. Persyaratan Umum
+#### **Persyaratan Umum**
 
 1. Mahasiswa lulus seluruh mata kuliah tingkat 1 (semester 1 dan 2).
 2. Sebelum mengikuti kegiatan yang diekuivalensi ke mata kuliah di program studi, mahasiswa wajib melakukan bimbingan dan konsultasi dengan Dosen Wali untuk memastikan kesesuaian kegiatan dengan CPMK dan CPL program studi.
@@ -161,7 +161,7 @@ Validasi akhir dilakukan Ketua Program Studi dan ditetapkan melalui Surat Ketera
 6. Pengajuan rekognisi dilakukan mulai minggu ke-14 sampai ke-15 pada semester berjalan dan akan mengekuivalensi mata kuliah yang diambil di semester aktif.
 7. Setiap ajuan rekognisi bersifat individu sehingga hanya mahasiswa yang mengajukan yang akan diproses ekuivalensinya.
 
-#### 3.1.2. Persyaratan Dokumen Khusus
+#### **Persyaratan Dokumen Khusus**
 
 Untuk semua jenis kategori, wajib menyertakan **Surat Pengajuan Rekognisi**. Untuk masing-masing kategori, dokumen khusus yang harus disertakan adalah sebagai berikut.
 
@@ -178,7 +178,7 @@ Untuk semua jenis kategori, wajib menyertakan **Surat Pengajuan Rekognisi**. Unt
 | **9. Bekerja sebagai Pekerja Lepas (Freelance)** | a. Surat/bukti perjanjian kerjasama proyek<br>b. Bukti pembayaran proyek 6 bulan terakhir<br>c. Surat serah terima/pengakuan dari mitra |
 | **10. Bekerja sebagai Wirausaha Mandiri** | a. Surat Izin Usaha<br>b. Laporan usaha 6 bulan terakhir |
 
-### 3.2. Alur Rekognisi
+### **Alur Rekognisi**
 
 Berikut alur pengajuan ekuivalensi kegiatan di program studi.
 
@@ -191,7 +191,7 @@ Berikut alur pengajuan ekuivalensi kegiatan di program studi.
 <!-- ![Alur Rekognisi](../gambar/alur_rekognisi.png) -->
 ![Alur Rekognisi](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/alur_rekognisi.png)
 
-### 3.3. Pemetaan Mata Kuliah Ekuivalensi
+### **Pemetaan Mata Kuliah Ekuivalensi**
 
 Tabel berikut menunjukkan pemetaan mata kuliah dan jenis kegiatan yang dapat dilakukan ekuivalensi.
 
@@ -260,7 +260,7 @@ Kode jenis rekognisi:
 | 8 | GHK4EAB2 | Bahasa Inggris: Professional | 2 | ✓ | × | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 8 | GHK4JAC6 | Proyek Terapan | 3 | ✓ | × | ✓ | × | × | × | × | ✓ |
 
-### 3.4. Penilaian Kegiatan
+### **Penilaian Kegiatan**
 
 Setiap kegiatan yang diajukan harus mendapatkan nilai sebagai dasar awal penilaian akhir mata kuliah. Nilai yang diperoleh dari suatu kegiatan berasal dari beberapa sumber. Berikut sumber dan cara memperoleh nilai akhir dari suatu kegiatan mahasiswa.
 
@@ -277,7 +277,7 @@ Setiap kegiatan yang diajukan harus mendapatkan nilai sebagai dasar awal penilai
 | 9 | Bekerja sebagai Tenaga Lepas (Freelance) | Rata-rata penghasilan per bulan |
 | 10 | Bekerja sebagai Wirausaha Mandiri | Rata-rata penghasilan per bulan |
 
-#### 3.4.1. Penentuan Nilai Kompetisi
+#### **Penentuan Nilai Kompetisi**
 
 Sertifikat juara/pemenang kompetisi yang diperoleh biasanya tidak terdapat nilai angka namun hanya menyebutkan posisi juara dan jenis kompetisi yang diikuti. Berikut pedoman penilaian juara kompetisi berdasarkan tingkat kompetisi dan posisi yang diperoleh mahasiswa.
 
@@ -287,7 +287,7 @@ Sertifikat juara/pemenang kompetisi yang diperoleh biasanya tidak terdapat nilai
 | 2 | Nasional | 95 | 90 | 85 | 80 |
 | 3 | Regional | 90 | 85 | 80 | 75 |
 
-#### 3.4.2. Penentuan Nilai Bekerja
+#### **Penentuan Nilai Bekerja**
 
 Khusus jenis kegiatan mahasiswa bekerja, atasan langsung dapat memberikan penilaian sesuai format surat di perusahaan dan sudah terdapat nilai angka. Nilai tersebut dapat langsung digunakan sebagai penilaian dari atasan langsung. Namun jika atasan di perusahaan tidak memiliki format khusus, program studi menyediakan format yang dapat digunakan mahasiswa untuk mengajukan penilaian atasan langsung. Berikut komponen penilaian atasan berikut opsi dan bobot nilainya.
 
@@ -316,7 +316,7 @@ Berdasarkan konsep IKU 1 (Indikator Kinerja Utama Perguruan Tinggi) Kemendikbudr
 | 4 | 0,50 – 0,74 × UMP | Kurang Layak | 50 |
 | 5 | < 0,50 × UMP | Tidak Layak | 40 |
 
-### 3.5. Penilaian CPMK
+### **Penilaian CPMK**
 
 Proses ekuivalensi harus relevan dengan CPMK pada suatu mata kuliah. Setidaknya membutuhkan nilai angka > 50 poin dari total nilai CPMK agar dapat lulus mata kuliah. Penilaian CPMK untuk rekognisi kegiatan mahasiswa dilakukan dosen pengampu mata kuliah dengan melihat laporan kegiatan atau asesmen capaian mahasiswa terhadap indikator di setiap CPMK.
 
@@ -330,7 +330,7 @@ Dosen pengampu dapat mengikuti rubrik penilaian berikut untuk menentukan nilai b
 | 4 | Tidak Baik / Sesuai | 50 |
 | 5 | Sangat Tidak Baik / Sesuai | 40 |
 
-### 3.6. Penilaian Akhir Mata Kuliah
+### **Penilaian Akhir Mata Kuliah**
 
 Proses penilaian akhir untuk suatu mata kuliah diambil berdasarkan kesesuaian laporan kegiatan terhadap indikator pada setiap poin CPMK. Berikut panduan pembagian bobot nilai di setiap jenis kegiatan untuk mendapatkan nilai akhir mata kuliah.
 
@@ -345,11 +345,11 @@ Proses penilaian akhir untuk suatu mata kuliah diambil berdasarkan kesesuaian la
 | 7 | Kompetisi | 60% | 40% | Kompetisi bersifat capaian langsung dan terukur sehingga nilai prestasi (juara/finalis) lebih dominan. |
 | 8 | Bekerja | 50% | 50% | Perlu asesmen mendalam baik dari sisi performa bisnis maupun relevansi capaian. |
 
-### 3.7. Rekognisi Mata Kuliah Tingkat Akhir
+### **Rekognisi Mata Kuliah Tingkat Akhir**
 
 Di tingkat akhir, sebagian besar mahasiswa akan mengikuti magang. Untuk memastikan kegiatan magang berjalan lancar, mata kuliah semester 7 otomatis diekuivalensi dan mata kuliah semester 8 diekuivalensi bagi mahasiswa yang Magang Dua Semester (Madusem).
 
-#### 3.7.1. Mata Kuliah Semester 7
+#### **Mata Kuliah Semester 7**
 
 Di Kurikulum 2024, selain mata kuliah Magang dan Seminar Magang, mahasiswa juga wajib mengambil mata kuliah Kapita Selekta dan Seminar Proposal di Semester 7. Kedua mata kuliah ini direkognisi lewat magang (Praktik Kerja Industri). Tabel berikut menunjukkan proses penilaian CPMK untuk kedua mata kuliah tersebut.
 
@@ -362,7 +362,7 @@ Di Kurikulum 2024, selain mata kuliah Magang dan Seminar Magang, mahasiswa juga 
 | | CPMK-02: Mampu mempresentasikan isi proposal proyek akhir dengan singkat, padat, dan jelas, baik secara luring maupun secara daring. | Nilai dari calon pembimbing proyek akhir menggunakan Berita Acara Ekuivalensi CPMK |
 | | CPMK-03: Mampu berinteraksi dengan para pemangku kepentingan pengerjaan proyek akhir di kampus sesuai dengan adan dan peraturan yang berlaku. | Nilai dari calon pembimbing proyek akhir menggunakan Berita Acara Ekuivalensi CPMK |
 
-#### 3.7.2. Mata Kuliah Semester 8
+#### **Mata Kuliah Semester 8**
 
 Tabel berikut menunjukkan mata kuliah semester 8 dan sumber penilaian untuk rekognisinya.
 
@@ -386,16 +386,8 @@ Tabel berikut menunjukkan mata kuliah semester 8 dan sumber penilaian untuk reko
 
 ---
 
-## Bab 4 Penutup
-
-Dokumen panduan ini disusun sebagai acuan bagi mahasiswa, dosen, dan pengelola program studi dalam melaksanakan proses ekuivalensi kegiatan di luar program studi ke dalam bentuk capaian pembelajaran dan mata kuliah yang diakui secara akademik. Dengan adanya panduan ini, diharapkan proses rekognisi dapat berjalan secara objektif, transparan, dan akuntabel, serta memberikan pengakuan yang adil atas pengalaman belajar mahasiswa yang diperoleh melalui berbagai aktivitas di luar kampus.
-
-Panduan ini akan terus disempurnakan seiring perkembangan kebijakan dari kementrian terkait, perguruan tinggi dan kebutuhan program studi Sarjana Terapan Teknologi Rekayasa Multimedia. Masukan dan saran dari berbagai pihak sangat kami harapkan demi kesempurnaan dokumen ini di masa mendatang.
-
-Semoga panduan ini dapat menjadi pedoman yang bermanfaat dan mendukung peningkatan mutu pembelajaran serta pencapaian profil lulusan yang unggul dan adaptif terhadap dinamika dunia kerja dan masyarakat.
-
-
 ## Lampiran
 - [Surat Pengajuan Rekognisi](https://docs.google.com/document/d/1LKk2uHffDds-XxL-VktdkX-vbPyNgEwmrT2fVKbfF6g/copy?usp=sharing)
 - [Surat Pengajuan Rencana Rekognisi](https://docs.google.com/document/d/1Zkh6aUQx7E1Uo0iy84KuHXjF7SbPAvvcDqOirz_rc8U/copy?usp=sharing)
 - [Formulir Penilaian Atasan](https://docs.google.com/document/d/1wIgy_ULEhh7q7T1dO8WMoKIm7EZo9GXT5uqfAzvkfHI/copy?usp=sharing)
+- [Berita Acara Verifkasi Kerja](https://docs.google.com/document/d/1WwFEdzj8V9kVkOuMyhLJBH7Js9ecDVaYn_PhdCh1j7A/copy?usp=sharing)
