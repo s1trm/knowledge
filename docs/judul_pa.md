@@ -1,4 +1,4 @@
-# Daftar Judul Proyek Akhir
+# Katalog Judul Proyek Akhir
 
 ## 2026
 
