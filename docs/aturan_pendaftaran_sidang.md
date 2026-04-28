@@ -2,7 +2,7 @@
 
 Pendaftaran Sidang Fakultas Ilmu Terapan dilakukan dengan **dua tahap** sebagai berikut.
 
-## TAHAP 1 VIA IGRACIAS
+## **TAHAP 1 VIA IGRACIAS**
 
 1. Buka iGracias, masuk ke menu TA/PA > Daftar TA/PA > Status TA/PA Mahasiswa.
 2. Mahasiswa mengisi Pengajuan Proposal (1) dan memilih Dosen Pembimbing (2) serta mendapatkan approval dari dosen pembimbing yang dipilih.
@@ -13,7 +13,7 @@ Pendaftaran Sidang Fakultas Ilmu Terapan dilakukan dengan **dua tahap** sebagai 
     - Untuk mahasiswa **angkatan sebelum 2022**, silakan melihat panduan [**Pengajuan SKPI di iGracias**](https://www.instagram.com/p/CKnr_ZzJMfE/?igshid=ZjA0NjI3M2I%3D)
 6. Pastikan SKPI sudah di-approve oleh BK, LAC dan Dosen Wali.
 
-## TAHAP 2 VIA GOOGLE CLASSROOM
+## **TAHAP 2 VIA GOOGLE CLASSROOM**
 
 Pengumpulan berkas dapat dilakukan di **Google Classroom** (link pendaftaran di dalam postingan Instagram [@la.fit.telu](https://www.instagram.com/la.fit.telu/)) dengan menggunakan akun SSO (usernameiGracias@student.telkomuniversity.ac.id) serta mengumpulkan berkas sebagai berikut:
 
@@ -36,7 +36,7 @@ Pengumpulan berkas dapat dilakukan di **Google Classroom** (link pendaftaran di 
 
 **Ketentuan pakaian khusus WANITA**
 
-![Foto Formal Wanita - Telkom University](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/foto_formal_wanita.jpg) ![Foto Formal Wanita (Berhijab) - Telkom University](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/foto_formal_wanita_berhijab.jpg)
+![Foto Formal Wanita - Telkom University](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/foto_formal_wanita.jpg) ![Foto Formal Wanita (Berhijab) - Telkom University](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/foto_formal_wanita_berhijab.png)
 
 - Menggunakan jas almamater dengan kemeja putih
 - Untuk mahasiswi yang mengenakan jilbab, dimohon untuk tidak menggunakan jilbab variasi dan tidak menutupi almamater
