@@ -58,3 +58,5 @@ Pengumpulan berkas dapat dilakukan di **Google Classroom** (link pendaftaran di 
 - **Jadwal pelaksanaan sidang** akan diumumkan melalui [Instagram LA FIT – @la.fit.telu](https://www.instagram.com/la.fit.telu/)
 - Contoh berkas pendaftaran sidang: [https://bit.ly/ContohPendaftaranSidang](https://bit.ly/ContohPendaftaranSidang)
 - Contoh berkas revisi sidang: [https://bit.ly/ContohRevisiSidang](https://bit.ly/ContohRevisiSidang)
+
+[sumber](https://la-fit.telkomuniversity.ac.id/aturan-pendaftaran-sidang/)
