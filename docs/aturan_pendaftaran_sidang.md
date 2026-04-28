@@ -19,13 +19,13 @@ Pengumpulan berkas dapat dilakukan di **Google Classroom** (link pendaftaran di 
 
 > Setiap dokumen diberi nomor sesuai urutan di bawah ini
 
-1. \[PDF\] Form Pendaftaran sidang TA/PA, wajib ditanda tangan oleh salah satu Pembimbing TA, Dosen Wali, dan Mahasiswa (Form di download di ***[https://bit.ly/FormPendaftaranSidang-1](https://bit.ly/FormPendaftaranSidang-1)***). Dengan melakukan persetujuan sidang di I-Gracias pembimbing secara otomatis memberikan approval sidang di form pendaftaran. Dosen wali melakukan approval persetujuan sidang dengan menyetujui form permohonan sidang.
+1. \[PDF\] Form Pendaftaran sidang TA/PA, wajib ditanda tangan oleh salah satu Pembimbing TA, Dosen Wali, dan Mahasiswa (Form di download di [https://bit.ly/FormPendaftaranSidang-1](https://bit.ly/FormPendaftaranSidang-1)). Dengan melakukan persetujuan sidang di I-Gracias pembimbing secara otomatis memberikan approval sidang di form pendaftaran. Dosen wali melakukan approval persetujuan sidang dengan menyetujui form permohonan sidang.
 2. \[PDF\] Transkrip Nilai Akhir ditandatangani dosen wali (**Cetak langsung melalui I-Gracias, Menu Nilai >> KHS >> Cetak nilai akhir >> tampilkan semua**). Apabila ada matakuliah yang belum masuk nilainya, atau matakuliah yang melebihi sks diberikan catatan oleh dosen wali. Jika belum ada nilai magang di I-Gracias/Transkrip Nilai, diberi catatan progres magangnya dan di ttd oleh dosen pembimbing akademik magangnya.
 3. \[PDF\] Kartu Studi Mahasiswa (KSM) Dicetak langsung melalui I-Gracias. (**menu registrasi >> pilih arsip KSM**)
-4. \[PDF\] Surat Pernyataan Kesesuaian Data Akademik I-Gracias (***[https://bit.ly/SuratPernyataanKesesuaianDataAkademikIgracias](https://bit.ly/SuratPernyataanKesesuaianDataAkademikIgracias)***)
-5. \[PDF\] Form Permohonan Sidang, dengan tandatangan dosen wali (***[https://bit.ly/FormIzinSidang-1](https://bit.ly/FormIzinSidang-1)***)
+4. \[PDF\] Surat Pernyataan Kesesuaian Data Akademik I-Gracias ([https://bit.ly/SuratPernyataanKesesuaianDataAkademikIgracias](https://bit.ly/SuratPernyataanKesesuaianDataAkademikIgracias))
+5. \[PDF\] Form Permohonan Sidang, dengan tandatangan dosen wali ([https://bit.ly/FormIzinSidang-1](https://bit.ly/FormIzinSidang-1))
 6. \[PDF\] Toefl EPRT Score Minimal 450, atau [**Surat Pemakluman**](https://la-fit.telkomuniversity.ac.id/surat-pemakluman-eprt-toefl/) dengan 3 Sertifikasi EPRT dengan Score ‹ 450 Aktif & Status SKPI Sudah diinput.
-7. \[PDF\] LOA (Khusus Untuk Jalur Publikasi, rubrikasi penilaian jalur Publikasi dapat didownload di: ***[https://bit.ly/FormRubrikasiPenilaianJalurPublikasi](https://bit.ly/FormRubrikasiPenilaianJalurPublikasi)***) (Dibawa ketika hari H sidang, dikumpulkan nanti ketika revisi sidang sudah dibuka)
+7. \[PDF\] LOA (Khusus Untuk Jalur Publikasi, rubrikasi penilaian jalur Publikasi dapat didownload di: [https://bit.ly/FormRubrikasiPenilaianJalurPublikasi](https://bit.ly/FormRubrikasiPenilaianJalurPublikasi)) (Dibawa ketika hari H sidang, dikumpulkan nanti ketika revisi sidang sudah dibuka)
 8. \[PNG\] Foto formal dengan ketentuan berikut:
 
 **Ketentuan pakaian khusus PRIA**
