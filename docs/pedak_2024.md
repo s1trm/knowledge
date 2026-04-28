@@ -1,4 +1,6 @@
-# Pedoman Akademik Universitas Telkom Tahun 2024
+<!-- # Pedoman Akademik Universitas Telkom Tahun 2024 -->
+# **Pedoman Akademik 2024**
+
 [Dokumen Lengkap](https://drive.google.com/file/d/1NVDW-5PDtfrj9BRHI6hU6Uw1mToaKe1J/view?usp=drive_link)
 
 ## **Pasal 1 Pengertian Umum**

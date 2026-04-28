@@ -21,14 +21,20 @@ theme:
 
   logo: assets/logo.png
 
+plugins:
+  - search
+
 nav:
-  - pedak_2024.md
+  - Pedoman Akademik:
+    - pedak_2024.md
 
   - Proyek Akhir:
     - panduan_penyelesaian_tugas_akhir.md
     - kriteria_tambahan_summa_cumlaude.md
     - persyaratan_kelulusan_dan_standar_tugas_akhir.md
     - judul_pa.md
+    - perubahan_judul.md
+    - surat_pemakluman_eprt.md
 
   - SKPI:
     - skpi_2022.md
@@ -45,3 +51,15 @@ nav:
     - panduan_rekognisi.md
   # - FAQ: faq.md
     
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - admonition
+
