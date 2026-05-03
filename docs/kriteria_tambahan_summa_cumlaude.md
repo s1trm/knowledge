@@ -8,7 +8,7 @@
 
 2. mendapat nilai indeks A pada mata kuliah Tugas Akhir;
 
-## *Kriteria Tambahan Khusus untuk Predikat Summa Cumlaude:*
+## **Kriteria Tambahan Khusus untuk Predikat Summa Cumlaude**
 
 1. **Tidak pernah mengulang mata kuliah;**
 
