@@ -25,6 +25,10 @@ plugins:
   - search
 
 nav:
+  - Kurikulum:
+    - plo.md
+    - clo_plo.md
+
   - Pedoman Akademik:
     - pedak_2024.md
 
@@ -35,6 +39,10 @@ nav:
     - judul_pa.md
     - prosedur_pa.md
 
+  - Rekognisi:
+    - panduan_rekognisi.md
+  # - FAQ: faq.md
+
   - SKPI:
     - skpi_2022.md
 
@@ -42,13 +50,6 @@ nav:
     - tak.md
     # - sptjm.md
 
-  - Kurikulum:
-    - plo.md
-    - clo_plo.md
-
-  - Rekognisi:
-    - panduan_rekognisi.md
-  # - FAQ: faq.md
     
 
 markdown_extensions:
