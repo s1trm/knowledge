@@ -391,3 +391,43 @@ Tabel berikut menunjukkan mata kuliah semester 8 dan sumber penilaian untuk reko
 - [Surat Pengajuan Rencana Rekognisi](https://docs.google.com/document/d/1Zkh6aUQx7E1Uo0iy84KuHXjF7SbPAvvcDqOirz_rc8U/copy?usp=sharing)
 - [Formulir Penilaian Atasan](https://docs.google.com/document/d/1wIgy_ULEhh7q7T1dO8WMoKIm7EZo9GXT5uqfAzvkfHI/copy?usp=sharing)
 - [Berita Acara Verifkasi Kerja](https://docs.google.com/document/d/1WwFEdzj8V9kVkOuMyhLJBH7Js9ecDVaYn_PhdCh1j7A/copy?usp=sharing)
+- Berita Acara Ekuivalensi CPMK Tingkat 2
+    - [Basis Data](https://docs.google.com/document/d/1jHaL5_IS58u9Vj8mgilJoSQA9wo7tvTKCTPDGbyl_SM/copy?usp=sharing)
+    - [Desain Antarmuka Pengguna](https://docs.google.com/document/d/1b3E8txrDBAdRxf2aYSTRpVXyt8YopQkkkRmrO1jF-UY/copy?usp=sharing)
+    - [Kecerdasan Buatan](https://docs.google.com/document/d/1yM1NRc6To_qM_YJwwTjpPIyreAJFAKjFdAjsRmBEEjE/copy?usp=sharing)
+    - [Kewarganegaraan](https://docs.google.com/document/d/1iEvb0vko2GVb8K4ezWdvBfEgKFRw8wiZGU2oIe8FMBg/copy?usp=sharing)
+    - [Kewirausahaan](https://docs.google.com/document/d/1Eft7zkFv3NrvAro08Lv85Ev9gI94QU3l2Z-Oc-pdVAY/copy?usp=sharing)
+    - [Pancasila](https://docs.google.com/document/d/1EYKJQHkpppM6LsZJmMlvY1D9C8lgL7BmOAGdR1i1uGE/copy?usp=sharing)
+    - [Pemrograman Berorientasi Objek](https://docs.google.com/document/d/1ZqPUkbtjPy3dab0ua30tvGY9uLWE3Q9nYg9bQjwAM0k/copy?usp=sharing)
+    - [Pemrograman Multimedia Interaktif](https://docs.google.com/document/d/1pK3v0xgSO5dkQ6c5wJZ5C1G9vaCTFbDlMOzClCOTpy0/copy?usp=sharing)
+    - [Pemrograman Simulator](https://docs.google.com/document/d/1R5h9k71epHJaLHgdoK2OE--YL8G3xyC8OjRHaXSbafg/copy?usp=sharing)
+    - [Pemrograman Web Interaktif 1](https://docs.google.com/document/d/1CvbzpvvNXcUCC56S0zjPHq8zOzExCuXTY0N9m9OPBpI/copy?usp=sharing)
+    - [Pengantar Bisnis Tik](https://docs.google.com/document/d/1icbYsLEU7otqPq5OjwaPo0hfhjUskCPde-51-x2Rflk/copy?usp=sharing)
+    - [Proyek Multimedia 1](https://docs.google.com/document/d/14jeIOhd94F1tf6_5Jcz_nSS6hZrl7meaLox9P_uIO3Y/copy?usp=sharing)
+    - [Rekayasa Aplikasi Multimedia](https://docs.google.com/document/d/1nPvn22TccokkzaB46470um7JKf8a_rYU_cXdxkax4gY/copy?usp=sharing)
+    - [Teknik Penceritaan Digital](https://docs.google.com/document/d/1BCCp9d2WxuxW2t32grr01-Ftw63LGbhueSI7XqhIZc0/copy?usp=sharing)
+
+- Berita Acara Ekuivalensi CPMK Tingkat 3
+    - [Augmentasi Realitas](https://docs.google.com/document/d/1gGW-Ctev_aejJFGbzBFKgJC0CxSlBMjLtvbaSk_Y1YU/copy?usp=sharing)
+    - [Gim Novel Visual](https://docs.google.com/document/d/1MtUmLIRlb-YJSj3S3TKR3xQC5F3Mjv94QPuNakTgrk4/copy?usp=sharing)
+    - [Inovasi Bisnis Tik](https://docs.google.com/document/d/1h8qG8HvVrmeAYbA5Kcw5fStJ2b9ZBPmzL3Nm70MmYv4/copy?usp=sharing)
+    - [Jaringan Pelanggan Bisnis Tik](https://docs.google.com/document/d/19-XRk1X3HIKBRmVk2DtiB-i0JkdSZ3BdTO-hcS47jpw/copy?usp=sharing)
+    - [Pemrograman Gim](https://docs.google.com/document/d/1hNum-Lce_nlk3DYa5KY6ws0NwNiEHWDeejLKTt7bUWw/copy?usp=sharing)
+    - [Pemrograman Perangkat Bergerak Multimedia](https://docs.google.com/document/d/1G1hIDIGHxY3VZAaZo5THQ3Flg_9W1n2qbzCMPMfbg40/copy?usp=sharing)
+    - [Pemrograman Web Interaktif 2](https://docs.google.com/document/d/1efPGlYgTA66B0L5Myz7GLsLSqVoXDN_jU8Vy99BB8wo/copy?usp=sharing)
+    - [Pengujian Aplikasi Multimedia](https://docs.google.com/document/d/1ySvy0DjZABnu-dScf4nE-7rkRxaruhbyfuphHf2SGZQ/copy?usp=sharing)
+    - [Proyek Multimedia 2](https://docs.google.com/document/d/17Ae0f3gZkQaFDHNRx7099x567pMao5-5dJOGnhhzHZ4/copy?usp=sharing)
+    - [Teknik Produksi Audio](https://docs.google.com/document/d/1brZpuoyEuuWIhZxdiuv9a4NZIb5JPMk3sblvlUxk3YQ/copy?usp=sharing)
+    - [Teknik Produksi Video](https://docs.google.com/document/d/1JYNrbygFchmzhY7NezYi_uYbl1i1AGiTjnx2fypYhsI/copy?usp=sharing)
+    - [Virtualisasi Realitas](https://docs.google.com/document/d/1b_yFfYiNYIAYMR1HfUUNlriSMngNZCeqNZ-NHuepnu8/copy?usp=sharing)
+  
+- Berita Acara Ekuivalensi CPMK Tingkat 4
+    - [Bahasa Inggris : Professional](https://docs.google.com/document/d/1-a9MCIcPD6Hts3jMGqn2RAuedoe5uQ85ZafAwZHJbKE/copy?usp=sharing)
+    - [Kapita Selekta](https://docs.google.com/document/d/1VcZ8n1_mdX5uoTGrK0wMklJdWigIZQF8q3h4faGqRWA/copy?usp=sharing)
+    - [Manajemen Proyek](https://docs.google.com/document/d/1ubbgZdD_xOXRw5heBI0-uOiGO4jqxWC-TKa6qfCDMus/copy?usp=sharing)
+    - [Olah Raga](https://docs.google.com/document/d/1S6N2TR8ajG5pGsvDiUYqdYAR179kVTiDFbOvKstipx8/copy?usp=sharing)
+    - [Pengembangan Profesionalisme](https://docs.google.com/document/d/1olOU7vlN25qtXc4cJOVq_FJcemX80RnnnqgdIW0Etgk/copy?usp=sharing)
+    - [Proyek Terapan](https://docs.google.com/document/d/13DoqbyLhBLPGA4CMXB7O8MzonnsmaA8PTJ9vY9l7G4M/copy?usp=sharing)
+    - [Seminar Proposal](https://docs.google.com/document/d/1Orltt-57Gc3Du6cl5RNnt7RE66HqMW_6kohJBvgLpU4/copy?usp=sharing)
+
+

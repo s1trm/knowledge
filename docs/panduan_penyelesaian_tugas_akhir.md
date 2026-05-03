@@ -1,5 +1,7 @@
 # **Panduan Penyelesaian Tugas Akhir**
 
+[Dokumen](https://drive.google.com/file/d/1BiTJp26T9A--MA4wdy0TBed2MQn9yib4/view?usp=drive_link)
+
 ## **Definisi**
 
 Tugas Akhir (TA) Program Diploma adalah karya akhir mahasiswa dalam bentuk proyek nyata atau kajian terapan yang menunjukkan kemampuan menerapkan ilmu pengetahuan dan keterampilan teknis untuk menghasilkan solusi atau inovasi yang bermanfaat bagi industri atau masyarakat. TA merupakan matakuliah wajib bagi setiap mahasiswa Fakultas Ilmu Terapan di Kurikulum 2024 yang diselenggarakan di Semester 6 (Diploma 3) dan Semester 8 (Diploma 4), sebagai salah satu persyaratan untuk memperoleh gelar A.Md. (Diploma 3) dan S.Tr. (Diploma 4).
@@ -256,12 +258,11 @@ Nilai Akhir dari Tugas Akhir dinyatakan dengan nilai mutu dan status kelulusan y
 | 40 < NA ≤ 50 | D |
 | NA ≤ 40 | E |
 
-**Catatan:**
-
-- Mahasiswa dinyatakan lulus Tugas Akhir apabila telah lulus sidang, menyelesaikan revisi (jika ada) dan mengumpulkan dokumen serta produk Tugas Akhir.
-- Mahasiswa yang lulus tetapi ada revisi, menyerahkan Lembar Form Revisi Sidang, buku TA dan kelengkapannya paling lambat **15 hari kerja** ke Layanan Akademik. Keterlambatan akan menyebabkan pembatalan kelulusan sidang.
-- Nilai hasil sidang diumumkan oleh Pembimbing 1 setelah mahasiswa menyelesaikan revisi (bila ada).
-- Sidang ulang dilaksanakan pada pelaksanaan sidang bulan selanjutnya.
+!!! Catatan
+    - Mahasiswa dinyatakan lulus Tugas Akhir apabila telah lulus sidang, menyelesaikan revisi (jika ada) dan mengumpulkan dokumen serta produk Tugas Akhir.
+    - Mahasiswa yang lulus tetapi ada revisi, menyerahkan Lembar Form Revisi Sidang, buku TA dan kelengkapannya paling lambat **15 hari kerja** ke Layanan Akademik. Keterlambatan akan menyebabkan pembatalan kelulusan sidang.
+    - Nilai hasil sidang diumumkan oleh Pembimbing 1 setelah mahasiswa menyelesaikan revisi (bila ada).
+    - Sidang ulang dilaksanakan pada pelaksanaan sidang bulan selanjutnya.
 
 ## **Hak Cipta dan Publikasi**
 
