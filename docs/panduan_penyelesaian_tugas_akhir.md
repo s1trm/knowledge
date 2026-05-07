@@ -277,4 +277,3 @@ Plagiarisme atau plagiat adalah mengambil ide atau tulisan orang lain dan diguna
 ## **Aturan Lain**
 
 Aturan lain yang belum tercakup oleh pedoman ini dibahas dan diputuskan melalui Rapat Jurusan/Program Studi.
-
