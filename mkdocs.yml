@@ -25,6 +25,9 @@ plugins:
   - search
 
 nav:
+  - Administrasi:
+    - surat.md
+
   - Kurikulum:
     - plo.md
     - clo_plo.md
@@ -48,13 +51,8 @@ nav:
   - SKPI:
     - skpi_2022.md
 
-  - Administrasi:
-    - surat.md
-
   - TAK:
     - tak.md
-
-    
 
 markdown_extensions:
   - pymdownx.highlight:
