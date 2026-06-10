@@ -500,8 +500,11 @@ Gambar berikut menunjukkan alur pendaftaran dan pelaksanaan magang 1 Semester da
 
 ![Gambar 1. Alur Pendaftaran & Pelaksanaan Magang 1 Semester dan 2 Semester](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/alur_pendaftaran_1semester.png)
 
-
----
 Gambar berikut menunjukkan alur pendaftaran dan pelaksanaan magang perpanjangan (2 Semester).
 
 ![Gambar 2. Alur Pendaftaran & Pelaksanaan Magang Perpanjangan (2 Semester)](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/alur_pendaftaran_2semester.png)
+
+
+## Tambahan (Links)
+1. [Agenda Magang](https://magang-sas.telkomuniversity.ac.id/agenda-magang/)
+1. [Alur Pendaftaran Magang](https://magang-sas.telkomuniversity.ac.id/aturan-magang/)
