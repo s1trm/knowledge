@@ -1,8 +1,8 @@
-# Katalog Judul Proyek Akhir
+# Katalog Judul TA
 
 ## 2026
 
-| No | Nama | Judul PA |
+| No | Nama | Judul TA |
 | -- | ---- | -------- |
 | 1 | Hanna Naila Yusuf | Perancangan Desain Ui/ux Website Promosi Film Animasi Perempuan Yang Mengangkat Nilai Budaya Melalui Alat Musik Karinding Pt. Atap Promotions - Dalam Bentuk Buku Karya Ilmiah |
 | 2 | Yasikha Farras Ismail | Pengembangan Prototipe Chatbot Untuk Ticketing Infrastruktur Di Pt. X Menggunakan Arsitektur Rag - Dalam Bentuk Buku Karya Ilmiah |
@@ -16,7 +16,7 @@
 
 ## 2025
 
-| No | Nama | Judul PA |
+| No | Nama | Judul TA |
 | -- | ---- | -------- |
 | 1 | Dinda Aulia | Optimasi Pengalaman Pengguna Dalam Website Smb Telkom University Versi Mobile Menggunakan Usability Testing Dan User Experience Questionnaire (ueq) - Dalam Bentuk Buku Karya Ilmiah |
 | 2 | Riskotul | Implementasi Aplikasi Edukasi Interaktif Pemilahan Sampah Berbasis Digital Signage Menggunakan Metode Rapid Application Development - Dalam Bentuk Buku Karya Ilmiah |
@@ -84,7 +84,7 @@
 
 ## 2024
 
-| No | Nama | Judul PA |
+| No | Nama | Judul TA |
 | -- | ---- | -------- |
 | 1 | Alma Nafiisah Deswandi | Pengembangan Desain Antarmuka Website Lembaga Keuangan Mikro Pt Bpr Hoki - Dalam Bentuk Buku Karya Ilmiah |
 | 2 | Alif Kamal Jauhari | Pengembangan Social Entertainment Metaverse: Pataland Di Startup Cube Studio Berbasis Platform Virtual Reality - Dalam Bentuk Buku Karya Ilmiah |
@@ -184,7 +184,7 @@
 
 ## 2023
 
-| No | Nama | Judul PA |
+| No | Nama | Judul TA |
 | -- | ---- | -------- |
 | 1 | Timothy Gabriel Ramaliasta | Perancangan 3d Modeling Bni Sarinah Properti Untuk Metaverse Dengan Aplikasi Blender Di Pt.bank Negara Indonesia |
 | 2 | Muhammad Noufal | Perancangan Game Flow Aplikasi Virtual Larning Pengenalan Ekologi Hewan Untuk Siswa Sekolah Dasar Negeri Pelita Karya 02 Subang |
@@ -345,7 +345,7 @@
 
 ## 2022
 
-| No | Nama | Judul PA |
+| No | Nama | Judul TA |
 | -- | ---- | -------- |
 | 1 | Adi Nugraha | Aplikasi Pembelajaran Rangka Dan Organ Luar Manusia Berbasis Augmented Reality |
 | 2 | Muhammad Irfan Putra Nusantoro | Pembuatan Aplikasi Media Pembelajaran Alat Peraga Macam-macam Tulang Manusia Berbasis Augmented Reality Pada Buku Biologi Sma Kelas 11 Ktsp 2013 |
@@ -405,7 +405,7 @@
 
 ## 2021
 
-| No | Nama | Judul PA |
+| No | Nama | Judul TA |
 | -- | ---- | -------- |
 | 1 | Opriedo Sihaloho | Pembuatan Fitur 2d Aplikasi Proses Pelayanan Jasa Pt.balai Besar Bahan Dan Barang Teknik (b4t) Berbasis Unity |
 | 2 | Muhammad Iqbal Al Maududi | Perancangan Aplikasi Permainan 2d Berhitung Untuk Siswa Sekolah Dasar |
@@ -482,7 +482,7 @@
 
 ## 2020
 
-| No | Nama | Judul PA |
+| No | Nama | Judul TA |
 | -- | ---- | -------- |
 | 1 | Rienesa Darmawan | Perancangan Dan Implementasi E-learning Simulasi Unbk Berbasis Learning Management System Moodle Untuk Mts Husnul Khotimah |
 | 2 | Agriva Ruth Cristina Lingga | Rancang Bangun Alat Deteksi Untuk Menentukan Kualitas Posisi Parkir Roda Empat Menggunakan Kamera Pada Area Indoor |

@@ -1,4 +1,4 @@
-# **Panduan Penyelesaian Tugas Akhir**
+# **Panduan Penyelesaian TA**
 
 [Dokumen](https://drive.google.com/file/d/1BiTJp26T9A--MA4wdy0TBed2MQn9yib4/view?usp=drive_link)
 

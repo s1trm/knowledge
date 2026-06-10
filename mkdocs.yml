@@ -38,7 +38,7 @@ nav:
   - Pedoman Akademik:
     - pedak_2024.md
 
-  - Proyek Akhir:
+  - Tugas Akhir (TA):
     - panduan_penyelesaian_tugas_akhir.md
     - kriteria_tambahan_summa_cumlaude.md
     - persyaratan_kelulusan_dan_standar_tugas_akhir.md
@@ -47,6 +47,7 @@ nav:
     - prosedur_pa.md
     - template_pa.md
     - jalur_pa.md
+    - pa_publikasi.md
 
   - Rekognisi:
     - panduan_rekognisi.md

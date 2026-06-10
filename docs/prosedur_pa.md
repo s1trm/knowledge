@@ -1,12 +1,12 @@
-# Prosedur-Prosedur PA
+# Prosedur-Prosedur TA
 
-## **Perubahan Judul PA**
+## **Perubahan Judul TA**
 
-Berikut adalah prosedur perubahan judul PA.
+Berikut adalah prosedur perubahan judul TA.
 
 1. Mengisi [Form Permohonan Perubahan Judul](https://docs.google.com/document/d/106jRv81ujPEZllrs0izxJl12yF2-eyrs/edit?usp=drive_link&ouid=110307251224013813322&rtpof=true&sd=true) (Bahasa Indonesia dan Bahasa Inggris). Lengkapi tanda tangan dan kirim ke email la@tass.telkomuniversity.ac.id.
 2. Ubah judul (Bahasa Indonesia dan Bahasa Inggris) secara mandiri di iGracias > TA/PA.
-3. Tunggu balasan email dari Layana Akademik FIT dan SK terbit dengan judul yang baru.
+3. Tunggu balasan email dari Layanan Akademik FIT dan SK terbit dengan judul yang baru.
 
 ## **Perpanjangan SK TA**
 1. Mahasiswa mengirimkan [form perpanjangan SK](https://docs.google.com/document/d/1eOPAypDbJh-k6GzfVnP0bKZrtHwFtowL/edit?usp=drive_link&ouid=110307251224013813322&rtpof=true&sd=true) yang sudah lengkap dengan tandatangan ke email la@tass.telkomuniversity.ac.id. 

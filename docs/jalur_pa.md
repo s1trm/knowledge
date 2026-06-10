@@ -1,4 +1,4 @@
-# Jalur Proyek Akhir
+# Jalur TA
 
 Terdapat enam jalur proyek akhir (jalur lulus), yaitu:
 

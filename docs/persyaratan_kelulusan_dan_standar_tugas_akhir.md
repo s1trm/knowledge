@@ -1,4 +1,4 @@
-# Persyaratan Kelulusan Studi dan Standar Luaran Tugas Akhir Universitas Telkom
+# Persyaratan Kelulusan Studi dan Standar Luaran TA Universitas Telkom
 
 Setiap mahasiswa distatuskan lulus apabila memenuhi syarat-syarat berikut:
 
