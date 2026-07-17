@@ -57,8 +57,9 @@ nav:
     - skpi_2022.md
 
   - TAK:
-    - tak_lms.md
     - tak.md
+    - tak_lms.md
+    - submit_tak.md
 
 markdown_extensions:
   - pymdownx.highlight:
