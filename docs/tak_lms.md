@@ -1,20 +1,35 @@
 # **Cara Mendapatkan TAK via LMS**
 
-1. Login ke LMS
-1. Di Home, klik **Categories** lalu klik **Universitas**
-1. Di sini ada course yang bisa kita langsung daftar (*enroll*) dan ada yang perlu *enrolment key*
+Login ke [LMS](https://lms.telkomuniversity.ac.id/).
 
-Di bawah ini ada adalah contoh lecture yang memerlukan enrolment key
+![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/lms_tak_1.png)
 
-Di bawah ini adalah lecture yang bisa kita ikuti tampa Enrolment key
+Di **Home**, pilih dropdown **Categories** lalu klik **Universitas**. Akan muncul daftar *course*
+yang bisa diikuti.
 
-Berikut daftar course yang bisa kita ikuti di tanpa *enrolment key*.
+![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/lms_tak_2.png)
+
+Terdapat *course* yang bisa kita langsung daftar (*enroll*) dan ada yang perlu *enrolment key*.
+
+![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/lms_tak_3.png)
+
+Berikut contoh *course* yang memerlukan *enrolment key*.
+
+![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/lms_tak_4.png)
+
+Berikut contoh *course* yang bisa diikuti tanpa *enrolment key*.
+
+![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/lms_tak_5.png)
+
+Daftar *course* yang bisa diikuti tanpa *enrolment key* untuk menambah TAK.
 
 - Pengembangan softskill I - Self Management
 - Pengembangan softskill II - Relationship Management
 - Pengembangan softskill III - Leadership
 - Pengembangan softskill IV - Enterpreunerial Mindset
 - Transkrip Aktivitas Kemahasiswaan (TAK)
-- WAWASAN KEBANGSAAN
+- Wawasan Kebangsaan
 
-Di setiap lecture anda harus mengerjakan quiz dan membaca semua materi yang ada sampai selesai, dan di paling bawah anda dapat mendownload sertifikat, seperti di bawah ini
+Di setiap *course*, kerjakan quiz dan baca semua materi yang ada sampai selesai. Di paling bawah, terdapat sertifikat yang bisa didownload. 
+
+![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/lms_tak_6.png)
