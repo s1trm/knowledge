@@ -26,7 +26,9 @@ plugins:
 
 nav:
   - Administrasi:
+    - cuti.md
     - surat.md
+    - undur_diri.md
 
   - Keuangan:
     - pembayaran_bpp.md
