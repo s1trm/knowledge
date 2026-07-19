@@ -28,6 +28,9 @@ nav:
   - Administrasi:
     - surat.md
 
+  - Keuangan:
+    - pembayaran_bpp.md
+
   - Kurikulum:
     - plo.md
     - clo_plo.md
