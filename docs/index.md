@@ -11,6 +11,7 @@ Program Studi S1 Terapan Teknologi Rekayasa Multimedia (S1 Tr. TRM) berdiri tahu
 1. [Prodi S1 Tr. TRM](https://dsm.telkomuniversity.ac.id/)
 1. [Layanan Akademik (LA) FIT](https://la-fit.telkomuniversity.ac.id/)
 1. [Talentern (Magang)](https://talentern.telkomuniversity.ac.id/)
+1. [Layanan Keuangan Mahasiswa](https://finance.telkomuniversity.ac.id/layanan/layanan-keuangan-mahasiswa)
 
 
 ### LinkTree
