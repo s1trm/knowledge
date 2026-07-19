@@ -1,4 +1,4 @@
-# **Cara Pembayaran BPP (Full)**
+# **Cara Pembayaran BPP (iGracias)**
 
 Untuk mahasiswa lama, pembayaran BPP dapat dilakukan dengan tahapan berikut [(sumber)](https://www.instagram.com/p/DS1SAuGk3Tf/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==).
 

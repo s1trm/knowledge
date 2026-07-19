@@ -1,4 +1,4 @@
-# **Cara Pembayaran BPP Melalui Virtual Account BNI**
+# **Cara Pembayaran BPP (BNI)**
 
 Berikut adalah cara pembayaran BPP melalui Virtual Account BNI.
 
