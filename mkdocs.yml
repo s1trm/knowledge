@@ -25,11 +25,6 @@ plugins:
   - search
 
 nav:
-  - Administrasi:
-    - cuti.md
-    - surat.md
-    - undur_diri.md
-
   - Keuangan:
     - pembayaran_bpp.md
     - bpp_bni.md
@@ -48,6 +43,22 @@ nav:
   - Pedoman Akademik:
     - pedak_2024.md
 
+  - Rekognisi:
+    - panduan_rekognisi.md
+
+  - SKPI:
+    - skpi_2022.md
+
+  - Surat-Menyurat:
+    - cuti.md
+    - surat.md
+    - undur_diri.md
+
+  - TAK:
+    - tak.md
+    - tak_lms.md
+    - submit_tak.md
+
   - Tugas Akhir (TA):
     - panduan_penyelesaian_tugas_akhir.md
     - kriteria_tambahan_summa_cumlaude.md
@@ -58,18 +69,6 @@ nav:
     - template_pa.md
     - jalur_pa.md
     - pa_publikasi.md
-
-  - Rekognisi:
-    - panduan_rekognisi.md
-  # - FAQ: faq.md
-
-  - SKPI:
-    - skpi_2022.md
-
-  - TAK:
-    - tak.md
-    - tak_lms.md
-    - submit_tak.md
 
 markdown_extensions:
   - pymdownx.highlight:
