@@ -41,7 +41,8 @@ nav:
     - magang.md
 
   - Pedoman Akademik:
-    - pedak_2024.md
+    - Pedoman Akademik 2026: pedak_2026.md
+    - Pedoman Akademik 2024: pedak_2024.md
 
   - Rekognisi:
     - panduan_rekognisi.md
@@ -80,4 +81,11 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - admonition
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css: []
 
