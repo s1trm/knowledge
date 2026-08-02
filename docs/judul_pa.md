@@ -4,183 +4,183 @@
 
 | No | Nama | Judul TA |
 | -- | ---- | -------- |
-| 1 | Hanna Naila Yusuf | Perancangan Desain Ui/ux Website Promosi Film Animasi Perempuan Yang Mengangkat Nilai Budaya Melalui Alat Musik Karinding Pt. Atap Promotions - Dalam Bentuk Buku Karya Ilmiah |
-| 2 | Yasikha Farras Ismail | Pengembangan Prototipe Chatbot Untuk Ticketing Infrastruktur Di Pt. X Menggunakan Arsitektur Rag - Dalam Bentuk Buku Karya Ilmiah |
-| 3 | Muhammad Zufar` Afif | Implementasi Desain Komunikasi Visual Berbasis Mdlc Untuk Mendukung Strategi Pemasaran Di Pt. Smart Komunikasi Sistem Energi - Dalam Bentuk Buku Karya Ilmiah |
-| 4 | Muhammad Aulia Rifqi Zain | Visualisasi Detektor Tembakan Pada Simulasi Airsoft Gun Berbasis Heatmap - Dalam Bentuk Buku Karya Ilmiah |
-| 5 | Jonathan Jordan Simanullang | Analisis Pengaruh Equalizer Dalam Meningkatkan Kualitas Audio Pada Produksi Video Digital - Dalam Bentuk Buku Karya Ilmiah |
-| 6 | Muhammad Abyan Wibowo | Prediksi Intensitas Hujan Menggunakan Deep Learning Lstm Dan Bilstm Di Lingkungan Telkom University - Dalam Bentuk Buku Karya Ilmiah |
-| 7 | Angel Maria Magdalena Silaban | Dari Data Ke Preferensi: Klasifikasi Tingkat Kemanisan Minuman Menggunakan Pembelajaran Mesin - Dalam Bentuk Buku Karya Ilmiah |
-| 8 | Lucianna Agrina Cahya Ning Tyas | Pengembangan Front-end Website Minimum Stock (minitok) Untuk Monitoring Stok Optical Network Terminal Dan Access Point Di Pt Telkom Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 9 | Ichlasul Amal Restu Wardhana | Perancangan Dan Implementasi Aplikasi Web Monitoring Iot - Dalam Bentuk Buku Karya Ilmiah |
+| 1 | Hanna Naila Yusuf | Perancangan Desain Ui/ux Website Promosi Film Animasi Perempuan Yang Mengangkat Nilai Budaya Melalui Alat Musik Karinding Pt. Atap Promotions |
+| 2 | Yasikha Farras Ismail | Pengembangan Prototipe Chatbot Untuk Ticketing Infrastruktur Di Pt. X Menggunakan Arsitektur Rag |
+| 3 | Muhammad Zufar` Afif | Implementasi Desain Komunikasi Visual Berbasis Mdlc Untuk Mendukung Strategi Pemasaran Di Pt. Smart Komunikasi Sistem Energi |
+| 4 | Muhammad Aulia Rifqi Zain | Visualisasi Detektor Tembakan Pada Simulasi Airsoft Gun Berbasis Heatmap |
+| 5 | Jonathan Jordan Simanullang | Analisis Pengaruh Equalizer Dalam Meningkatkan Kualitas Audio Pada Produksi Video Digital |
+| 6 | Muhammad Abyan Wibowo | Prediksi Intensitas Hujan Menggunakan Deep Learning Lstm Dan Bilstm Di Lingkungan Telkom University |
+| 7 | Angel Maria Magdalena Silaban | Dari Data Ke Preferensi: Klasifikasi Tingkat Kemanisan Minuman Menggunakan Pembelajaran Mesin |
+| 8 | Lucianna Agrina Cahya Ning Tyas | Pengembangan Front-end Website Minimum Stock (minitok) Untuk Monitoring Stok Optical Network Terminal Dan Access Point Di Pt Telkom Indonesia |
+| 9 | Ichlasul Amal Restu Wardhana | Perancangan Dan Implementasi Aplikasi Web Monitoring Iot |
 
 ## 2025
 
 | No | Nama | Judul TA |
 | -- | ---- | -------- |
-| 1 | Dinda Aulia | Optimasi Pengalaman Pengguna Dalam Website Smb Telkom University Versi Mobile Menggunakan Usability Testing Dan User Experience Questionnaire (ueq) - Dalam Bentuk Buku Karya Ilmiah |
-| 2 | Riskotul | Implementasi Aplikasi Edukasi Interaktif Pemilahan Sampah Berbasis Digital Signage Menggunakan Metode Rapid Application Development - Dalam Bentuk Buku Karya Ilmiah |
-| 3 | Muhammad Yogi Alamsyah | Perancangan Ulang Antarmuka Website Bagian Pengembangan Konten Celoe Universitas Telkom - Dalam Bentuk Buku Karya Ilmiah |
-| 4 | Yoana Dinar Atalya Silalahi | Perancangan Antarmuka Aplikasi Brana Berbasis Mobile Menggunakan Pendekatan Ui/ux Untuk Meningkatkan Efisiensi Manajemen Aset Di Pt Tera Putra Muara - Dalam Bentuk Buku Karya Ilmiah |
-| 5 | Wildan Muhammad Yasin Fadillah | Estimasi Pose Tangan Untuk Mengontrol Perangkat Robot Tangan - Dalam Bentuk Buku Karya Ilmiah |
-| 6 | Duta Tangkoh Raja Sebayang | Perancangan Prototype Uiux Website Perusahaan Arenda Nuansa Berlian - Dalam Bentuk Buku Karya Ilmiah |
-| 7 | Muhammad Daffa Aryabudi | Pengembangan Aplikasi Ar Dengan Mendayagunakan Game Engine Untuk Kalender Graha Dhuafa 2024 Dengan Metode Mdlc - Dalam Bentuk Buku Karya Ilmiah |
-| 8 | R.rocky Triputra Setiady | Perancangan Dan Produksi Konten Digital Instagram Untuk Festival Axia - Dalam Bentuk Buku Karya Ilmiah |
-| 9 | Rafif Gigih Genta Pratama | Produksi Video Company Profile Pt Kereta Cepat Indonesia China - Dalam Bentuk Buku Karya Ilmiah |
-| 10 | Amos Hotma Rizky Saragih | Pengembangan Desain Website Dalam Upaya Pembaharuan Desain Website Di Affor Gadget - Dalam Bentuk Buku Karya Ilmiah |
-| 11 | Muhammad Fatah Al Khadami | Pengembangan Sistem Inventaris Berbasis Web Untuk Pengelolaan Aset It Di Pt Kcic - Dalam Bentuk Buku Karya Ilmiah |
-| 12 | Falah Malik Alvi | Perencanaan Pengadaan Barang Dalam Mendukung Supply Chain Management Yang Efisien Dengan Metode Inventory Management Di Startup Affor Gadget - Dalam Bentuk Buku Karya Ilmiah |
-| 13 | Intan Zafira | Perancangan Dan Optimalisasi Antarmuka Website Terpadu Untuk Sistem Seleksi Pegawai Di Komnas Ham - Dalam Bentuk Buku Karya Ilmiah |
-| 14 | Fikri Hilal Akmal | Optimasi Desain Ui & Ux Aplikasi Strive: Pendekatan User-centered Design Untuk Meningkatkan Efisiensi Karyawan - Dalam Bentuk Buku Karya Ilmiah |
-| 15 | Nurul Rifdah Umay | Implementasi Backend Website Kota Pariaman Berbasis Laravel Dan Mysql - Dalam Bentuk Buku Karya Ilmiah |
-| 16 | Egi Yudhistira | Perancangan Dan Implementasi Sistem Inventory Management Asset Berbasis Web Untuk Pt Kcic - Dalam Bentuk Buku Karya Ilmiah |
-| 17 | Muhammad Nurprawira | Perancangan Antarmuka Aplikasi Job Hunter Berbasis Website Sebagai Platform Pencarian Kerja Era Digital - Dalam Bentuk Buku Karya Ilmiah |
-| 18 | Muhammad Kemal Pasha | Pengembangan Usaha Jasa Pembuatan Musik Digital Melalui Media Sosial “x” - Dalam Bentuk Buku Karya Ilmiah |
-| 19 | Cut Siti Sarah Miliza | Perancangan Desain Tata Letak Majalah Digital Pdf Kcic Sebagai Wadah Informasi Dan Budaya - Dalam Bentuk Buku Karya Ilmiah |
-| 20 | Muh. Fatih Akram Salim | Pengembangan Perangkat Gim Edukasi Untuk Pembelajaran Bahasa Campalagian Di Sdn 036 Bonde - Dalam Bentuk Buku Karya Ilmiah |
-| 21 | Suryananda Windie Oryzava | Produksi Konten Video Edukasi Pertanian Di Perusahaan Edufarmers International - Dalam Bentuk Buku Karya Ilmiah |
-| 22 | Dion Carvalho Belo Tanody | Pengembangan Aplikasi Penunjang Pemesanan Paket Wisata Menggunakan Augmented Reality Berbasis Android, (studi Kasus: Marina Tour Raja Ampat) - Dalam Bentuk Buku Karya Ilmiah |
-| 23 | Muhammad Rifqi Firdaus | Perancangan Ui/ux Website Rekapitulasi Refund Tiket Whoosh Di Pt. Kcic - Dalam Bentuk Buku Karya Ilmiah |
-| 24 | Riansyah Setiawan | Pengembangan Virtual Asisten ‘teh Ai’ Sebagai Media Interaktif Di Website Smart City Kota Bandung - Dalam Bentuk Buku Karya Ilmiah |
-| 25 | Adilla Chita Hanifa | Perancangan Antarmuka Portal Website Magang Untuk Meningkatkan Transparansi Dan Akuntabilitas Di Djki - Dalam Bentuk Buku Karya Ilmiah |
-| 26 | Ghina Mufidah | Pembuatan Motion Grafik Dan Karakter Vtube Untuk Video Promosi Dan Edukasi Website E- Kinerja Kota Pariaman - Dalam Bentuk Buku Karya Ilmiah |
-| 27 | Farras Mufid Ibrahim | Perancangan Ui/ux Permainan Edukasi Mengenalkan Transportasi Di Tk It Little Moslem - Dalam Bentuk Buku Karya Ilmiah |
-| 28 | Nazhmi Ahmad Naufal | Pembangunan Website Top Up Game 'nazhstore' Dengan Payment Gateway - Dalam Bentuk Buku Karya Ilmiah |
-| 29 | Muhammad Rafi Zhafran | Implementasi Front-end Sistem Rekapitulasi Refund Tiket Whoosh Berbasis Web Di Pt Kcic - Dalam Bentuk Buku Karya Ilmiah |
-| 30 | Kesya Nayla Kusuma Putri | Pembuatan Video Dan Animasi Pengenalan Aplikasi Sipadeh Serta Website Pemerintah Kota Pariaman. - Dalam Bentuk Buku Karya Ilmiah |
-| 31 | Very Orlando Tumonggotua Simanjuntak | Perancangan Ui/ux Untuk Pengelolaan Berita Acara Kesepakatan (bak) Berbasis Web Di Pt Kereta Cepat Indonesia Cina - Dalam Bentuk Buku Karya Ilmiah |
-| 32 | Reissa Amanda Nabilah | Implementasi Front-end Pada Aplikasi Web Untuk Pemantauan Lisensi Software Di Pt. Kereta Cepat Indonesia China - Dalam Bentuk Buku Karya Ilmiah |
-| 33 | Fredrick Daniel | Perancangan Company Profile Berbasis Video Sebagai Media Informasi Bandung Smart City - Dalam Bentuk Buku Karya Ilmiah |
-| 34 | Nilla Salsa Billa Putri | Perancangan Antarmuka Fitur Frequent Whoosher Pada Aplikasi Mobile Whoosh Di Pt Kcic - Dalam Bentuk Buku Karya Ilmiah |
-| 35 | Ariel Simon Sirait | Pengembangan Website Affor Gadget Untuk Mendukung Strategi Pemasaran Online Website - Dalam Bentuk Buku Karya Ilmiah |
-| 36 | Muh. Fikri Haykhal | Perancangan Konten Multimedia Untuk Gim Edukasi Pembelajaran Bahasa Sunda Di Smp Telkom Bandung - Dalam Bentuk Buku Karya Ilmiah |
-| 37 | Angga Rizky Priyana | Perancangan Dan Implementasi Aplikasi Job Hunter Berbasis Website Sebagai Platform Pencarian Kerja Di Era Digital - Dalam Bentuk Buku Karya Ilmiah |
-| 38 | Ahmad Al Irfangi Wahyono | Perancangan Dan Implementasi Ui/ux Web Apps Untuk Monitoring Lisensi Software Di Pt. Kereta Cepat Indonesia China - Dalam Bentuk Buku Karya Ilmiah |
-| 39 | Syahrudin | Perancangan Teknis Dalam Pembuatan Konten Video Outbound Activity Jo Nusantara Adventure Di Cv. Jo Nusantara Adventure - Dalam Bentuk Buku Karya Ilmiah |
-| 40 | Abrar Zharifan Syah | Pengembangan Aplikasi Berbasis Web Untuk Pembelajaran Al-qur'an Secara Interaktif Dengan Integrasi Gamifikasi - Dalam Bentuk Buku Karya Ilmiah |
-| 41 | Nafidli Hafizzurizqi | Peran Drafter Dalam Perusahaan Konstruksi Fasilitas Lepas Pantai - Dalam Bentuk Buku Karya Ilmiah |
-| 42 | Angelica Sitorus | Sistem Sensor Untuk Monitoring Kualitas Air Danau Berbasis Fuzzy Logic Pada Budidaya Ikan Keramba Jaring Apung - Dalam Bentuk Buku Karya Ilmiah |
-| 43 | Dio Ageng Djaler Setiawan | Optimasi Dan Integrasi Aset 3d Dari Navisworks Manage Ke Unity Untuk Aplikasi Ar/mr - Dalam Bentuk Buku Karya Ilmiah |
-| 44 | Zalfandi Ridho Rahman | Pembuatan Konten Video Sebagai Sarana Promosi Aplikasi Tantri Melalui Media Sosial - Dalam Bentuk Buku Karya Ilmiah |
-| 45 | Hannas Dede Surya | Pengembangan Konten Dan Pengelolaan Media Sosial Untuk Pt Total Logistics - Dalam Bentuk Buku Karya Ilmiah |
-| 46 | M. Adrian Delcano | Pengembangan Aplikasi Augmented Reality Untuk Pembelajaran Tata Surya Di Smpn 03 Baleendah - Dalam Bentuk Buku Karya Ilmiah |
-| 47 | Atika Innadya Syifa | Perancangan Ui/ux Aplikasi Whomam (wholesale Market Management) Untuk Meningkatkan Efektivitas Pengguna Di Pt Telkom Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 48 | Moch Jalu Erdiansyah | Perancangan Ui Ux Website It Maintenance Report Di Pt Kcic - Dalam Bentuk Buku Karya Ilmiah |
-| 49 | Muhammad Rizky Abimanyu | Produksi Konten Foto Dan Video Untuk Layanan Promosi Di Pt Mantosindo Multimedia - Dalam Bentuk Buku Karya Ilmiah |
-| 50 | Alif Tegar Habonaran Purba | Redesign Ui/ux Aplikasi Mobile Dashboard Cfu Wib Telkom Untuk Optimalisasi Dan Effisiensi Operasional - Dalam Bentuk Buku Karya Ilmiah |
-| 51 | Raihan | Pembuatan Konten Multimedia Untuk Media Sosial Instagram Hts Creative - Dalam Bentuk Buku Karya Ilmiah |
-| 52 | Lois Andre Wongso | Pembuatan Konten Video Musik Visual Untuk Band Indie Lokal - Dalam Bentuk Buku Karya Ilmiah |
-| 53 | Rizal Fajar Mastora | Perancangan Ui/ux Sistem Manajemen Gudang - Dalam Bentuk Buku Karya Ilmiah |
-| 54 | Ikrar Priyo Widigdo | Pengembangan Antarmuka Aplikasi Berbasis Web Sistem Informasi Akademik Smk Teknologi Karawang - Dalam Bentuk Buku Karya Ilmiah |
-| 55 | Reza Abdi Gusfian | Pengembangan Wahana Kapal Otonom Berbasis Simulator Webots - Dalam Bentuk Buku Karya Ilmiah |
-| 56 | Prasetya Danarputra | Implementasi Text-to-sql Berbasis Defogllama Untuk Aplikasi Chatbot Toko Media Digital - Dalam Bentuk Buku Karya Ilmiah |
-| 57 | Fadhli Shafhan Lubis | Optimasi Aset 3d Pada Aplikasi Vr Desain Interior Menggunakan Blender Studi Kasus: Centra Jaya Interior - Dalam Bentuk Buku Karya Ilmiah |
-| 58 | Bagas Putra Pratama | Video Panduan: Setup Hotspot Mikrotik Dengan Halaman Login Kustom, Manajemen Bandwidth, Dan Pemblokiran Game Mobile Legends - Dalam Bentuk Buku Karya Ilmiah |
-| 59 | Muhammad Hafiz | Perancangan Video Demo Produk Hiteman Berbasis Motion Graphic Pada Pt Tabel Data Informatika - Dalam Bentuk Buku Karya Ilmiah |
-| 60 | Yensi Salsabila | Desain Ui/ux Aplikasi Sortsmart Pada Digital Signage Interaktif Untuk Mendukung Edukasi Pemilahan Sampah - Dalam Bentuk Buku Karya Ilmiah |
-| 61 | Jasmine Khaira Putri | Pembuatan Konten Dan Analisis Perbandingan Pengaruhnya Untuk Pertumbuhan Beberapa Akun Media Sosial - Dalam Bentuk Buku Karya Ilmiah |
-| 62 | Maula Syabil Haqq | Penyuntingan Video Sultan Matangaji Untuk Cave Lotus - Dalam Bentuk Buku Karya Ilmiah |
-| 63 | Ghina Inas Fadhiyah | Pengembangan Konten Visual Untuk Meningkatkan Tingkat Engagement Di Media Sosial Instagram Pt Teknologi Olah Daya Informasi - Dalam Bentuk Buku Karya Ilmiah |
+| 1 | Dinda Aulia | Optimasi Pengalaman Pengguna Dalam Website Smb Telkom University Versi Mobile Menggunakan Usability Testing Dan User Experience Questionnaire (ueq) |
+| 2 | Riskotul | Implementasi Aplikasi Edukasi Interaktif Pemilahan Sampah Berbasis Digital Signage Menggunakan Metode Rapid Application Development |
+| 3 | Muhammad Yogi Alamsyah | Perancangan Ulang Antarmuka Website Bagian Pengembangan Konten Celoe Universitas Telkom |
+| 4 | Yoana Dinar Atalya Silalahi | Perancangan Antarmuka Aplikasi Brana Berbasis Mobile Menggunakan Pendekatan Ui/ux Untuk Meningkatkan Efisiensi Manajemen Aset Di Pt Tera Putra Muara |
+| 5 | Wildan Muhammad Yasin Fadillah | Estimasi Pose Tangan Untuk Mengontrol Perangkat Robot Tangan |
+| 6 | Duta Tangkoh Raja Sebayang | Perancangan Prototype Uiux Website Perusahaan Arenda Nuansa Berlian |
+| 7 | Muhammad Daffa Aryabudi | Pengembangan Aplikasi Ar Dengan Mendayagunakan Game Engine Untuk Kalender Graha Dhuafa 2024 Dengan Metode Mdlc |
+| 8 | R.rocky Triputra Setiady | Perancangan Dan Produksi Konten Digital Instagram Untuk Festival Axia |
+| 9 | Rafif Gigih Genta Pratama | Produksi Video Company Profile Pt Kereta Cepat Indonesia China |
+| 10 | Amos Hotma Rizky Saragih | Pengembangan Desain Website Dalam Upaya Pembaharuan Desain Website Di Affor Gadget |
+| 11 | Muhammad Fatah Al Khadami | Pengembangan Sistem Inventaris Berbasis Web Untuk Pengelolaan Aset It Di Pt Kcic |
+| 12 | Falah Malik Alvi | Perencanaan Pengadaan Barang Dalam Mendukung Supply Chain Management Yang Efisien Dengan Metode Inventory Management Di Startup Affor Gadget |
+| 13 | Intan Zafira | Perancangan Dan Optimalisasi Antarmuka Website Terpadu Untuk Sistem Seleksi Pegawai Di Komnas Ham |
+| 14 | Fikri Hilal Akmal | Optimasi Desain Ui & Ux Aplikasi Strive: Pendekatan User-centered Design Untuk Meningkatkan Efisiensi Karyawan |
+| 15 | Nurul Rifdah Umay | Implementasi Backend Website Kota Pariaman Berbasis Laravel Dan Mysql |
+| 16 | Egi Yudhistira | Perancangan Dan Implementasi Sistem Inventory Management Asset Berbasis Web Untuk Pt Kcic |
+| 17 | Muhammad Nurprawira | Perancangan Antarmuka Aplikasi Job Hunter Berbasis Website Sebagai Platform Pencarian Kerja Era Digital |
+| 18 | Muhammad Kemal Pasha | Pengembangan Usaha Jasa Pembuatan Musik Digital Melalui Media Sosial “x” |
+| 19 | Cut Siti Sarah Miliza | Perancangan Desain Tata Letak Majalah Digital Pdf Kcic Sebagai Wadah Informasi Dan Budaya |
+| 20 | Muh. Fatih Akram Salim | Pengembangan Perangkat Gim Edukasi Untuk Pembelajaran Bahasa Campalagian Di Sdn 036 Bonde |
+| 21 | Suryananda Windie Oryzava | Produksi Konten Video Edukasi Pertanian Di Perusahaan Edufarmers International |
+| 22 | Dion Carvalho Belo Tanody | Pengembangan Aplikasi Penunjang Pemesanan Paket Wisata Menggunakan Augmented Reality Berbasis Android, (studi Kasus: Marina Tour Raja Ampat) |
+| 23 | Muhammad Rifqi Firdaus | Perancangan Ui/ux Website Rekapitulasi Refund Tiket Whoosh Di Pt. Kcic |
+| 24 | Riansyah Setiawan | Pengembangan Virtual Asisten ‘teh Ai’ Sebagai Media Interaktif Di Website Smart City Kota Bandung |
+| 25 | Adilla Chita Hanifa | Perancangan Antarmuka Portal Website Magang Untuk Meningkatkan Transparansi Dan Akuntabilitas Di Djki |
+| 26 | Ghina Mufidah | Pembuatan Motion Grafik Dan Karakter Vtube Untuk Video Promosi Dan Edukasi Website E- Kinerja Kota Pariaman |
+| 27 | Farras Mufid Ibrahim | Perancangan Ui/ux Permainan Edukasi Mengenalkan Transportasi Di Tk It Little Moslem |
+| 28 | Nazhmi Ahmad Naufal | Pembangunan Website Top Up Game 'nazhstore' Dengan Payment Gateway |
+| 29 | Muhammad Rafi Zhafran | Implementasi Front-end Sistem Rekapitulasi Refund Tiket Whoosh Berbasis Web Di Pt Kcic |
+| 30 | Kesya Nayla Kusuma Putri | Pembuatan Video Dan Animasi Pengenalan Aplikasi Sipadeh Serta Website Pemerintah Kota Pariaman. |
+| 31 | Very Orlando Tumonggotua Simanjuntak | Perancangan Ui/ux Untuk Pengelolaan Berita Acara Kesepakatan (bak) Berbasis Web Di Pt Kereta Cepat Indonesia Cina |
+| 32 | Reissa Amanda Nabilah | Implementasi Front-end Pada Aplikasi Web Untuk Pemantauan Lisensi Software Di Pt. Kereta Cepat Indonesia China |
+| 33 | Fredrick Daniel | Perancangan Company Profile Berbasis Video Sebagai Media Informasi Bandung Smart City |
+| 34 | Nilla Salsa Billa Putri | Perancangan Antarmuka Fitur Frequent Whoosher Pada Aplikasi Mobile Whoosh Di Pt Kcic |
+| 35 | Ariel Simon Sirait | Pengembangan Website Affor Gadget Untuk Mendukung Strategi Pemasaran Online Website |
+| 36 | Muh. Fikri Haykhal | Perancangan Konten Multimedia Untuk Gim Edukasi Pembelajaran Bahasa Sunda Di Smp Telkom Bandung |
+| 37 | Angga Rizky Priyana | Perancangan Dan Implementasi Aplikasi Job Hunter Berbasis Website Sebagai Platform Pencarian Kerja Di Era Digital |
+| 38 | Ahmad Al Irfangi Wahyono | Perancangan Dan Implementasi Ui/ux Web Apps Untuk Monitoring Lisensi Software Di Pt. Kereta Cepat Indonesia China |
+| 39 | Syahrudin | Perancangan Teknis Dalam Pembuatan Konten Video Outbound Activity Jo Nusantara Adventure Di Cv. Jo Nusantara Adventure |
+| 40 | Abrar Zharifan Syah | Pengembangan Aplikasi Berbasis Web Untuk Pembelajaran Al-qur'an Secara Interaktif Dengan Integrasi Gamifikasi |
+| 41 | Nafidli Hafizzurizqi | Peran Drafter Dalam Perusahaan Konstruksi Fasilitas Lepas Pantai |
+| 42 | Angelica Sitorus | Sistem Sensor Untuk Monitoring Kualitas Air Danau Berbasis Fuzzy Logic Pada Budidaya Ikan Keramba Jaring Apung |
+| 43 | Dio Ageng Djaler Setiawan | Optimasi Dan Integrasi Aset 3d Dari Navisworks Manage Ke Unity Untuk Aplikasi Ar/mr |
+| 44 | Zalfandi Ridho Rahman | Pembuatan Konten Video Sebagai Sarana Promosi Aplikasi Tantri Melalui Media Sosial |
+| 45 | Hannas Dede Surya | Pengembangan Konten Dan Pengelolaan Media Sosial Untuk Pt Total Logistics |
+| 46 | M. Adrian Delcano | Pengembangan Aplikasi Augmented Reality Untuk Pembelajaran Tata Surya Di Smpn 03 Baleendah |
+| 47 | Atika Innadya Syifa | Perancangan Ui/ux Aplikasi Whomam (wholesale Market Management) Untuk Meningkatkan Efektivitas Pengguna Di Pt Telkom Indonesia |
+| 48 | Moch Jalu Erdiansyah | Perancangan Ui Ux Website It Maintenance Report Di Pt Kcic |
+| 49 | Muhammad Rizky Abimanyu | Produksi Konten Foto Dan Video Untuk Layanan Promosi Di Pt Mantosindo Multimedia |
+| 50 | Alif Tegar Habonaran Purba | Redesign Ui/ux Aplikasi Mobile Dashboard Cfu Wib Telkom Untuk Optimalisasi Dan Effisiensi Operasional |
+| 51 | Raihan | Pembuatan Konten Multimedia Untuk Media Sosial Instagram Hts Creative |
+| 52 | Lois Andre Wongso | Pembuatan Konten Video Musik Visual Untuk Band Indie Lokal |
+| 53 | Rizal Fajar Mastora | Perancangan Ui/ux Sistem Manajemen Gudang |
+| 54 | Ikrar Priyo Widigdo | Pengembangan Antarmuka Aplikasi Berbasis Web Sistem Informasi Akademik Smk Teknologi Karawang |
+| 55 | Reza Abdi Gusfian | Pengembangan Wahana Kapal Otonom Berbasis Simulator Webots |
+| 56 | Prasetya Danarputra | Implementasi Text-to-sql Berbasis Defogllama Untuk Aplikasi Chatbot Toko Media Digital |
+| 57 | Fadhli Shafhan Lubis | Optimasi Aset 3d Pada Aplikasi Vr Desain Interior Menggunakan Blender Studi Kasus: Centra Jaya Interior |
+| 58 | Bagas Putra Pratama | Video Panduan: Setup Hotspot Mikrotik Dengan Halaman Login Kustom, Manajemen Bandwidth, Dan Pemblokiran Game Mobile Legends |
+| 59 | Muhammad Hafiz | Perancangan Video Demo Produk Hiteman Berbasis Motion Graphic Pada Pt Tabel Data Informatika |
+| 60 | Yensi Salsabila | Desain Ui/ux Aplikasi Sortsmart Pada Digital Signage Interaktif Untuk Mendukung Edukasi Pemilahan Sampah |
+| 61 | Jasmine Khaira Putri | Pembuatan Konten Dan Analisis Perbandingan Pengaruhnya Untuk Pertumbuhan Beberapa Akun Media Sosial |
+| 62 | Maula Syabil Haqq | Penyuntingan Video Sultan Matangaji Untuk Cave Lotus |
+| 63 | Ghina Inas Fadhiyah | Pengembangan Konten Visual Untuk Meningkatkan Tingkat Engagement Di Media Sosial Instagram Pt Teknologi Olah Daya Informasi |
 
 ## 2024
 
 | No | Nama | Judul TA |
 | -- | ---- | -------- |
-| 1 | Alma Nafiisah Deswandi | Pengembangan Desain Antarmuka Website Lembaga Keuangan Mikro Pt Bpr Hoki - Dalam Bentuk Buku Karya Ilmiah |
-| 2 | Alif Kamal Jauhari | Pengembangan Social Entertainment Metaverse: Pataland Di Startup Cube Studio Berbasis Platform Virtual Reality - Dalam Bentuk Buku Karya Ilmiah |
+| 1 | Alma Nafiisah Deswandi | Pengembangan Desain Antarmuka Website Lembaga Keuangan Mikro Pt Bpr Hoki |
+| 2 | Alif Kamal Jauhari | Pengembangan Social Entertainment Metaverse: Pataland Di Startup Cube Studio Berbasis Platform Virtual Reality |
 | 3 | Syifa Ma'arif Al Azhar | Strategi Pengembangan Brand Awareness Untuk Rumah Produksi Mateha Production Di Media Sosial - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
-| 4 | Ahmad Fabiansyah | Pengwmbangan Ui/ux Aplikasi Website Dalam Manajemen Persediaan Dan Pemasaran Produk Fashion Nerth - Dalam Bentuk Buku Karya Ilmiah |
-| 5 | Syamsul Nizar | Pengembangan Social Entertainment Metaverse: Pataland Di Startup Cube Studio Berbasis Platform Website - Dalam Bentuk Buku Karya Ilmiah |
-| 6 | Winda Nur'imany Pramessetiawan | Perancangan Website Untuk Layanan Pemesanan Serta Reminder Pada Padasuka Tour & Travel - Dalam Bentuk Buku Karya Ilmiah |
-| 7 | Mohamad Rifqi Nofrianto | Analisis Dan Perancangan Ui/ux Point Of Sale Berbasis Windows Serta Website Pada Transaksi Penjualan Umkm Di Kawasan Universitas Telkom - Dalam Bentuk Buku Karya Ilmiah |
-| 8 | Fathimah Insani Al Atsariyyah | Perancangan Video Game Berbasis Visual Novel Sebagai Media Pembelajaran Mengenai Mitigasi Bencana Alam - Dalam Bentuk Buku Karya Ilmiah |
-| 9 | Aqila Rahma | Pengembangan Ui/ux Pada Aplikasi Edukasi Perlindungan Diri Dan Pelaporan Kasus Di Smpn 03 Baleendah - Dalam Bentuk Buku Karya Ilmiah |
-| 10 | Nur Kholis Kholil | Penggunaan Search Engine Optimization Dalam Strategi Pemasaran Digital (studi Kasus: Lariss.id) - Dalam Bentuk Buku Karya Ilmiah |
-| 11 | Suci Aliyah Putri | Perencanaan Dan Pembuatan Konten Pada Instagram Dan Tiktok Perusahaan Panasonic - Dalam Bentuk Buku Karya Ilmiah |
-| 12 | Khaerani Anjani | Perancangan Dan Implementasi Event Interaktif Untuk Meningkatkan Kunjungan E-museum Berbasis Gamifikasi Di United Tractors - Dalam Bentuk Buku Karya Ilmiah |
-| 13 | Muhammad Ainur Rafiq | Perancangan Ui/ux Fitur Admin Dashboard Pada Chronolizer Sirah Nabawiyah Berbasis Website - Dalam Bentuk Buku Karya Ilmiah |
-| 14 | Muhammad Tanjung Mulia Mattalitti | Pengembangan Aplikasi Media Promosi Pariwisata Menggunakan Augmented Reality Berbasis Android, (studi Kasus: Tur Marina Raja Ampat) - Dalam Bentuk Buku Karya Ilmiah |
-| 15 | Muhhamad Taufik Hendrawan | Perancangan Ui/ux Fitur Tokoh Pada Chronolizer Sirah Nabawiyah Berbasis Website - Dalam Bentuk Buku Karya Ilmiah |
-| 16 | Muhammad Farrell Alaric Zada | Implementasi Sistem Pemanas Otomatis Untuk Menstabilkan Suhu Kolam Ikan Di Seinfarm - Dalam Bentuk Buku Karya Ilmiah |
-| 17 | Ari Yan Prayer Sijabat | Pengembangan Aplikasi Mobile Untuk Meningkatkan Aksesibilitas Pemasaran Produk Merchandise Di Pt.dynamic Cita Synergy - Dalam Bentuk Buku Karya Ilmiah |
+| 4 | Ahmad Fabiansyah | Pengwmbangan Ui/ux Aplikasi Website Dalam Manajemen Persediaan Dan Pemasaran Produk Fashion Nerth |
+| 5 | Syamsul Nizar | Pengembangan Social Entertainment Metaverse: Pataland Di Startup Cube Studio Berbasis Platform Website |
+| 6 | Winda Nur'imany Pramessetiawan | Perancangan Website Untuk Layanan Pemesanan Serta Reminder Pada Padasuka Tour & Travel |
+| 7 | Mohamad Rifqi Nofrianto | Analisis Dan Perancangan Ui/ux Point Of Sale Berbasis Windows Serta Website Pada Transaksi Penjualan Umkm Di Kawasan Universitas Telkom |
+| 8 | Fathimah Insani Al Atsariyyah | Perancangan Video Game Berbasis Visual Novel Sebagai Media Pembelajaran Mengenai Mitigasi Bencana Alam |
+| 9 | Aqila Rahma | Pengembangan Ui/ux Pada Aplikasi Edukasi Perlindungan Diri Dan Pelaporan Kasus Di Smpn 03 Baleendah |
+| 10 | Nur Kholis Kholil | Penggunaan Search Engine Optimization Dalam Strategi Pemasaran Digital (studi Kasus: Lariss.id) |
+| 11 | Suci Aliyah Putri | Perencanaan Dan Pembuatan Konten Pada Instagram Dan Tiktok Perusahaan Panasonic |
+| 12 | Khaerani Anjani | Perancangan Dan Implementasi Event Interaktif Untuk Meningkatkan Kunjungan E-museum Berbasis Gamifikasi Di United Tractors |
+| 13 | Muhammad Ainur Rafiq | Perancangan Ui/ux Fitur Admin Dashboard Pada Chronolizer Sirah Nabawiyah Berbasis Website |
+| 14 | Muhammad Tanjung Mulia Mattalitti | Pengembangan Aplikasi Media Promosi Pariwisata Menggunakan Augmented Reality Berbasis Android, (studi Kasus: Tur Marina Raja Ampat) |
+| 15 | Muhhamad Taufik Hendrawan | Perancangan Ui/ux Fitur Tokoh Pada Chronolizer Sirah Nabawiyah Berbasis Website |
+| 16 | Muhammad Farrell Alaric Zada | Implementasi Sistem Pemanas Otomatis Untuk Menstabilkan Suhu Kolam Ikan Di Seinfarm |
+| 17 | Ari Yan Prayer Sijabat | Pengembangan Aplikasi Mobile Untuk Meningkatkan Aksesibilitas Pemasaran Produk Merchandise Di Pt.dynamic Cita Synergy |
 | 18 | Hilmi Bahrul Hamzah | Implementasi Motion Graphic Untuk Kualitas Video Kegiatan Penyuluhan Vaksinasi Di Universitas Gadjah Mada (studi Kasus : Pt. Seven Inc.) - |
-| 19 | Zulfa Khoirunnisa | Pembuatan Desain 2d Pada Sosial Media X Dan Instagram Di Dinas Komunikasi Dan Informatika Kota Tasikmalaya - Dalam Bentuk Buku Karya Ilmiah |
-| 20 | Raafi Adepangga | Pengembangan Desain Antarmuka Website Jasa Layanan Aqiqah Pt.fitra Insani - Dalam Bentuk Buku Karya Ilmiah |
-| 21 | Fajri Hafizh | Pengembangan Backend Aplikasi Teknologi Berbasis Website Dalam Manajemen Persediaan Dan Pemasaran Terhadap Produk Fashion Nerth - Dalam Bentuk Buku Karya Ilmiah |
-| 22 | Muhammad Ghazi Al Ghifari | Pembuatan Website Pariwisata Kabupaten Subang Menggunakan Html & Css - Dalam Bentuk Buku Karya Ilmiah |
-| 23 | Ika Pradana Cintaningtiyas | Perancangan Ui/ux Fitur Tempat Pada Chronolizer Sirah Nabawiyah Berbasis Website - Dalam Bentuk Buku Karya Ilmiah |
+| 19 | Zulfa Khoirunnisa | Pembuatan Desain 2d Pada Sosial Media X Dan Instagram Di Dinas Komunikasi Dan Informatika Kota Tasikmalaya |
+| 20 | Raafi Adepangga | Pengembangan Desain Antarmuka Website Jasa Layanan Aqiqah Pt.fitra Insani |
+| 21 | Fajri Hafizh | Pengembangan Backend Aplikasi Teknologi Berbasis Website Dalam Manajemen Persediaan Dan Pemasaran Terhadap Produk Fashion Nerth |
+| 22 | Muhammad Ghazi Al Ghifari | Pembuatan Website Pariwisata Kabupaten Subang Menggunakan Html & Css |
+| 23 | Ika Pradana Cintaningtiyas | Perancangan Ui/ux Fitur Tempat Pada Chronolizer Sirah Nabawiyah Berbasis Website |
 | 24 | Muhammad Nabil Usman | Pengembangan Pataland: Aplikasi Metaverse Bertemakan Musik Dan Pantai Dengan Integrasi Desain 3d Dan Ui/ux Yang Inovatif - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
-| 25 | Eshaf Maulvi Nazir Ahmad | Pengembangan Website Smpn 3 Banjarharjo Dengan Fitur Pendaftaran Siswa Baru - Dalam Bentuk Buku Karya Ilmiah |
-| 26 | Arham Fauzi | Pengembangan Aplikasi Monitoring Anjungan Tunai Mandiri (atm) Di Pt. Collega Inti Pratama - Dalam Bentuk Buku Karya Ilmiah |
-| 27 | Aldi Agung Nugroho | Pengembangan Aplikasi Jasa Layanan Aqiqah Pt.fitrah Insani - Dalam Bentuk Buku Karya Ilmiah |
-| 28 | Muhammad Sidik Pamungkas | Pembuatan Desain Frame Foto Untuk Photobooth Di Pt. Insta Solution Group - Dalam Bentuk Buku Karya Ilmiah |
-| 29 | Rizki Fauzi Ramadhan | Pengembangan Konten Media Sosial Untuk Gaga 100 Extra Pedas - Dalam Bentuk Buku Karya Ilmiah |
-| 30 | Rizky Wahyudhi Ramadhan | Strategi Branding Sahabat Al-qur'an Indonesia Dengan Media Instagram (studi Kasus: Firli.id) - Dalam Bentuk Buku Karya Ilmiah |
-| 31 | Fadil Amarulloh | Pembuatan Aset Video Game Berbasis Visual Novel Sebagai Media Pembelajaran Mengenai Mitigasi Bencana Alam - Dalam Bentuk Buku Karya Ilmiah |
-| 32 | Satrio Dharma Zibraldi | Pengembangan Ui/ux Aplikasi Pembelajaran Interaktif Tata Surya Untuk Siswa Kelas Vii & Viii Smpn 03 Baleendah - Dalam Bentuk Buku Karya Ilmiah |
-| 33 | Muhammad Wildan Shabirurrohman | Pengembangan Aplikasi E-inventaris Berbasis Android Untuk Pemantauan Dan Pemeliharaan Aset Mennggunnakan Android Studio Di Pt Indonesia Power - Dalam Bentuk Buku Karya Ilmiah |
-| 34 | Muhammad Jilan Dalilah Fathsa | Penerapan Metode Search Engine Optimization (seo) Untuk Meningkatkan Penjualan Lariss.id - Dalam Bentuk Buku Karya Ilmiah |
-| 35 | Khaniza Nurussyifa | Optimalisasi User Experience Terhadap Website Ideabox Multitenant Di Pt. Telkom Indonesia Tbk - Dalam Bentuk Buku Karya Ilmiah |
-| 36 | Raihan Jundi Alfarizi | Rancang Bangun Game Interaktif Tentang Pengenalan Anggota Tubuh Berbasis Android - Dalam Bentuk Buku Karya Ilmiah |
-| 37 | Angga Ady Pratama | Pengembangan Aplikasi Web Terdesentralisasi Berbasis Blockchain Pada Protokol Ethereum (studi Kasus: Super Rarity) - Dalam Bentuk Buku Karya Ilmiah |
-| 38 | Putu Intan Mahaswari | Peran Product Manager Dalam Pengembangan Framework Dan Peningkatan Fitur Aplikasi Mytask Di Pt.transtrack - Dalam Bentuk Buku Karya Ilmiah |
-| 39 | Adnin Farizie Miradi | Pengembangan Frontend Aplikasi Website Dalam Manajemen Persedian Dan Pemasaran Untuk Produk Fashion Nerth - Dalam Bentuk Buku Karya Ilmiah |
-| 40 | Ade Irfan Setiawan | Pengembangan Aplikasi Dental Health Untuk Memahami Pentingnya Menjaga Kesehatan Gigi Di Rumah Sakit Umum Daerah Sekarwangi Sukabumi - Dalam Bentuk Buku Karya Ilmiah |
-| 41 | Michael Patriot Napitupulu | Pengembangan Vehicle Maintenance System Menggunakan Metode Agile Dengan Framework Scrum Di Pt Indo Teknologi (transtrack) - Dalam Bentuk Buku Karya Ilmiah |
+| 25 | Eshaf Maulvi Nazir Ahmad | Pengembangan Website Smpn 3 Banjarharjo Dengan Fitur Pendaftaran Siswa Baru |
+| 26 | Arham Fauzi | Pengembangan Aplikasi Monitoring Anjungan Tunai Mandiri (atm) Di Pt. Collega Inti Pratama |
+| 27 | Aldi Agung Nugroho | Pengembangan Aplikasi Jasa Layanan Aqiqah Pt.fitrah Insani |
+| 28 | Muhammad Sidik Pamungkas | Pembuatan Desain Frame Foto Untuk Photobooth Di Pt. Insta Solution Group |
+| 29 | Rizki Fauzi Ramadhan | Pengembangan Konten Media Sosial Untuk Gaga 100 Extra Pedas |
+| 30 | Rizky Wahyudhi Ramadhan | Strategi Branding Sahabat Al-qur'an Indonesia Dengan Media Instagram (studi Kasus: Firli.id) |
+| 31 | Fadil Amarulloh | Pembuatan Aset Video Game Berbasis Visual Novel Sebagai Media Pembelajaran Mengenai Mitigasi Bencana Alam |
+| 32 | Satrio Dharma Zibraldi | Pengembangan Ui/ux Aplikasi Pembelajaran Interaktif Tata Surya Untuk Siswa Kelas Vii & Viii Smpn 03 Baleendah |
+| 33 | Muhammad Wildan Shabirurrohman | Pengembangan Aplikasi E-inventaris Berbasis Android Untuk Pemantauan Dan Pemeliharaan Aset Mennggunnakan Android Studio Di Pt Indonesia Power |
+| 34 | Muhammad Jilan Dalilah Fathsa | Penerapan Metode Search Engine Optimization (seo) Untuk Meningkatkan Penjualan Lariss.id |
+| 35 | Khaniza Nurussyifa | Optimalisasi User Experience Terhadap Website Ideabox Multitenant Di Pt. Telkom Indonesia Tbk |
+| 36 | Raihan Jundi Alfarizi | Rancang Bangun Game Interaktif Tentang Pengenalan Anggota Tubuh Berbasis Android |
+| 37 | Angga Ady Pratama | Pengembangan Aplikasi Web Terdesentralisasi Berbasis Blockchain Pada Protokol Ethereum (studi Kasus: Super Rarity) |
+| 38 | Putu Intan Mahaswari | Peran Product Manager Dalam Pengembangan Framework Dan Peningkatan Fitur Aplikasi Mytask Di Pt.transtrack |
+| 39 | Adnin Farizie Miradi | Pengembangan Frontend Aplikasi Website Dalam Manajemen Persedian Dan Pemasaran Untuk Produk Fashion Nerth |
+| 40 | Ade Irfan Setiawan | Pengembangan Aplikasi Dental Health Untuk Memahami Pentingnya Menjaga Kesehatan Gigi Di Rumah Sakit Umum Daerah Sekarwangi Sukabumi |
+| 41 | Michael Patriot Napitupulu | Pengembangan Vehicle Maintenance System Menggunakan Metode Agile Dengan Framework Scrum Di Pt Indo Teknologi (transtrack) |
 | 42 | Agung Abdul Rahman | Penerapan Desain Grafis Dalam Pembuatan Desain Kemasan Produk Di Pt Wynettes Walden International - Wrap Apprenticeship |
-| 43 | Andre Lumantouw | Pengoprasian Visual Dan Lighting Terhadap Kenyamanan Pada Pelanggan Holyglass Bar - Dalam Bentuk Buku Karya Ilmiah |
-| 44 | Oktavarian Santika Putra | Pembangunan Aplikasi Point Of Sale Berbasis Windows Pada Transaksi Penjualan Umkm Di Kawasan Universitas Telkom - Dalam Bentuk Buku Karya Ilmiah |
-| 45 | Wardah Nisrina | Perancangan Ui/ux Aplikasi Carpooling Untuk Peningkatan Efisiensi Mobilitas Karyawan Pt. Bank Rakyat Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 46 | Muhammad Rafly Robbani | Pengembangan Aplikasi Pelatihan Instalasi Perangkat Iot Berbasis Virtual Reality Untuk Pt Telekomunikasi Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 47 | Dimas Permana Khalil Kusuma | Peningkatan Keterlibatan Pengguna Dan Brand Awareness Telkom Indonesia ( Level Up ) Menggunakan Strategi Konten Kreatif - Dalam Bentuk Buku Karya Ilmiah |
-| 48 | Muhammad Raista Firdaus | Perancangan Ui/ux Untuk Mencari Sumber Daya Dan Top-up Pada Ranzeinstore - Dalam Bentuk Buku Karya Ilmiah |
-| 49 | Andika Budi Prasetya | Perencanaan Bisnis Untuk Kreema Project - Dalam Bentuk Buku Karya Ilmiah |
-| 50 | Uszamah Wahab Cawidu | Pengembangan Aset 3d Untuk Game Justice Rising Berbasis Webgl Untuk Jurusan Hukum Rmit University Australia - Dalam Bentuk Buku Karya Ilmiah |
-| 51 | Anisa Benedicta Tomayahu | Alat Peraga Berbasis Video Game Dengan Tipologi Configure Untuk Mengenalkan Transportasi Umum Di Tk It Little Moslem - Dalam Bentuk Buku Karya Ilmiah |
-| 52 | Raihan Ardiana Rahmatullah | Implementasi Quality Assurance Untuk Ui Menggunakan Framework Cypress Di Pt. Neuronworks Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 53 | Olita Irbah | Perancangan Dunia Minecraft Dari Bangunan Fakultas Ekonomi Dan Bisnis (feb) Dan Fakultas Komunikasi Dan Bisnis (fkb) Telkom University Serta Interaksi Untuk Pengembangan Tel-u Craft - Dalam Bentuk Buku Karya Ilmiah |
-| 54 | Taufan Rahmat Dani | Perancangan Company Profile Berbasis Video Sebagai Media Informasi Dan Promosi Pt Tabel Data Informatika - Dalam Bentuk Buku Karya Ilmiah |
-| 55 | Raisya Amalia Arifin | Penggunaan Desain Grafis Pada Digital Marketing Dalam Strategi Pemasaran Online Di Firli.id - Dalam Bentuk Buku Karya Ilmiah |
-| 56 | Fakhry Falah | Pengelolaan Produksi Produk Multimedia Dalam Kreema Project - Dalam Bentuk Buku Karya Ilmiah |
-| 57 | Farach Salsabilah | Peningkatan Efektivitas Desain Visual Pada Email Marketing Sebagai Media Informasi Area Cabang Dan Site: Pt United Tractors Tbk - Dalam Bentuk Buku Karya Ilmiah |
-| 58 | Reza Nugraha | Desain Antarmuka Aplikasi Titipsini.com Untuk Penitipan Barang, Kendaraan Dan Bangunan - Dalam Bentuk Buku Karya Ilmiah |
-| 59 | Rafi Putra Pratama | Pengembangan Dan Pengujian Aplikasi Pos Berbasis Website Pada Transaksi Penjualan Umkm Di Kawasan Universitas Telkom - Dalam Bentuk Buku Karya Ilmiah |
-| 60 | Nadilla Putri Rahmayani | Pembangunan Prototipe Aplikasi Berbasis Web Untuk Fasilitas Kesehatan Ibu Dan Anak Di Desa Cimanggung Kec. Cimanggung Kab. Sumedang - Dalam Bentuk Buku Karya Ilmiah |
-| 61 | Muhammad Taufiq Shidiq | Aplikasi Permainan Justice Rising Sebagai Simulasi Pembelajaran Business And Law Di Rmit University Australia - Dalam Bentuk Buku Karya Ilmiah |
-| 62 | Daffa Shiddiq Al Fajri | Desain Ui/ux Aplikasi Intelligent Hotel Management System Berbasis Website Pada Hotel Lingian Modul Front Office - Dalam Bentuk Buku Karya Ilmiah |
-| 63 | Luthfi Setya Pratama | Desain Ui/ux Website Intelligent Hotel Management System Pada Hotel Lingian Modul Housekeeping Dengan Metode User Center Design - Dalam Bentuk Buku Karya Ilmiah |
-| 64 | Yudha Pratama Adjie | Pengembangan Dan Pengelolaan Konten Marketing Digital Untuk Media Sosial Jhl Collections - Dalam Bentuk Buku Karya Ilmiah |
+| 43 | Andre Lumantouw | Pengoprasian Visual Dan Lighting Terhadap Kenyamanan Pada Pelanggan Holyglass Bar |
+| 44 | Oktavarian Santika Putra | Pembangunan Aplikasi Point Of Sale Berbasis Windows Pada Transaksi Penjualan Umkm Di Kawasan Universitas Telkom |
+| 45 | Wardah Nisrina | Perancangan Ui/ux Aplikasi Carpooling Untuk Peningkatan Efisiensi Mobilitas Karyawan Pt. Bank Rakyat Indonesia |
+| 46 | Muhammad Rafly Robbani | Pengembangan Aplikasi Pelatihan Instalasi Perangkat Iot Berbasis Virtual Reality Untuk Pt Telekomunikasi Indonesia |
+| 47 | Dimas Permana Khalil Kusuma | Peningkatan Keterlibatan Pengguna Dan Brand Awareness Telkom Indonesia ( Level Up ) Menggunakan Strategi Konten Kreatif |
+| 48 | Muhammad Raista Firdaus | Perancangan Ui/ux Untuk Mencari Sumber Daya Dan Top-up Pada Ranzeinstore |
+| 49 | Andika Budi Prasetya | Perencanaan Bisnis Untuk Kreema Project |
+| 50 | Uszamah Wahab Cawidu | Pengembangan Aset 3d Untuk Game Justice Rising Berbasis Webgl Untuk Jurusan Hukum Rmit University Australia |
+| 51 | Anisa Benedicta Tomayahu | Alat Peraga Berbasis Video Game Dengan Tipologi Configure Untuk Mengenalkan Transportasi Umum Di Tk It Little Moslem |
+| 52 | Raihan Ardiana Rahmatullah | Implementasi Quality Assurance Untuk Ui Menggunakan Framework Cypress Di Pt. Neuronworks Indonesia |
+| 53 | Olita Irbah | Perancangan Dunia Minecraft Dari Bangunan Fakultas Ekonomi Dan Bisnis (feb) Dan Fakultas Komunikasi Dan Bisnis (fkb) Telkom University Serta Interaksi Untuk Pengembangan Tel-u Craft |
+| 54 | Taufan Rahmat Dani | Perancangan Company Profile Berbasis Video Sebagai Media Informasi Dan Promosi Pt Tabel Data Informatika |
+| 55 | Raisya Amalia Arifin | Penggunaan Desain Grafis Pada Digital Marketing Dalam Strategi Pemasaran Online Di Firli.id |
+| 56 | Fakhry Falah | Pengelolaan Produksi Produk Multimedia Dalam Kreema Project |
+| 57 | Farach Salsabilah | Peningkatan Efektivitas Desain Visual Pada Email Marketing Sebagai Media Informasi Area Cabang Dan Site: Pt United Tractors Tbk |
+| 58 | Reza Nugraha | Desain Antarmuka Aplikasi Titipsini.com Untuk Penitipan Barang, Kendaraan Dan Bangunan |
+| 59 | Rafi Putra Pratama | Pengembangan Dan Pengujian Aplikasi Pos Berbasis Website Pada Transaksi Penjualan Umkm Di Kawasan Universitas Telkom |
+| 60 | Nadilla Putri Rahmayani | Pembangunan Prototipe Aplikasi Berbasis Web Untuk Fasilitas Kesehatan Ibu Dan Anak Di Desa Cimanggung Kec. Cimanggung Kab. Sumedang |
+| 61 | Muhammad Taufiq Shidiq | Aplikasi Permainan Justice Rising Sebagai Simulasi Pembelajaran Business And Law Di Rmit University Australia |
+| 62 | Daffa Shiddiq Al Fajri | Desain Ui/ux Aplikasi Intelligent Hotel Management System Berbasis Website Pada Hotel Lingian Modul Front Office |
+| 63 | Luthfi Setya Pratama | Desain Ui/ux Website Intelligent Hotel Management System Pada Hotel Lingian Modul Housekeeping Dengan Metode User Center Design |
+| 64 | Yudha Pratama Adjie | Pengembangan Dan Pengelolaan Konten Marketing Digital Untuk Media Sosial Jhl Collections |
 | 65 | Oinike Theresia Simangunsong | Perencanaan Dan Pengembangan Video Learning Inspire Untuk Management Trainee Pada Pt United Tractors Tbk - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
-| 66 | Najla Syifa Zalia | Pengembangan Konten Media Sosial Interaktif Untuk Meningkatkan Brand Awareness Mitra Sahabat Al-qur’an Indonesia Di Firli.id - Dalam Bentuk Buku Karya Ilmiah |
-| 67 | Zein Aziz Farhani | Perancangan Ui/ux Fitur Peristiwa Pada Chronolizer Sirah Nabawiyah Berbasiskan Website - Dalam Bentuk Buku Karya Ilmiah |
-| 68 | Athallah Puja Zaki Rahman | Perancangan Desain Ui Ux Di Aplikasi Sitepat Berbasis Figma Untuk Btpn Syariah - Dalam Bentuk Buku Karya Ilmiah |
+| 66 | Najla Syifa Zalia | Pengembangan Konten Media Sosial Interaktif Untuk Meningkatkan Brand Awareness Mitra Sahabat Al-qur’an Indonesia Di Firli.id |
+| 67 | Zein Aziz Farhani | Perancangan Ui/ux Fitur Peristiwa Pada Chronolizer Sirah Nabawiyah Berbasiskan Website |
+| 68 | Athallah Puja Zaki Rahman | Perancangan Desain Ui Ux Di Aplikasi Sitepat Berbasis Figma Untuk Btpn Syariah |
 | 69 | Farrel Ervandi Rifqi | Pengembangan Konten Digital Gambar Dan Video Media Sosial Instagram Dan Youtube Badan Narkotika Nasional Kota Depok Development Of Digital Content For Images And Social Media Video On Instagram And Youtube National Narcotics Agency Depok City - Dalam Ben |
-| 70 | Yusuf Rahman Wicaksono | Alat Peraga Berbasis Video Game Dengan Tipologi Solve Untuk Mengenalkan Transportasi Umum Di Tk It Little Moslem - Dalam Bentuk Buku Karya Ilmiah |
-| 71 | Hernita Nurulfitriyah | Strategi Pengembangan Konten Untuk Peningkatan Interaksi Pengguna Media Sosial Sahabat Al-qur’an Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 72 | Nadia Kusumawardhani | Pengembangan Program Untuk Video Game Sebagai Media Pembelajaran Mengenai Mitigasi Bencana Alam - Dalam Bentuk Buku Karya Ilmiah |
-| 73 | Iftikhar Abdurrahman | Perencanaan Marketing Produk Multimedia Di Sosial Media Kreema Project - Dalam Bentuk Buku Karya Ilmiah |
-| 74 | Rachmadini Artelia | Perancangan Ui/ux Website Sebagai Media Informasi Desa Marongge Kec. Tomo Kab. Sumedang - Dalam Bentuk Buku Karya Ilmiah |
-| 75 | Muhammad Haikal Hanif | Penerapan Teknik Trims Pada Video Editing Untuk Edukasi Cyber Security: Di Pt. Cyberarmy Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 76 | Muhammad Hammamrozan Nurrafianto | Produksi Konten Visual & Audiovisual Untuk Meningkatkan Awareness Program Digistar Connect By Telkom Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 77 | Beni Maximus Batistuta Sagala | Strategi Pengembangan Branding Dan Pemasaran Untuk Meningkatkan Bisnis Pt. Curaweda Palagan Innotech - Dalam Bentuk Buku Karya Ilmiah |
-| 78 | Dionisius Brisko Mayarinetyo | Pengembangan Aplikasi T-feeder: Implementasi Frontend Dengan Angular Di Bagian Standar & Layanan Akademik Telkom University - Dalam Bentuk Buku Karya Ilmiah |
-| 79 | Akbarsyah Nashrullah | Pengembangan Aplikasi Backend Mytask Berbasis Web Dengan Framework Laravel Lumen Pt.indo Trans Teknologi - Dalam Bentuk Buku Karya Ilmiah |
+| 70 | Yusuf Rahman Wicaksono | Alat Peraga Berbasis Video Game Dengan Tipologi Solve Untuk Mengenalkan Transportasi Umum Di Tk It Little Moslem |
+| 71 | Hernita Nurulfitriyah | Strategi Pengembangan Konten Untuk Peningkatan Interaksi Pengguna Media Sosial Sahabat Al-qur’an Indonesia |
+| 72 | Nadia Kusumawardhani | Pengembangan Program Untuk Video Game Sebagai Media Pembelajaran Mengenai Mitigasi Bencana Alam |
+| 73 | Iftikhar Abdurrahman | Perencanaan Marketing Produk Multimedia Di Sosial Media Kreema Project |
+| 74 | Rachmadini Artelia | Perancangan Ui/ux Website Sebagai Media Informasi Desa Marongge Kec. Tomo Kab. Sumedang |
+| 75 | Muhammad Haikal Hanif | Penerapan Teknik Trims Pada Video Editing Untuk Edukasi Cyber Security: Di Pt. Cyberarmy Indonesia |
+| 76 | Muhammad Hammamrozan Nurrafianto | Produksi Konten Visual & Audiovisual Untuk Meningkatkan Awareness Program Digistar Connect By Telkom Indonesia |
+| 77 | Beni Maximus Batistuta Sagala | Strategi Pengembangan Branding Dan Pemasaran Untuk Meningkatkan Bisnis Pt. Curaweda Palagan Innotech |
+| 78 | Dionisius Brisko Mayarinetyo | Pengembangan Aplikasi T-feeder: Implementasi Frontend Dengan Angular Di Bagian Standar & Layanan Akademik Telkom University |
+| 79 | Akbarsyah Nashrullah | Pengembangan Aplikasi Backend Mytask Berbasis Web Dengan Framework Laravel Lumen Pt.indo Trans Teknologi |
 | 80 | Ade Purnama | Perancangan Aplikasi Anatomi Tubuh Manusia Menggunakan Ar Bagi Siswa Sekolah Dasar - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
 | 81 | Jorge Valdano Putranto | Penerapan Produk Obyek 3d Melalui Pembuatan Dan Pengembangan Platform E-commerce Pada Talenta Komputer - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
-| 82 | John Duey Subade | Peran Desainer Grafis Untuk Meningkatkan Efektivitas Komunikasi Pada Media Sosial Di Pt Yesdok Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 83 | Hari Satria Pratama | Peran Objek 3d Dalam Dunia Metaverse Proyek Process Safety Fundamental (psf) Shevia Indonesia Dan Hsse Corporate Pertamina - Dalam Bentuk Buku Karya Ilmiah |
+| 82 | John Duey Subade | Peran Desainer Grafis Untuk Meningkatkan Efektivitas Komunikasi Pada Media Sosial Di Pt Yesdok Indonesia |
+| 83 | Hari Satria Pratama | Peran Objek 3d Dalam Dunia Metaverse Proyek Process Safety Fundamental (psf) Shevia Indonesia Dan Hsse Corporate Pertamina |
 | 84 | Daniar Vinandi Hakim | Dokumentasi Kegiatan Produksi Pakaian Di Perusahaan Seven Inc Yogyakarta - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
-| 85 | Setiandhika Muhammad Dyannarendra | Desainer Grafis Sebagai Pembuat Konten Pada Sosial Media Cyberarmy Indonesia - Dalam Bentuk Buku Karya Ilmiah |
-| 86 | Falah Danendra Megantara | Implementasi Augmented Reality Dalam Informasi & Navigasi Di Taman Edukasi Seinfarm - Dalam Bentuk Buku Karya Ilmiah |
-| 87 | Gabriella Aurellia Steffany | Produksi Film Pendek Fiksi Guna Meningkatkan Kedisiplinan Presensi Di Lingkup Dinas Kominfo Provinsi Papua Barat - Dalam Bentuk Buku Karya Ilmiah |
-| 88 | Roby Oktorizal | Pengelolaan Konten Digital Media Sosial Untuk Meningkatkan Engagement Rate Instagram Telkom Regional Iv - Dalam Bentuk Buku Karya Ilmiah |
-| 89 | Rifansyah Aditya Mahendra | Frontend Development Web Intradikti Menggunakan Nextjs Di Sekretariat Direktorat Jenderal Pendidikan Tinggi, Riset, Dan Teknologi Kementerian Pendidikan, Kebudayaan, Riset, Dan Teknologi - Dalam Bentuk Buku Karya Ilmiah |
-| 90 | Zachran Razendra | Pengembangan Website Aviasi Menggunakan Framework Laravel Dengan Api Untuk Meningkatkan Partisipasi Pengguna Daring Alfa5 Aviation - Dalam Bentuk Buku Karya Ilmiah |
-| 91 | Andi Sitti Muntihanah Syamsu | Peran Product Manager Dalam Pengembangan Modul Customer Care Pada Aplikasi Regist Di Pt Transtrack - Dalam Bentuk Buku Karya Ilmiah |
-| 92 | Hafizh Adzin | Pengembangan Konten Visual Dalam Social Branding Dan Marketing Perusahaan Techno Infinity Di Instagram - Dalam Bentuk Buku Karya Ilmiah |
-| 93 | Renal Muhdhar Hubaisy | Perancangan Aplikasi Permainan Pembelajaran Untuk Paud Aulia - Dalam Bentuk Buku Karya Ilmiah |
-| 94 | Dita Kurnia Rahayu Syaputri | Produksi Dan Publikasi Konten Digital Media Sosial Instagram Pada Pemasaran Brand Vision+ Tv - Dalam Bentuk Buku Karya Ilmiah |
-| 95 | Andi Mulia Sukmawira Assegaf | Pembuatan Desain Konten Untuk Kebutuhan Produk Cave Lotus - Dalam Bentuk Buku Karya Ilmiah |
+| 85 | Setiandhika Muhammad Dyannarendra | Desainer Grafis Sebagai Pembuat Konten Pada Sosial Media Cyberarmy Indonesia |
+| 86 | Falah Danendra Megantara | Implementasi Augmented Reality Dalam Informasi & Navigasi Di Taman Edukasi Seinfarm |
+| 87 | Gabriella Aurellia Steffany | Produksi Film Pendek Fiksi Guna Meningkatkan Kedisiplinan Presensi Di Lingkup Dinas Kominfo Provinsi Papua Barat |
+| 88 | Roby Oktorizal | Pengelolaan Konten Digital Media Sosial Untuk Meningkatkan Engagement Rate Instagram Telkom Regional Iv |
+| 89 | Rifansyah Aditya Mahendra | Frontend Development Web Intradikti Menggunakan Nextjs Di Sekretariat Direktorat Jenderal Pendidikan Tinggi, Riset, Dan Teknologi Kementerian Pendidikan, Kebudayaan, Riset, Dan Teknologi |
+| 90 | Zachran Razendra | Pengembangan Website Aviasi Menggunakan Framework Laravel Dengan Api Untuk Meningkatkan Partisipasi Pengguna Daring Alfa5 Aviation |
+| 91 | Andi Sitti Muntihanah Syamsu | Peran Product Manager Dalam Pengembangan Modul Customer Care Pada Aplikasi Regist Di Pt Transtrack |
+| 92 | Hafizh Adzin | Pengembangan Konten Visual Dalam Social Branding Dan Marketing Perusahaan Techno Infinity Di Instagram |
+| 93 | Renal Muhdhar Hubaisy | Perancangan Aplikasi Permainan Pembelajaran Untuk Paud Aulia |
+| 94 | Dita Kurnia Rahayu Syaputri | Produksi Dan Publikasi Konten Digital Media Sosial Instagram Pada Pemasaran Brand Vision+ Tv |
+| 95 | Andi Mulia Sukmawira Assegaf | Pembuatan Desain Konten Untuk Kebutuhan Produk Cave Lotus |
 
 ## 2023
 
@@ -215,20 +215,20 @@
 | 27 | Sofiya Nisrina | Penerapan Metode Algoritma Convolutional Neural Network Pada Klasifikasi Citra Buah |
 | 28 | Salsabila Nurul Imani | Perancangan Virtual Tour Pengenalan Lingkungan Kampus Telkom University Untuk Fakultas Informatika Berbasis Minecraft |
 | 29 | Irvanfaiz | Pembuatan Virtual Tour Fakultas Ilmu Terapan Menggunakan Fitur Npc Dosen Pada Server Tel-u Craft Dengan Basis Platform Minecraft Multiplayer |
-| 30 | Aditya Giri Fahrezi | Pemanfaatan Media Sosial Instagram Sebagai Informasi Pada Pt Krakatau Jasa Industri - Dalam Bentuk Buku Karya Ilmiah |
+| 30 | Aditya Giri Fahrezi | Pemanfaatan Media Sosial Instagram Sebagai Informasi Pada Pt Krakatau Jasa Industri |
 | 31 | Ferdi Irawan | Pengembangan Website 360 Untuk Pengenalan Lingkungan Fakultas Ilmu Terapan Telkom University |
 | 32 | Fathari Zain Hardianto | Peran Chief Technology Officer (cto) Dalam Pengembangan Produk Marga Pada Startup Creducent |
-| 33 | Talenta Alam | Pengembangan Virtual Expo 360 Berbasis Web Dengan Unity Game Engine Di Pt Indocement Tunggal Prakarsa - Dalam Bentuk Buku Karya Ilmiah |
+| 33 | Talenta Alam | Pengembangan Virtual Expo 360 Berbasis Web Dengan Unity Game Engine Di Pt Indocement Tunggal Prakarsa |
 | 34 | Dhifa Aksa Hermawan | Pembuatan Rencana Bisnis Pada Tahun 2023 Untuk Rumah Produksi Mateha Production |
-| 35 | Kelvin Putu Denilsen | Pembangunan Aplikasi Strategic Planning Allocation In Cyber Environment (space) Berbasis Codeigniter Studi Kasus: Alokasi Tim Operasional Prodi Trm - Dalam Bentuk Buku Karya Ilmiah |
+| 35 | Kelvin Putu Denilsen | Pembangunan Aplikasi Strategic Planning Allocation In Cyber Environment (space) Berbasis Codeigniter Studi Kasus: Alokasi Tim Operasional Prodi Trm |
 | 36 | Nabil Zain | Pembuatan Video Animasi Sebagai Bagian Dari Aplikasi Multimedia Interaktif Pembelajaran Perkalian Matriks 3 X 3 |
 | 37 | Andrea Nurul Fauziah | Pembuatan Model Kantor Cabang Luar Negeri (kcln) Bni Di Singapura |
 | 38 | Abdurochim Syaifin Nuha | Pembuatan Sop (standard Operational Procedure) Produksi Untuk Rumah Produksi Mateha Production |
-| 39 | Dekivara Zaka Aulia Igani | Pembangunan Perangkat Keras Pengklasifikasi Kualitas Biji Kopi Dengan Machine Learning - Dalam Bentuk Buku Karya Ilmiah |
+| 39 | Dekivara Zaka Aulia Igani | Pembangunan Perangkat Keras Pengklasifikasi Kualitas Biji Kopi Dengan Machine Learning |
 | 40 | Vidia Fajar Ichsani | Perancangan Model 3d Perumahan Aset Metaverse Sebagai Media Promosi Sistem Kpr Di Pt. Bank Negara Indonesia |
-| 41 | Zulfani Mahendra | Pembangunan Antarmuka Pengklasikasi Kualitas Biji Kopi Dengan Machine Learning - Dalam Bentuk Buku Karya Ilmiah |
+| 41 | Zulfani Mahendra | Pembangunan Antarmuka Pengklasikasi Kualitas Biji Kopi Dengan Machine Learning |
 | 42 | Dionovan Ramadhani | Pengembangan Aplikasi Techpolverse Berbasis Game Engine Unity Di Techpolitan Indonesia Persada |
-| 43 | Pawestri Shofia Nariswari | Implementasi Desain Ui Ux Untuk Meningkatkan Kepuasan Pengguna Pada Aplikasi Mobile Dan Website Pt. Bisa Artifisial Indonesia - Dalam Bentuk Buku Karya Ilmiah |
+| 43 | Pawestri Shofia Nariswari | Implementasi Desain Ui Ux Untuk Meningkatkan Kepuasan Pengguna Pada Aplikasi Mobile Dan Website Pt. Bisa Artifisial Indonesia |
 | 44 | Raenaldy Musa Iqbal | Pembuatan Dan Pengelolaan Konten New Media Digital Dalam Meningkatkan Citra Badan Narkotika Nasional Kota Bandung |
 | 45 | Muhammad Rifki Faisal | Implementasi Visual Dan Ui/ux Aplikasi Permainan Labirin Untuk Edukasi Pembelajaran Bahasa Inggris Untuk Smait Ummul Quro Bogor |
 | 46 | Dina Triana | Strategi Pemasaran Content Creator Melalui Pemasangan Iklan Di Media Sosial Instagram Dan Tiktok Pt.telkom Indonesia |
