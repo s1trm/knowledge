@@ -50,12 +50,12 @@ nav:
   - Rekognisi:
     - panduan_rekognisi.md
 
-  - SKPI:
-    - skpi_2022.md
 
   - Surat-Menyurat:
-    - surat.md
-    - sbkp.md
+    - Surat Aktif dll: surat.md
+    - SKL: skl.md
+    - SBKP: sbkp.md
+    - SKPI: skpi_2022.md
 
   - TAK:
     - tak.md
