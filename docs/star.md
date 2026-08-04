@@ -16,6 +16,5 @@ Program termasuk pada kegiatan TAK wajib!
 1.  Simak video dan materi dari awal hingga akhir.
 1.  Kerjakan semua kuis sampai selesai.
 
-
-![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/star/star1.jpg)
-![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/star/star2.jpg)
+![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/star/star1.png)
+![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/star/star2.png)
