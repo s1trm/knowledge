@@ -73,6 +73,7 @@ nav:
     - template_pa.md
     - jalur_pa.md
     - pa_publikasi.md
+    - proposal.md
 
 markdown_extensions:
   - pymdownx.highlight:
