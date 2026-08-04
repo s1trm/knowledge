@@ -55,6 +55,7 @@ nav:
     - cuti.md
     - surat.md
     - undur_diri.md
+    - sbkp.md
 
   - TAK:
     - tak.md
@@ -72,7 +73,6 @@ nav:
     - template_pa.md
     - jalur_pa.md
     - pa_publikasi.md
-    - sbkp.md
 
 markdown_extensions:
   - pymdownx.highlight:
