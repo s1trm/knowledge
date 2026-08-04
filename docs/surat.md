@@ -1,4 +1,4 @@
-# **Kebutuhan Surat**
+# **Surat Keterangan/Rekomendasi/Pengantar**
 
 1. [Surat Aktif Mahasiswa](https://toss.telkomuniversity.ac.id)
 1. [Surat Pengantar Mata Kuliah](https://toss.telkomuniversity.ac.id)
@@ -14,7 +14,7 @@ Login ke [TOSS](https://toss.telkomuniversity.ac.id/login).
 ![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/toss1.png)
 
 Pilih **One Stop Services**. Di sini ada semua surat-surat yang dipelukan.
-
+ 
 ![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/toss2.png)
 
 Klik **Apply Letter**.
@@ -24,3 +24,9 @@ Klik **Apply Letter**.
 Isi form dan **Submit**.
 
 ![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/toss4.png)
+
+## **Surat Keterangan Lulus (SKL)**
+Surat Keterangan Lulus (SKL) merupakan dokumen resmi yang diterbitkan oleh Fakultas atau Program Studi untuk menyatakan bahwa mahasiswa yang bersangkutan telah menyelesaikan seluruh kewajiban akademiknya di Telkom University.
+
+[Informasi lengkap](https://la-fit.telkomuniversity.ac.id/surat-keterangan-lulus-skl/)
+

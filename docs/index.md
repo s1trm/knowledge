@@ -17,6 +17,7 @@ Untuk profil program studi, dapat dilihat di [sini](https://s1trm.github.io/prof
 1. [Layanan Akademik (LA) FIT](https://la-fit.telkomuniversity.ac.id/)
 1. [Talentern (Magang)](https://talentern.telkomuniversity.ac.id/)
 1. [Layanan Keuangan Mahasiswa](https://finance.telkomuniversity.ac.id/layanan/layanan-keuangan-mahasiswa)
+1. [Kemahasiswaan FIT](https://kemahasiswaan-sas.telkomuniversity.ac.id/)
 
 
 ### LinkTree
@@ -32,5 +33,7 @@ Untuk profil program studi, dapat dilihat di [sini](https://s1trm.github.io/prof
 1. [Prodi S1 Tr. TRM](https://www.instagram.com/s1trm.fit/) 
 1. [Layanan Kerjasama dan Magang (LKM) FIT](https://www.instagram.com/magang.fit/) 
 1. [Kemahasiswaan, Karir, dan Alumni (KKA) Universitas Telkom](https://www.instagram.com/kka_univtelkom/) 
+1. [Keuangan Universitas Telkom](https://www.instagram.com/finance_univtelkom) 
+1. [Kemahasiswaan FIT](https://www.instagram.com/kemahasiswaanfit)
 
 

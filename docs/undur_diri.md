@@ -1,4 +1,4 @@
-# **Cara Pengajuan Undur Diri**
+# **Pengajuan Undur Diri**
 
 Untuk pengajuan undur diri, lakukan langkah-langkah berikut.
 

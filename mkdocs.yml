@@ -44,6 +44,8 @@ nav:
     - Kalender Akademik: kaldik.md
     - Pedoman Akademik 2026: pedak_2026.md
     - Pedoman Akademik 2024: pedak_2024.md
+    - Pengajuan Cuti: cuti.md
+    - Pengajuan Undur Diri: undur_diri.md
 
   - Rekognisi:
     - panduan_rekognisi.md
@@ -52,9 +54,7 @@ nav:
     - skpi_2022.md
 
   - Surat-Menyurat:
-    - cuti.md
     - surat.md
-    - undur_diri.md
     - sbkp.md
 
   - TAK:
