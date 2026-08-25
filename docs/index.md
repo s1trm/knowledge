@@ -35,5 +35,6 @@ Untuk profil program studi, dapat dilihat di [sini](https://s1trm.github.io/prof
 1. [Kemahasiswaan, Karir, dan Alumni (KKA) Universitas Telkom](https://www.instagram.com/kka_univtelkom/) 
 1. [Keuangan Universitas Telkom](https://www.instagram.com/finance_univtelkom) 
 1. [Kemahasiswaan FIT](https://www.instagram.com/kemahasiswaanfit)
+1. [Laboratorium FIT](https://www.instagram.com/lab.fit.telu)
 
 
