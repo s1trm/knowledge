@@ -25,6 +25,16 @@ plugins:
   - search
 
 nav:
+  - Akademik:
+    - Kalender Akademik: kaldik.md
+    - Pedoman Akademik 2026: pedak_2026.md
+    - Pedoman Akademik 2024: pedak_2024.md
+    - Pengajuan Cuti: cuti.md
+    - Pengajuan Undur Diri: undur_diri.md
+
+  - HKI:
+    - Tentang HKI: hki.md
+
   - Keuangan:
     - pembayaran_bpp.md
     - bpp_bni.md
@@ -40,16 +50,8 @@ nav:
   - Magang:
     - magang.md
 
-  - Akademik:
-    - Kalender Akademik: kaldik.md
-    - Pedoman Akademik 2026: pedak_2026.md
-    - Pedoman Akademik 2024: pedak_2024.md
-    - Pengajuan Cuti: cuti.md
-    - Pengajuan Undur Diri: undur_diri.md
-
   - Rekognisi:
     - panduan_rekognisi.md
-
 
   - Surat-Menyurat:
     - Surat Aktif dll: surat.md
