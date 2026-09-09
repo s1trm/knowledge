@@ -24,7 +24,7 @@
 | ![#BC9601](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/palette/BC9601.png) | `#BC9601` | 188, 150, 1 | Base Gold | Primary brand color |
 | ![#8A6E01](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/palette/8A6E01.png) | `#8A6E01` | 138, 110, 1 | Dark Gold | Pressed / active states |
 | ![#5C4900](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/palette/5C4900.png) | `#5C4900` | 92, 73, 0 | Deep Gold/Brown | Text on light gold, shadows |
-| ![#FFFFFF](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/palettehttps://placehold.co/40x24/FFFFFF/CCCCCC.png) | `#FFFFFF` | 255, 255, 255 | White | Background / negative space |
+| ![#FFFFFF](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/palette/CCCCCC.png) | `#FFFFFF` | 255, 255, 255 | White | Background / negative space |
 
 ### CSS Variables
 
