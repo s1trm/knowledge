@@ -1,0 +1,77 @@
+/*
+  TRM (Teknologi Rekayasa Multimedia) — MkDocs Material theme override
+  Save as: docs/stylesheets/extra.css
+
+  In mkdocs.yml, register it:
+
+    extra_css:
+      - stylesheets/extra.css
+
+  Material reads color from these custom properties on :root and
+  [data-md-color-scheme="slate"] (dark mode). Overriding them re-themes
+  the whole site — header, nav, links, buttons — without touching
+  Material's built-in palette names in mkdocs.yml.
+*/
+
+:root {
+  /* --- TRM brand scale (source values) --- */
+  --trm-gold-tint:  #F5EBC6;
+  --trm-gold-light: #E0C24A;
+  --trm-gold-base:  #BC9601; /* primary — matches the logo exactly */
+  --trm-gold-dark:  #8A6E01;
+  --trm-gold-deep:  #5C4900;
+
+  /* --- Material primary color (header, nav, sidebar) --- */
+  --md-primary-fg-color:             var(--trm-gold-deep);
+  --md-primary-fg-color--light:      var(--trm-gold-light);
+  --md-primary-fg-color--dark:       var(--trm-gold-dark);
+  --md-primary-bg-color:             #FFFFFF;
+  --md-primary-bg-color--light:      hsla(0, 0%, 100%, 0.7);
+
+  /* --- Material accent color (links, buttons, highlights) --- */
+  --md-accent-fg-color:              var(--trm-gold-dark);
+  --md-accent-fg-color--transparent: hsla(45, 99%, 37%, 0.1);
+  --md-accent-bg-color:              #FFFFFF;
+  --md-accent-bg-color--light:       hsla(0, 0%, 100%, 0.7);
+}
+
+/* --- Dark mode (slate) --- */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:             var(--trm-gold-deep);
+  --md-primary-fg-color--light:      var(--trm-gold-light);
+  --md-primary-fg-color--dark:       var(--trm-gold-deep);
+
+  --md-accent-fg-color:              var(--trm-gold-light);
+  --md-accent-fg-color--transparent: hsla(48, 78%, 58%, 0.15);
+}
+
+/* --- Optional: TRM tint for admonitions / callout accents --- */
+.md-typeset .admonition.trm,
+.md-typeset details.trm {
+  border-color: var(--trm-gold-base);
+}
+.md-typeset .trm > .admonition-title,
+.md-typeset .trm > summary {
+  background-color: var(--trm-gold-tint);
+  border-color: var(--trm-gold-base);
+}
+.md-typeset .trm > .admonition-title::before,
+.md-typeset .trm > summary::before {
+  background-color: var(--trm-gold-base);
+}
+
+/* Link hover color */
+.md-typeset a:hover {
+  color: var(--trm-gold-base);
+  /* text-decoration: underline; */
+}
+
+/* Optional: also cover nav/sidebar links on hover */
+.md-nav__link:hover {
+  color: var(--trm-gold-base) !important;
+}
+
+/* Optional: tab links on hover (if you use navigation.tabs) */
+.md-tabs__link:hover {
+  color: var(--trm-gold-light) !important;
+}
