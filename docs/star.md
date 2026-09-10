@@ -9,7 +9,7 @@ Program termasuk pada kegiatan TAK wajib!
 
 **Cara akses:**
 
-1.  Buka [link berikut](https://bit.ly/tel-u-career-coach-star).
+1.  Buka [link berikut](https://lms.telkomuniversity.ac.id/enrol/index.php?id=22).
 1.  Login dengan akun SSO.
 1.  Masukkan enrollment key TEL-U-CAREER-COACH-STAR pada kolom redeem code.
 1.  Pilih jalur karier yang sesuai.
