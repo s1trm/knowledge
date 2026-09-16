@@ -23,7 +23,7 @@
 | 17 | Moses Dimas Ahimsa | Implementasi Model Bisnis Lisensi B2B untuk Komersialisasi Platform Wordwise melalui Kemitraan Agregator pada Startup Lunar Interactive |
 | 18 | Muhamad Adrian Kimiditya | Optimalisasi Perencanaan Konten Media Sosial sebagai Strategi Peningkatan Brand Awareness di Lunar Interactive (PT Maya Karya Interaktif) |
 | 19 | Dean Erick Adhitia Nugraha | Perancangan Ulang Konten Visual Grafis untuk Branding Digital pada Akun Instagram Techno Infinity |
-| 20 | Zahra Imani | Produksi Konten Visual sebagai Media Branding Perusahaan pada Akun Linkedin Techno Infinity |
+| 20 | Zahra Imani | Produksi Konten Visual sebagai Media Branding Perusahaan pada Akun LinkedIn Techno Infinity |
 | 21 | Sheilan Mayra | Perancangan Gim Edukasi |
 | 22 | Nafla Syauqi Syahidah | Pengembangan Aplikasi Realitas Virtual untuk Media Pembelajaran Interaktif bagi Penyandang Tunarungu |
 | 23 | Muhamad Sidik | Pengembangan Aplikasi Augmented Reality Dinamis Menggunakan Metode Agile pada PT Jaswita Jabar |
@@ -67,9 +67,9 @@
 | 10 | Amos Hotma Rizky Saragih | Pengembangan Desain Website dalam Upaya Pembaharuan Desain Website di Affor Gadget |
 | 11 | Muhammad Fatah Al Khadami | Pengembangan Sistem Inventaris Berbasis Web untuk Pengelolaan Aset IT di PT KCIC |
 | 12 | Falah Malik Alvi | Perencanaan Pengadaan Barang dalam Mendukung Supply Chain Management yang Efisien dengan Metode Inventory Management di Startup Affor Gadget |
-| 13 | Intan Zafira | Perancangan dan Optimalisasi Antarmuka Website Terpadu untuk Sistem Seleksi Pegawai di Komnas Ham |
+| 13 | Intan Zafira | Perancangan dan Optimalisasi Antarmuka Website Terpadu untuk Sistem Seleksi Pegawai di Komnas HAM |
 | 14 | Fikri Hilal Akmal | Optimasi Desain UI & UX Aplikasi Strive: Pendekatan User-centered Design untuk Meningkatkan Efisiensi Karyawan |
-| 15 | Nurul Rifdah Umay | Implementasi Backend Website Kota Pariaman Berbasis Laravel dan Mysql |
+| 15 | Nurul Rifdah Umay | Implementasi Backend Website Kota Pariaman Berbasis Laravel dan MySQL |
 | 16 | Egi Yudhistira | Perancangan dan Implementasi Sistem Inventory Management Asset Berbasis Web untuk PT KCIC |
 | 17 | Muhammad Nurprawira | Perancangan Antarmuka Aplikasi Job Hunter Berbasis Website sebagai Platform Pencarian Kerja Era Digital |
 | 18 | Muhammad Kemal Pasha | Pengembangan Usaha Jasa Pembuatan Musik Digital melalui Media Sosial “x” |
@@ -133,7 +133,7 @@
 | 8 | Fathimah Insani Al Atsariyyah | Perancangan Video Game Berbasis Visual Novel sebagai Media Pembelajaran Mengenai Mitigasi Bencana Alam |
 | 9 | Aqila Rahma | Pengembangan UI/UX pada Aplikasi Edukasi Perlindungan Diri dan Pelaporan Kasus di SMPN 03 Baleendah |
 | 10 | Nur Kholis Kholil | Penggunaan Search Engine Optimization dalam Strategi Pemasaran Digital (Studi Kasus: Lariss.id) |
-| 11 | Suci Aliyah Putri | Perencanaan dan Pembuatan Konten pada Instagram dan Tiktok Perusahaan Panasonic |
+| 11 | Suci Aliyah Putri | Perencanaan dan Pembuatan Konten pada Instagram dan TikTok Perusahaan Panasonic |
 | 12 | Khaerani Anjani | Perancangan dan Implementasi Event Interaktif untuk Meningkatkan Kunjungan E-museum Berbasis Gamifikasi di United Tractors |
 | 13 | Muhammad Ainur Rafiq | Perancangan UI/UX Fitur Admin Dashboard pada Chronolizer Sirah Nabawiyah Berbasis Website |
 | 14 | Muhammad Tanjung Mulia Mattalitti | Pengembangan Aplikasi Media Promosi Pariwisata Menggunakan Augmented Reality Berbasis Android, (Studi Kasus: Tur Marina Raja Ampat) |
@@ -172,7 +172,7 @@
 | 47 | Dimas Permana Khalil Kusuma | Peningkatan Keterlibatan Pengguna dan Brand Awareness Telkom Indonesia (Level Up) Menggunakan Strategi Konten Kreatif |
 | 48 | Muhammad Raista Firdaus | Perancangan UI/UX untuk Mencari Sumber Daya dan Top-up pada Ranzeinstore |
 | 49 | Andika Budi Prasetya | Perencanaan Bisnis untuk Kreema Project |
-| 50 | Uszamah Wahab Cawidu | Pengembangan Aset 3D untuk Game Justice Rising Berbasis Webgl untuk Jurusan Hukum RMIT University Australia |
+| 50 | Uszamah Wahab Cawidu | Pengembangan Aset 3D untuk Game Justice Rising Berbasis WebGL untuk Jurusan Hukum RMIT University Australia |
 | 51 | Anisa Benedicta Tomayahu | Alat Peraga Berbasis Video Game dengan Tipologi Configure untuk Mengenalkan Transportasi Umum di TK IT Little Moslem |
 | 52 | Raihan Ardiana Rahmatullah | Implementasi Quality Assurance untuk UI Menggunakan Framework Cypress di PT. Neuronworks Indonesia |
 | 53 | Olita Irbah | Perancangan Dunia Minecraft dari Bangunan Fakultas Ekonomi dan Bisnis (FEB) dan Fakultas Komunikasi dan Bisnis (FKB) Telkom University serta Interaksi untuk Pengembangan Tel-U Craft |
@@ -191,7 +191,7 @@
 | 66 | Najla Syifa Zalia | Pengembangan Konten Media Sosial Interaktif untuk Meningkatkan Brand Awareness Mitra Sahabat Al-qur’an Indonesia di Firli.id |
 | 67 | Zein Aziz Farhani | Perancangan UI/UX Fitur Peristiwa pada Chronolizer Sirah Nabawiyah Berbasiskan Website |
 | 68 | Athallah Puja Zaki Rahman | Perancangan Desain UI UX di Aplikasi Sitepat Berbasis Figma untuk Btpn Syariah |
-| 69 | Farrel Ervandi Rifqi | Pengembangan Konten Digital Gambar dan Video Media Sosial Instagram dan Youtube Badan Narkotika Nasional Kota Depok |
+| 69 | Farrel Ervandi Rifqi | Pengembangan Konten Digital Gambar dan Video Media Sosial Instagram dan YouTube Badan Narkotika Nasional Kota Depok |
 | 70 | Yusuf Rahman Wicaksono | Alat Peraga Berbasis Video Game dengan Tipologi Solve untuk Mengenalkan Transportasi Umum di TK IT Little Moslem |
 | 71 | Hernita Nurulfitriyah | Strategi Pengembangan Konten untuk Peningkatan Interaksi Pengguna Media Sosial Sahabat Al-qur’an Indonesia |
 | 72 | Nadia Kusumawardhani | Pengembangan Program untuk Video Game sebagai Media Pembelajaran Mengenai Mitigasi Bencana Alam |
@@ -211,7 +211,7 @@
 | 86 | Falah Danendra Megantara | Implementasi Augmented Reality dalam Informasi & Navigasi di Taman Edukasi Seinfarm |
 | 87 | Gabriella Aurellia Steffany | Produksi Film Pendek Fiksi Guna Meningkatkan Kedisiplinan Presensi di Lingkup Dinas Kominfo Provinsi Papua Barat |
 | 88 | Roby Oktorizal | Pengelolaan Konten Digital Media Sosial untuk Meningkatkan Engagement Rate Instagram Telkom Regional IV |
-| 89 | Rifansyah Aditya Mahendra | Frontend Development Web Intradikti Menggunakan Nextjs di Sekretariat Direktorat Jenderal Pendidikan Tinggi, Riset, dan Teknologi Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi |
+| 89 | Rifansyah Aditya Mahendra | Frontend Development Web Intradikti Menggunakan Next.js di Sekretariat Direktorat Jenderal Pendidikan Tinggi, Riset, dan Teknologi Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi |
 | 90 | Zachran Razendra | Pengembangan Website Aviasi Menggunakan Framework Laravel dengan API untuk Meningkatkan Partisipasi Pengguna Daring Alfa5 Aviation |
 | 91 | Andi Sitti Muntihanah Syamsu | Peran Product Manager dalam Pengembangan Modul Customer Care pada Aplikasi Regist di PT Transtrack |
 | 92 | Hafizh Adzin | Pengembangan Konten Visual dalam Social Branding dan Marketing Perusahaan Techno Infinity di Instagram |
@@ -241,7 +241,7 @@
 | 16 | Muhamad Rizki Pebriansyah | Pengembangan Desain UI/UX pada Fitur Integrasi Logistik dan Marketplace di Aplikasi Krealogi |
 | 17 | Julisass | Aplikasi Augmented Reality (AR) untuk Pengenalan Makanan Khas Indonesia |
 | 18 | Cliff Anthony Tasliman | Aplikasi Multimedia Interaktif untuk Pembelajaran Perkalian Matriks 3 X 3 |
-| 19 | Silfania Maulida | Implementasi Filter dan Stiker Kamera Instagram dengan Teknologi Augmented Reality Berbasis Ios/android untuk Promosi Produksi Musik Haifa Azzura pada Moritza Music Series |
+| 19 | Silfania Maulida | Implementasi Filter dan Stiker Kamera Instagram dengan Teknologi Augmented Reality Berbasis iOS/Android untuk Promosi Produksi Musik Haifa Azzura pada Moritza Music Series |
 | 20 | Rosyad Zainurrahman | Pembuatan Video Komersial dan Dokumentasi di Perusahaan Seven Inc Yogyakarta |
 | 21 | Putri Ilyassani | Peran Chief Operating Officer (COO) dalam Pengembangan Produk Marga pada Startup Creducent |
 | 22 | Dimas Yudhitya Hendriansyah | Pembuatan Virtual Reality 360 Berupa Desain Antar Muka dan Virtual Tour 360 pada Paviliun Bandung untuk Disbudpar Kota Bandung |
@@ -257,7 +257,7 @@
 | 32 | Fathari Zain Hardianto | Peran Chief Technology Officer (CTO) dalam Pengembangan Produk Marga pada Startup Creducent |
 | 33 | Talenta Alam | Pengembangan Virtual Expo 360 Berbasis Web dengan Unity Game Engine di PT Indocement Tunggal Prakarsa |
 | 34 | Dhifa Aksa Hermawan | Pembuatan Rencana Bisnis pada Tahun 2023 untuk Rumah Produksi Mateha Production |
-| 35 | Kelvin Putu Denilsen | Pembangunan Aplikasi Strategic Planning Allocation In Cyber Environment (SPACE) Berbasis Codeigniter Studi Kasus: Alokasi Tim Operasional Prodi Trm |
+| 35 | Kelvin Putu Denilsen | Pembangunan Aplikasi Strategic Planning Allocation In Cyber Environment (SPACE) Berbasis CodeIgniter Studi Kasus: Alokasi Tim Operasional Prodi Trm |
 | 36 | Nabil Zain | Pembuatan Video Animasi sebagai Bagian dari Aplikasi Multimedia Interaktif Pembelajaran Perkalian Matriks 3 X 3 |
 | 37 | Andrea Nurul Fauziah | Pembuatan Model Kantor Cabang Luar Negeri (KCLN) BNI di Singapura |
 | 38 | Abdurochim Syaifin Nuha | Pembuatan SOP (standard Operational Procedure) Produksi untuk Rumah Produksi Mateha Production |
@@ -268,7 +268,7 @@
 | 43 | Pawestri Shofia Nariswari | Implementasi Desain UI UX untuk Meningkatkan Kepuasan Pengguna pada Aplikasi Mobile dan Website PT. Bisa Artifisial Indonesia |
 | 44 | Raenaldy Musa Iqbal | Pembuatan dan Pengelolaan Konten New Media Digital dalam Meningkatkan Citra Badan Narkotika Nasional Kota Bandung |
 | 45 | Muhammad Rifki Faisal | Implementasi Visual dan UI/UX Aplikasi Permainan Labirin untuk Edukasi Pembelajaran Bahasa Inggris untuk Smait Ummul Quro Bogor |
-| 46 | Dina Triana | Strategi Pemasaran Content Creator melalui Pemasangan Iklan di Media Sosial Instagram dan Tiktok PT.telkom Indonesia |
+| 46 | Dina Triana | Strategi Pemasaran Content Creator melalui Pemasangan Iklan di Media Sosial Instagram dan TikTok PT.telkom Indonesia |
 | 47 | Dean Traja Farizqullah | Perancangan NPC dan Mini Games pada World Fakultas Teknik Elektro dengan Platform Minecraft untuk Tel-U Craft |
 | 48 | Muhammad Andhika Rahmani | Perancangan UI/UX Game Edukasi 2D Rambu Lalu Lintas |
 | 49 | Fenica Salsabila Malsyasila | Implementasi Desain Grafis terhadap Aktivitas Marketing Media Mix pada Edutech Pijar Belajar di PT Telkom Indonesia Tbk |
@@ -279,15 +279,15 @@
 | 54 | Dean Arya Bangga | Pemodelan Karakter 3D dan Asset Bangunan untuk Metaverse di PT Bank Negara Indonesia |
 | 55 | Herminingtyas Febiani | Pembuatan Model 3D Perumahan Margahayuland untuk Simulasi KPR di PT. Bank Negara Indonesia |
 | 56 | Louis David Manik | Perencanaan dan Pengembangan Konten Smart City di Media Sosial Diskominfo Kota Bandung |
-| 57 | Nurakhmad Sustantyo | Pengembangan Backend REST API (S3 Upload, Template, Space) untuk Metaverse Bnitopia Menggunakan Java Springboot di PT. Bank Negara Indonesia (Persero), Tbk. |
+| 57 | Nurakhmad Sustantyo | Pengembangan Backend REST API (S3 Upload, Template, Space) untuk Metaverse Bnitopia Menggunakan Java Spring Boot di PT. Bank Negara Indonesia (Persero), Tbk. |
 | 58 | Muhamad Raditya Mukti | Pembuatan Model 3D Gedung Telkom University untuk Game Metaverse Berbasis Geolocation yang Dirancang oleh Center Of Elearning And Open Educatio |
 | 59 | Ahmad Faisal Muan | Perancangan dan Implementasi Website E-commerce Tobu (Toko Budaya) |
 | 60 | Bobi Andriyana | Pembuatan Aplikasi Edukasi Interaktif Mobil Listrik |
-| 61 | Raynaldi Faizal Biqri | Pengembangan Backend REST API Model Appuser dan Portal Metamesta Bnitopia dengan Java Springboot di PT. Bank Negara Indonesia |
+| 61 | Raynaldi Faizal Biqri | Pengembangan Backend REST API Model Appuser dan Portal Metamesta Bnitopia dengan Java Spring Boot di PT. Bank Negara Indonesia |
 | 62 | Mella Rahensa | Pengembangan Konten Transmedia Program Innovation Day PT Telekomunikasi Indonesia |
 | 63 | Aulia Abdurrafi | Pengembangan Virtual Expo 3D Berbasis Web dengan Unity Game Engine di PT. Indocement Tunggal Prakarsa |
 | 64 | Andrianus Septhindra Gita Pramana | Perancangan dan Pembuatan Metaverse di PT. Bank Negara Indonesia |
-| 65 | Ulul Azmi | Strategi Content Creator dalam Membentuk Brand Image di Social Media Instagram dan Tiktok di PT. Inspira Televisi Indonesia |
+| 65 | Ulul Azmi | Strategi Content Creator dalam Membentuk Brand Image di Social Media Instagram dan TikTok di PT. Inspira Televisi Indonesia |
 | 66 | Muhammad Ariq Musyaffa | Penerapan Teknologi Augmented Reality sebagai Media Edukasi Siklus Air 3D Interaktif |
 | 67 | Ichsan Sting | Otomatisasi dan Pengelolaan Konfigurasi Game Server Menggunakan Ansible |
 | 68 | Syamil Shofiyyur Rahman | Pengembangan Virtual Expo Interaktif Berbasis UI/UX dengan Figma di PT. Indocement Tunggal Prakarsa |
@@ -302,8 +302,8 @@
 | 77 | Krisjon Bangun | Pembuatan Konten Media Sosial melalui Website Bandung Smart City Dinas Komunikasi & Informatika Kota Bandung |
 | 78 | Ignasius Malemteta Perangin-angin | Pengembangan Website Sekolah Menengah Pertama Xaverius 1 Bandar Lampung Berbasis Multimedia Interaktif |
 | 79 | Muhammad Surya Hikami | Rancangan UI/UX Website E-commerce Tobu (Toko Budaya) |
-| 80 | Erlangga Setiawan | Pengembangan Aplikasi Open Resource Binary dan Interactive Technology (ORBIT) Berbasis Website Menggunakan Framework Codeigniter Studi Kasus: Program Studi Teknologi Rekayasa Multimedia |
-| 81 | Eriko Kresna Syahputra | Pembangunan Strategic Planning Allocation In Cyber Environment (SPACE) Berbasis Unity Webgl Studi Kasus: Perencanaan Tim Kompetisi Metalabs |
+| 80 | Erlangga Setiawan | Pengembangan Aplikasi Open Resource Binary dan Interactive Technology (ORBIT) Berbasis Website Menggunakan Framework CodeIgniter Studi Kasus: Program Studi Teknologi Rekayasa Multimedia |
+| 81 | Eriko Kresna Syahputra | Pembangunan Strategic Planning Allocation In Cyber Environment (SPACE) Berbasis Unity WebGL Studi Kasus: Perencanaan Tim Kompetisi Metalabs |
 | 82 | Yandi | Pembangunan Fitur Teleport dan Interaksi Non-playable Character pada Pengembangan Metaverse di PT. Bank Negara Indonesia |
 | 83 | Ananda Naufal Rifki Sutanto | Pengembangan Metaverse Menggunakan Photon Fusion di PT. Bank Negara Indonesia |
 | 84 | Johan Iman Saro Harefa | Pembuatan dan Pengumpulan Kebutuhan Aset-aset serta Penyuntingan Audio Video pada Perusahaan Konsultan TI PT. Tabel Data Informatika |
@@ -326,8 +326,8 @@
 | 101 | Abi Rayhan Pratama | Perancangan Konseptual Desain pada Aplikasi Media Interaktif tentang Pengenalan Sistem Ekologi Hewan bagi Siswa/siswi Sekolah Dasar Negeri 02 Pelita Karya Subang |
 | 102 | Jevan Fauzan Baarizky | Penerapan Teknologi Augmented Reality (AR) sebagai Media Pembelajaran Alat Musik Modern untuk Anak Anak |
 | 103 | Alghifari Muhamad | Proses Penyuntingan Video Highlight untuk Acara Olahraga pada Perusahaan Vidio Dot Com |
-| 104 | Audrey Febrianti | Implementasi Objek Mouth Tracking Instagram dengan Teknologi Augmented Reality Berbasis Android/ios untuk Promosi Produksi Musik Haifa Azzura pada Moritza Musik Series |
-| 105 | Hary Ramadhana Nasution | Desain dan Implementasi Frontend untuk Aplikasi Berbasis Webcovid-19 Betamedic Menggunakan Framework Reactjs |
+| 104 | Audrey Febrianti | Implementasi Objek Mouth Tracking Instagram dengan Teknologi Augmented Reality Berbasis Android/iOS untuk Promosi Produksi Musik Haifa Azzura pada Moritza Musik Series |
+| 105 | Hary Ramadhana Nasution | Desain dan Implementasi Frontend untuk Aplikasi Berbasis Webcovid-19 Betamedic Menggunakan Framework React.js |
 | 106 | Muhammad Faikar Firas | Pembangunan Virtual Based Learning, Smarteye Virtual Convention Center, dan Blue Economic Network PT. Telkom Indonesia |
 | 107 | Syafira Laila Ramadhani | Perancangan UI/UX Design untuk Fitur Pengintegrasian dengan Logistik pada Fitur Pengintegrasian dengan Logistik dan Marketplace di Aplikasi Krealogi |
 | 108 | Rara Amalia Fadilah | Rancang Bangun Aplikasi Virtual Fitting Hijab Berbasis Augmented Reality dengan Pengukuran Immersion Experience Questionnaire (IEQ) |
@@ -370,7 +370,7 @@
 | 145 | Muhammad Ardhi Habiburrohman | Pembuatan Logo dan Feed Instagram untuk Vyenka Bakery oleh Tembok Creative |
 | 146 | Robby Bergomi | Perancangan dan Implementasi Aplikasi Mobile untuk Website E-commerce Tobu (Toko Budaya) |
 | 147 | Tiara Nazila Safitri | Pembuatan Desain Konten untuk Pengembangan Media Sosial di PT. Citi Asia Internasional |
-| 148 | Rhifanny Ourel | Strategi Meningkatkan Brand Awarness Sosial Media Tiktok pada Tembok Creative |
+| 148 | Rhifanny Ourel | Strategi Meningkatkan Brand Awarness Sosial Media TikTok pada Tembok Creative |
 | 149 | Nabilah Farrassyajidah Arrosyid | Perancangan UI/UX pada Proyek Nutreeat Berbasis Website dan Aplikasi Mobile di PT. Bisa Artifisial Indonesia |
 | 150 | Rayi Mas Giensyah | Pembuatan Desain Visual 2D Kreatif untuk DPRD Kota Bandung |
 | 151 | Andhia Pramesti | Produksi Podcast Intalks Innovation Day Ddb Telkom Segment Keeping Up With The CEO |
@@ -406,15 +406,15 @@
 | 20 | Danny Samuel Orlando Panjaitan | Peran 3D Content Creator dalam Project Fisheries Cyber Center Virtual Learning di PT. Telkom Indonesia Tbk |
 | 21 | Muhammad Arief Kasyfurrahman | Implementasi Framework Laravel 9 dalam Pengembangan Sistem Manajemen Pengunjung di PT. Cilegon Fabricators Menggunakan Metode Mvc |
 | 22 | Adnan Banawi | Pembangunan Desain UI/UX pada Game Tematik untuk Siswa Sekolah Dasar |
-| 23 | Yisia Tania Hartono | Pembangunan Virtual Tour 3D Berbasis Webgl untuk Media Digital Banner PT. Angkasa Pura II (Persero) |
+| 23 | Yisia Tania Hartono | Pembangunan Virtual Tour 3D Berbasis WebGL untuk Media Digital Banner PT. Angkasa Pura II (Persero) |
 | 24 | Nevelia Khairatul Mardhiyah | Pembuatan Website E-commerce Khusus Tas dengan 3D Modeling dan Augmented Reality |
 | 25 | Anti Nuraulia Shafarin | Desain Quiz dan Marker serta Pembuatan Game pada Aplikasi Android Augmented Reality Pengenalan Jenis Sampah |
 | 26 | Gita Thiana Savitri | Pengenalan Tata Surya untuk Siswa TK dengan Video Animasi dan Augmented Reality Berbasis Android |
-| 27 | Rahma Aulia Dwiani | Pembangunan Virtual Tour 3D Berbasis Webgl untuk Media Wayfinding PT Angkasa Pura II |
+| 27 | Rahma Aulia Dwiani | Pembangunan Virtual Tour 3D Berbasis WebGL untuk Media Wayfinding PT Angkasa Pura II |
 | 28 | Nurul Zahidah | Desain dan Implementasi Konten Digital pada Sosial Media Instagram Ok Oce Youth |
 | 29 | Fadila Razhya Rahmadhany | Storyline Game Kecerdasan Finansial pada Aplikasi Permainan Visual Novel |
 | 30 | Yanfa Nur Farabi | Perancangan dan Implementasi Front-end Aplikasi Pemesanan Makanan Berbasis Web di Kafe Angkringan Cahsaiki |
-| 31 | Rama Trijaya Kusuma | Pembangunan Virtual Tour 3D Berbasis Webgl untuk Static Map PT Angkasa Pura II (Persero) |
+| 31 | Rama Trijaya Kusuma | Pembangunan Virtual Tour 3D Berbasis WebGL untuk Static Map PT Angkasa Pura II (Persero) |
 | 32 | Rochmatulloh Fery Farhad | Aplikasi Augmented Reality untuk Pembelajaran Sejarah Pahlawan Revolusi Indonesia di SDN Sukatani |
 | 33 | Winie Hindawati | Pengenalan Motif Batik Solo Berbasis Augmented Reality sebagai Media Pembelajaran |
 | 34 | Muhammad Nabil Muttaqin | Perancangan Augmented Reality Pengenalan Hewan bagi Siswa Sekolah Dasar |
@@ -426,10 +426,10 @@
 | 40 | Dandy Candra Pratama | Rancang Bangun Aplikasi Pengenalan Posisi Gerhana Bulan dan Matahari Berbasis Augmented Reality |
 | 41 | Arsil Qodryantha | Pembangunan Sistem Pengawasan Cerdas dengan Visualisasi 3D |
 | 42 | Bagaskara Achmad Zaky | Pengembangan Aplikasi Situs Schole Fitrah untuk Pembelajaran Daring Berbasis Kearifan Lokal dan Hidroponik Pintar |
-| 43 | Yudhisthira Khasyifil Aziz | Aplikasi Pembelajaran Kelautan dan Perikanan Berbasis Webgl pada PT. Telkom Indonesia |
+| 43 | Yudhisthira Khasyifil Aziz | Aplikasi Pembelajaran Kelautan dan Perikanan Berbasis WebGL pada PT. Telkom Indonesia |
 | 44 | Yoga Aspriyanto | Rancang Bangun Aplikasi Informasi Pengujian Kendaraan Berbasis Augmented Reality (Studi Kasus Dinas Perhubungan Kota Jakarta) |
 | 45 | Fitrah Auliya Annisa | Implementasi Kuis pada Aplikasi Pengenalan Sayur-mayur Berbasis Android di Taman Kanak-kanak |
-| 46 | Latasya Amiera K | Implementasi Tracking Filter Pertanyaan Kuis Sambung Lagu pada Instagram dengan Teknologi Augmented Reality Berbasis Android dan Ios untuk Promosi Produksi Musik Haifa Azzura Moritza Music Series Management |
+| 46 | Latasya Amiera K | Implementasi Tracking Filter Pertanyaan Kuis Sambung Lagu pada Instagram dengan Teknologi Augmented Reality Berbasis Android dan iOS untuk Promosi Produksi Musik Haifa Azzura Moritza Music Series Management |
 | 47 | Billy Ryan Perkasa | Implementasi Klasifikasi Citra untuk Mendeteksi Embrio Bebek pada Aplikasi Mobile Menggunakan Artificial Intelligence |
 | 48 | Lazuardy Oka Gantatama | Implementasi Asset 3D dan Animasi Augmented Reality sebagai Media Pengenalan Kain Batik Berbasis Android pada Museum Ndalem Gondosuli Laweyan |
 | 49 | Rahadi Candra Wijaya | Pembangunan Asset pada Aplikasi Pengenalan Objek Pariwisata Kota Bandung Berbasis Augmented Reality |
