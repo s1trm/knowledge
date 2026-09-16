@@ -4,15 +4,52 @@
 
 | No | Nama | Judul TA |
 | -- | ---- | -------- |
-| 1 | Hanna Naila Yusuf | Perancangan Desain Ui/ux Website Promosi Film Animasi Perempuan Yang Mengangkat Nilai Budaya Melalui Alat Musik Karinding Pt. Atap Promotions |
-| 2 | Yasikha Farras Ismail | Pengembangan Prototipe Chatbot Untuk Ticketing Infrastruktur Di Pt. X Menggunakan Arsitektur Rag |
-| 3 | Muhammad Zufar` Afif | Implementasi Desain Komunikasi Visual Berbasis Mdlc Untuk Mendukung Strategi Pemasaran Di Pt. Smart Komunikasi Sistem Energi |
-| 4 | Muhammad Aulia Rifqi Zain | Visualisasi Detektor Tembakan Pada Simulasi Airsoft Gun Berbasis Heatmap |
-| 5 | Jonathan Jordan Simanullang | Analisis Pengaruh Equalizer Dalam Meningkatkan Kualitas Audio Pada Produksi Video Digital |
-| 6 | Muhammad Abyan Wibowo | Prediksi Intensitas Hujan Menggunakan Deep Learning Lstm Dan Bilstm Di Lingkungan Telkom University |
-| 7 | Angel Maria Magdalena Silaban | Dari Data Ke Preferensi: Klasifikasi Tingkat Kemanisan Minuman Menggunakan Pembelajaran Mesin |
-| 8 | Lucianna Agrina Cahya Ning Tyas | Pengembangan Front-end Website Minimum Stock (minitok) Untuk Monitoring Stok Optical Network Terminal Dan Access Point Di Pt Telkom Indonesia |
-| 9 | Ichlasul Amal Restu Wardhana | Perancangan Dan Implementasi Aplikasi Web Monitoring Iot |
+| 1 | Syiefa Muas Pinastika | Pembuatan Konten Multimedia Untuk Meningkatkan Brand Awareness Di Unit Inkubasi Bisnis Pada Bandung Techno Park Melalui Instagram |
+| 2 | Hanna Naila Yusuf | Perancangan Desain Ui/ux Website Promosi Film Animasi Perempuan Yang Mengangkat Nilai Budaya Melalui Alat Musik Karinding Pt. Atap Promotions |
+| 3 | Truly Adeba Wibowo | Pengembangan Sistem Penemuan Dan Fitur Ensiklopedia Ikan Dalam Game Lion On Tuesday Untuk Pt. Hikayat Animesme Indonesia |
+| 4 | Griselda Hanifa Amin | Pengembangan Front-end Website Tour Travel Arsygo Berbasis Ui/ux Di Coe Smart Tourism And Hospitality |
+| 5 | Dian Elisabet Munte | Strategi Konten Instagram Dalam Meningkatkan Visibilitas Coe Smart Tourism & Hospitality |
+| 6 | Nadiena Azahra Asyifa | Strategi Social Media Specialist Dalam Membangun Brand Awareness Pada Akun Instagram Techno Infinity |
+| 7 | Dave Giovanni Milala | Pembuatan Konten Video Instagram Dalam Upaya Pembentukan Brand Awareness Pada Techno Infinity |
+| 8 | Lintang Retno Wulandari | Perancangan Sistem Produksi Konten Instagram Dalam Meningkatkan Brand Awareness Djourney Of West Java Di Pt Jaswita Jabar |
+| 9 | Ivan Saputra | Pengembangan Sibigo Sebagai Aplikasi Pembelajaran Sibi Interaktif Berbasis Deep Learning Untuk Slb Bc Yplab Wartawan |
+| 10 | Nailul Izzah | Perancangan Ui/ux Minimum Viable Product (mvp) Aplikasi Ar Photobooth Dengan Tema Pataland Pada Cube Studio |
+| 11 | Septiani Rahayu | Optimasi Strategi Akuisisi Klien B2b Berbasis Kampanye Digital Dan Komunikasi Personal Pada Startup Lunar Interactive |
+| 12 | Syahira Azna Azmi | Pengembangan Game Literasi Digital Untuk Edukasi Konten Berita Di Cnbc Indonesia |
+| 13 | Hanifa Utsa Thalita | Pengembangan Digital Game-based Learning Mitigasi Banjir Untuk Anak Usia Dini Pada Himpaudi Jawa Barat |
+| 14 | Gita Pretty Gebyola Nababan | Pengembangan Media Pembelajaran Berbasis Digital Game-based Learning Untuk Edukasi Mitigasi Gempa Pada Himpaudi Jawa Barat |
+| 15 | Nicolezza Harefa | Pembuatan Video Animasi 2d Sebagai Media Promosi Aplikasi Inocare Di Pt Inotal |
+| 16 | Hasbillah Farhan Lubis | Pengembangan Sistem Informasi Perencanaan Itinerary Wisata Berbasis Web-gis Dengan Pendekatan Clustering Di Kota Batam |
+| 17 | Moses Dimas Ahimsa | Implementasi Model Bisnis Lisensi B2b Untuk Komersialisasi Platform Wordwise Melalui Kemitraan Agregator Pada Startup Lunar Interactive |
+| 18 | Muhamad Adrian Kimiditya | Optimalisasi Perencanaan Konten Media Sosial Sebagai Strategi Peningkatan Brand Awareness Di Lunar Interactive (pt Maya Karya Interaktif) Optimization Of Social Media Content Plan As A Strategy To Increase Brand Awareness At Lunar Interactive (pt Maya Kar |
+| 19 | Dean Erick Adhitia Nugraha | Perancangan Ulang Konten Visual Grafis Untuk Branding Digital Pada Akun Instagram Techno Infinity |
+| 20 | Zahra Imani | Produksi Konten Visual Sebagai Media Branding Perusahaan Pada Akun Linkedin Techno Infinity |
+| 21 | Sheilan Mayra | Perancangan Gim Edukasi |
+| 22 | Nafla Syauqi Syahidah | Pengembangan Aplikasi Realitas Virtual Untuk Media Pembelajaran Interaktif Bagi Penyandang Tunarungu |
+| 23 | Muhamad Sidik | Pengembangan Aplikasi Augmented Reality Dinamis Menggunakan Metode Agile Pada Pt Jaswita Jabar |
+| 24 | I Gede Krisna Udayana | Rancang Bangun Aplikasi Manajemen Permainan First-person Shooter (fps) Live Action Dengan Metode Gdlc Untuk Wahana Hiburan Imersif |
+| 25 | Fakhri Maulana Assiddiq | Redesign Ui/ux Fitur Document Flow Martidocs Dengan Metode User Centered Design Di Pt Mrt Jakarta |
+| 26 | Muhammad Abdan Syakuro | Pengembangan Konten Rebo Nyunda Dengan Metode Design Thinking Pada Instagram Jaswita Jabar |
+| 27 | Anindya Kirana Maheswari | Perancangan Ui/ux Dan Prototipe Pengalaman Virtual Reality Untuk Kementerian Transmigrasi Pada World Expo Osaka 2025 |
+| 28 | Ina Risky Tri Herdiyani | Perancangan Konten Promosi Digital Dalam Membangun Konsistensi Identitas Visual Di Pt Exa Global Kreasindo |
+| 29 | Indah Maria Angelica | Perancangan User Interface Imersif Pada Virtual Reality Simulasi Gempa Di Gedung Telkom University Landmark Tower |
+| 30 | Rizky Yonanda | Pengembangan Konten Carousel Jaswita Pedia Dengan Metode Design Thinking Di Instagram Jaswita Jabar |
+| 31 | Muhamad Fani Safrijal | Rancang Bangun Sistem Perangkat Keras Klien (weapon, Vest, Dan Target) Pada Gim Simulator First-person Shooter Live Action Berbasis Esp32 Dan Protokol Esp-now |
+| 32 | Aditya Putra | Pembuatan Konten Visual Instagram Pt Telkom Indonesia (indibiz) |
+| 33 | Aliya Dewi Lestari | Pengembangan Aset Visual 2d Bergaya Pixel Untuk Platform Wordwise Berbasis Visual Novel |
+| 34 | Rizki Arta Muliawan | Perancangan Konten “jaswita Info” Berbasis Design Thinking Pada Instagram Jaswita Untuk Informasi Korporasi |
+| 35 | Aziman Fakhril Mulki | Pembuatan Video Profil Dan Optimasi Konten Media Sosial Perusahaan Untuk Meningkatkan Engagement Di Pt Wafiq |
+| 36 | Relitna Depari | Perancangan Antarmuka Pengguna Untuk Aplikasi Pengelolaan Keuangan Digital |
+| 37 | Syarif Ruhul Mujadid | Pembuatan Konten Audio Visual Untuk Kebutuhan Digital Marketing Di Pt Teknologi Nirmala Olah Daya Informasi |
+| 38 | Kezia Deby Celosse Pangaribuan | Prediksi Niat Kunjungan Ulang Wisatawan Menggunakan Machine Learning: Analisis Perbandingan Model Dan Pentingnya Fitur - Dalam Bentuk Pengganti Sidang - Artikel Jurnal |
+| 39 | Yasikha Farras Ismail | Pengembangan Prototipe Chatbot Untuk Ticketing Infrastruktur Di Pt. X Menggunakan Arsitektur Rag |
+| 40 | Muhammad Zufar` Afif | Implementasi Desain Komunikasi Visual Berbasis Mdlc Untuk Mendukung Strategi Pemasaran Di Pt. Smart Komunikasi Sistem Energi |
+| 41 | Muhammad Aulia Rifqi Zain | Visualisasi Detektor Tembakan Pada Simulasi Airsoft Gun Berbasis Heatmap |
+| 42 | Jonathan Jordan Simanullang | Analisis Pengaruh Equalizer Dalam Meningkatkan Kualitas Audio Pada Produksi Video Digital |
+| 43 | Muhammad Abyan Wibowo | Prediksi Intensitas Hujan Menggunakan Deep Learning Lstm Dan Bilstm Di Lingkungan Telkom University |
+| 44 | Angel Maria Magdalena Silaban | Dari Data Ke Preferensi: Klasifikasi Tingkat Kemanisan Minuman Menggunakan Pembelajaran Mesin |
+| 45 | Lucianna Agrina Cahya Ning Tyas | Pengembangan Front-end Website Minimum Stock (minitok) Untuk Monitoring Stok Optical Network Terminal Dan Access Point Di Pt Telkom Indonesia |
+| 46 | Ichlasul Amal Restu Wardhana | Perancangan Dan Implementasi Aplikasi Web Monitoring Iot |
 
 ## 2025
 
