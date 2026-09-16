@@ -41,7 +41,7 @@
 | 35 | Aziman Fakhril Mulki | Pembuatan Video Profil dan Optimasi Konten Media Sosial Perusahaan untuk Meningkatkan Engagement di PT Wafiq |
 | 36 | Relitna Depari | Perancangan Antarmuka Pengguna untuk Aplikasi Pengelolaan Keuangan Digital |
 | 37 | Syarif Ruhul Mujadid | Pembuatan Konten Audio Visual untuk Kebutuhan Digital Marketing di PT Teknologi Nirmala Olah Daya Informasi |
-| 38 | Kezia Deby Celosse Pangaribuan | Prediksi Niat Kunjungan Ulang Wisatawan Menggunakan Machine Learning: Analisis Perbandingan Model dan Pentingnya Fitur - Dalam Bentuk Pengganti Sidang - Artikel Jurnal |
+| 38 | Kezia Deby Celosse Pangaribuan | Prediksi Niat Kunjungan Ulang Wisatawan Menggunakan Machine Learning: Analisis Perbandingan Model dan Pentingnya Fitur |
 | 39 | Yasikha Farras Ismail | Pengembangan Prototipe Chatbot untuk Ticketing Infrastruktur di PT. X Menggunakan Arsitektur RAG |
 | 40 | Muhammad Zufar` Afif | Implementasi Desain Komunikasi Visual Berbasis MDLC untuk Mendukung Strategi Pemasaran di PT. Smart Komunikasi Sistem Energi |
 | 41 | Muhammad Aulia Rifqi Zain | Visualisasi Detektor Tembakan pada Simulasi Airsoft Gun Berbasis Heatmap |
