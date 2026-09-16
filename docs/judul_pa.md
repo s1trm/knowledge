@@ -15,7 +15,7 @@
 | 9 | Ivan Saputra | Pengembangan Sibigo sebagai Aplikasi Pembelajaran Sibi Interaktif Berbasis Deep Learning untuk SLB BC Yplab Wartawan |
 | 10 | Nailul Izzah | Perancangan UI/UX Minimum Viable Product (MVP) Aplikasi AR Photobooth dengan Tema Pataland pada Cube Studio |
 | 11 | Septiani Rahayu | Optimasi Strategi Akuisisi Klien B2B Berbasis Kampanye Digital dan Komunikasi Personal pada Startup Lunar Interactive |
-| 12 | Syahira Azna Azmi | Pengembangan Game Literasi Digital untuk Edukasi Konten Berita di Cnbc Indonesia |
+| 12 | Syahira Azna Azmi | Pengembangan Game Literasi Digital untuk Edukasi Konten Berita di CNBC Indonesia |
 | 13 | Hanifa Utsa Thalita | Pengembangan Digital Game-based Learning Mitigasi Banjir untuk Anak Usia Dini pada Himpaudi Jawa Barat |
 | 14 | Gita Pretty Gebyola Nababan | Pengembangan Media Pembelajaran Berbasis Digital Game-based Learning untuk Edukasi Mitigasi Gempa pada Himpaudi Jawa Barat |
 | 15 | Nicolezza Harefa | Pembuatan Video Animasi 2D sebagai Media Promosi Aplikasi Inocare di PT Inotal |
@@ -104,7 +104,7 @@
 | 47 | Atika Innadya Syifa | Perancangan UI/UX Aplikasi Whomam (wholesale Market Management) untuk Meningkatkan Efektivitas Pengguna di PT Telkom Indonesia |
 | 48 | Moch Jalu Erdiansyah | Perancangan UI UX Website IT Maintenance Report di PT KCIC |
 | 49 | Muhammad Rizky Abimanyu | Produksi Konten Foto dan Video untuk Layanan Promosi di PT Mantosindo Multimedia |
-| 50 | Alif Tegar Habonaran Purba | Redesign UI/UX Aplikasi Mobile Dashboard Cfu Wib Telkom untuk Optimalisasi dan Effisiensi Operasional |
+| 50 | Alif Tegar Habonaran Purba | Redesign UI/UX Aplikasi Mobile Dashboard CFU WIB Telkom untuk Optimalisasi dan Effisiensi Operasional |
 | 51 | Raihan | Pembuatan Konten Multimedia untuk Media Sosial Instagram Hts Creative |
 | 52 | Lois Andre Wongso | Pembuatan Konten Video Musik Visual untuk Band Indie Lokal |
 | 53 | Rizal Fajar Mastora | Perancangan UI/UX Sistem Manajemen Gudang |
@@ -139,17 +139,17 @@
 | 14 | Muhammad Tanjung Mulia Mattalitti | Pengembangan Aplikasi Media Promosi Pariwisata Menggunakan Augmented Reality Berbasis Android, (Studi Kasus: Tur Marina Raja Ampat) |
 | 15 | Muhhamad Taufik Hendrawan | Perancangan UI/UX Fitur Tokoh pada Chronolizer Sirah Nabawiyah Berbasis Website |
 | 16 | Muhammad Farrell Alaric Zada | Implementasi Sistem Pemanas Otomatis untuk Menstabilkan Suhu Kolam Ikan di Seinfarm |
-| 17 | Ari Yan Prayer Sijabat | Pengembangan Aplikasi Mobile untuk Meningkatkan Aksesibilitas Pemasaran Produk Merchandise di PT.Dynamic Cita Synergy |
+| 17 | Ari Yan Prayer Sijabat | Pengembangan Aplikasi Mobile untuk Meningkatkan Aksesibilitas Pemasaran Produk Merchandise di PT. Dynamic Cita Synergy |
 | 18 | Hilmi Bahrul Hamzah | Implementasi Motion Graphic untuk Kualitas Video Kegiatan Penyuluhan Vaksinasi di Universitas Gadjah Mada (Studi Kasus : PT. Seven Inc.) - |
 | 19 | Zulfa Khoirunnisa | Pembuatan Desain 2D pada Sosial Media X dan Instagram di Dinas Komunikasi dan Informatika Kota Tasikmalaya |
-| 20 | Raafi Adepangga | Pengembangan Desain Antarmuka Website Jasa Layanan Aqiqah PT.Fitra Insani |
+| 20 | Raafi Adepangga | Pengembangan Desain Antarmuka Website Jasa Layanan Aqiqah PT. Fitra Insani |
 | 21 | Fajri Hafizh | Pengembangan Backend Aplikasi Teknologi Berbasis Website dalam Manajemen Persediaan dan Pemasaran terhadap Produk Fashion Nerth |
 | 22 | Muhammad Ghazi Al Ghifari | Pembuatan Website Pariwisata Kabupaten Subang Menggunakan HTML & CSS |
 | 23 | Ika Pradana Cintaningtiyas | Perancangan UI/UX Fitur Tempat pada Chronolizer Sirah Nabawiyah Berbasis Website |
 | 24 | Muhammad Nabil Usman | Pengembangan Pataland: Aplikasi Metaverse Bertemakan Musik dan Pantai dengan Integrasi Desain 3D dan UI/UX yang Inovatif |
 | 25 | Eshaf Maulvi Nazir Ahmad | Pengembangan Website SMPN 3 Banjarharjo dengan Fitur Pendaftaran Siswa Baru |
 | 26 | Arham Fauzi | Pengembangan Aplikasi Monitoring Anjungan Tunai Mandiri (ATM) di PT. Collega Inti Pratama |
-| 27 | Aldi Agung Nugroho | Pengembangan Aplikasi Jasa Layanan Aqiqah PT.Fitrah Insani |
+| 27 | Aldi Agung Nugroho | Pengembangan Aplikasi Jasa Layanan Aqiqah PT. Fitrah Insani |
 | 28 | Muhammad Sidik Pamungkas | Pembuatan Desain Frame Foto untuk Photobooth di PT. Insta Solution Group |
 | 29 | Rizki Fauzi Ramadhan | Pengembangan Konten Media Sosial untuk Gaga 100 Extra Pedas |
 | 30 | Rizky Wahyudhi Ramadhan | Strategi Branding Sahabat Al-qur'an Indonesia dengan Media Instagram (Studi Kasus: Firli.id) |
@@ -160,7 +160,7 @@
 | 35 | Khaniza Nurussyifa | Optimalisasi User Experience terhadap Website Ideabox Multitenant di PT. Telkom Indonesia Tbk |
 | 36 | Raihan Jundi Alfarizi | Rancang Bangun Game Interaktif tentang Pengenalan Anggota Tubuh Berbasis Android |
 | 37 | Angga Ady Pratama | Pengembangan Aplikasi Web Terdesentralisasi Berbasis Blockchain pada Protokol Ethereum (Studi Kasus: Super Rarity) |
-| 38 | Putu Intan Mahaswari | Peran Product Manager dalam Pengembangan Framework dan Peningkatan Fitur Aplikasi Mytask di PT.Transtrack |
+| 38 | Putu Intan Mahaswari | Peran Product Manager dalam Pengembangan Framework dan Peningkatan Fitur Aplikasi Mytask di PT. Transtrack |
 | 39 | Adnin Farizie Miradi | Pengembangan Frontend Aplikasi Website dalam Manajemen Persedian dan Pemasaran untuk Produk Fashion Nerth |
 | 40 | Ade Irfan Setiawan | Pengembangan Aplikasi Dental Health untuk Memahami Pentingnya Menjaga Kesehatan Gigi di Rumah Sakit Umum Daerah Sekarwangi Sukabumi |
 | 41 | Michael Patriot Napitupulu | Pengembangan Vehicle Maintenance System Menggunakan Metode Agile dengan Framework Scrum di PT Indo Teknologi (Transtrack) |
@@ -190,7 +190,7 @@
 | 65 | Oinike Theresia Simangunsong | Perencanaan dan Pengembangan Video Learning Inspire untuk Management Trainee pada PT United Tractors Tbk |
 | 66 | Najla Syifa Zalia | Pengembangan Konten Media Sosial Interaktif untuk Meningkatkan Brand Awareness Mitra Sahabat Al-qur’an Indonesia di Firli.id |
 | 67 | Zein Aziz Farhani | Perancangan UI/UX Fitur Peristiwa pada Chronolizer Sirah Nabawiyah Berbasiskan Website |
-| 68 | Athallah Puja Zaki Rahman | Perancangan Desain UI UX di Aplikasi Sitepat Berbasis Figma untuk Btpn Syariah |
+| 68 | Athallah Puja Zaki Rahman | Perancangan Desain UI UX di Aplikasi Sitepat Berbasis Figma untuk BTPN Syariah |
 | 69 | Farrel Ervandi Rifqi | Pengembangan Konten Digital Gambar dan Video Media Sosial Instagram dan YouTube Badan Narkotika Nasional Kota Depok |
 | 70 | Yusuf Rahman Wicaksono | Alat Peraga Berbasis Video Game dengan Tipologi Solve untuk Mengenalkan Transportasi Umum di TK IT Little Moslem |
 | 71 | Hernita Nurulfitriyah | Strategi Pengembangan Konten untuk Peningkatan Interaksi Pengguna Media Sosial Sahabat Al-qur’an Indonesia |
@@ -201,7 +201,7 @@
 | 76 | Muhammad Hammamrozan Nurrafianto | Produksi Konten Visual & Audiovisual untuk Meningkatkan Awareness Program Digistar Connect By Telkom Indonesia |
 | 77 | Beni Maximus Batistuta Sagala | Strategi Pengembangan Branding dan Pemasaran untuk Meningkatkan Bisnis PT. Curaweda Palagan Innotech |
 | 78 | Dionisius Brisko Mayarinetyo | Pengembangan Aplikasi T-feeder: Implementasi Frontend dengan Angular di Bagian Standar & Layanan Akademik Telkom University |
-| 79 | Akbarsyah Nashrullah | Pengembangan Aplikasi Backend Mytask Berbasis Web dengan Framework Laravel Lumen PT.Indo Trans Teknologi |
+| 79 | Akbarsyah Nashrullah | Pengembangan Aplikasi Backend Mytask Berbasis Web dengan Framework Laravel Lumen PT. Indo Trans Teknologi |
 | 80 | Ade Purnama | Perancangan Aplikasi Anatomi Tubuh Manusia Menggunakan AR bagi Siswa Sekolah Dasar |
 | 81 | Jorge Valdano Putranto | Penerapan Produk Obyek 3D melalui Pembuatan dan Pengembangan Platform E-commerce pada Talenta Komputer |
 | 82 | John Duey Subade | Peran Desainer Grafis untuk Meningkatkan Efektivitas Komunikasi pada Media Sosial di PT Yesdok Indonesia |
@@ -223,11 +223,11 @@
 
 | No | Nama | Judul TA |
 | -- | ---- | -------- |
-| 1 | Timothy Gabriel Ramaliasta | Perancangan 3D Modeling BNI Sarinah Properti untuk Metaverse dengan Aplikasi Blender di PT.Bank Negara Indonesia |
+| 1 | Timothy Gabriel Ramaliasta | Perancangan 3D Modeling BNI Sarinah Properti untuk Metaverse dengan Aplikasi Blender di PT. Bank Negara Indonesia |
 | 2 | Muhammad Noufal | Perancangan Game Flow Aplikasi Virtual Larning Pengenalan Ekologi Hewan untuk Siswa Sekolah Dasar Negeri Pelita Karya 02 Subang |
 | 3 | Latifah Firgiyanti | Pembuatan 3D Model pada Gedung Bangkit, Telkom University Landmark Tower dan Asrama Mahasiswa untuk Game Metaverse di Celoe Universitas Telkom |
 | 4 | Naufal Fahim Murran | Peran Game Developer dalam Project Simulasi K3 untuk Perkantoran di PT. Telekomunikasi Indonesia Tbk |
-| 5 | Aditya Darma | Perancangan 3D Object Digital Hub terhadap Metaverse dengan Aplikasi Blender di PT.Bank Negara Indonesia |
+| 5 | Aditya Darma | Perancangan 3D Object Digital Hub terhadap Metaverse dengan Aplikasi Blender di PT. Bank Negara Indonesia |
 | 6 | Delli Silvia | Aplikasi Game Edukasi sebagai Alternatif Media Pembelajaran Bahasa Inggris di SMPN 1 Cugenang |
 | 7 | Moza Nadindra Fawwaz | Pembuatan Konten Model 3D Augmented Reality pada Aplikasi Pengenalan Jenis Sampah untuk Anak 5 Tahun |
 | 8 | Berly Purnomo Rachmatullah | Perancangan Model 3 Dimensi Aplikasi Permainan Klasifikasi Makhluk Hidup pada Kelas VII IPA SMP Negeri 3 Baleendah |
@@ -257,7 +257,7 @@
 | 32 | Fathari Zain Hardianto | Peran Chief Technology Officer (CTO) dalam Pengembangan Produk Marga pada Startup Creducent |
 | 33 | Talenta Alam | Pengembangan Virtual Expo 360 Berbasis Web dengan Unity Game Engine di PT Indocement Tunggal Prakarsa |
 | 34 | Dhifa Aksa Hermawan | Pembuatan Rencana Bisnis pada Tahun 2023 untuk Rumah Produksi Mateha Production |
-| 35 | Kelvin Putu Denilsen | Pembangunan Aplikasi Strategic Planning Allocation In Cyber Environment (SPACE) Berbasis CodeIgniter Studi Kasus: Alokasi Tim Operasional Prodi Trm |
+| 35 | Kelvin Putu Denilsen | Pembangunan Aplikasi Strategic Planning Allocation In Cyber Environment (SPACE) Berbasis CodeIgniter Studi Kasus: Alokasi Tim Operasional Prodi TRM |
 | 36 | Nabil Zain | Pembuatan Video Animasi sebagai Bagian dari Aplikasi Multimedia Interaktif Pembelajaran Perkalian Matriks 3 X 3 |
 | 37 | Andrea Nurul Fauziah | Pembuatan Model Kantor Cabang Luar Negeri (KCLN) BNI di Singapura |
 | 38 | Abdurochim Syaifin Nuha | Pembuatan SOP (standard Operational Procedure) Produksi untuk Rumah Produksi Mateha Production |
@@ -268,7 +268,7 @@
 | 43 | Pawestri Shofia Nariswari | Implementasi Desain UI UX untuk Meningkatkan Kepuasan Pengguna pada Aplikasi Mobile dan Website PT. Bisa Artifisial Indonesia |
 | 44 | Raenaldy Musa Iqbal | Pembuatan dan Pengelolaan Konten New Media Digital dalam Meningkatkan Citra Badan Narkotika Nasional Kota Bandung |
 | 45 | Muhammad Rifki Faisal | Implementasi Visual dan UI/UX Aplikasi Permainan Labirin untuk Edukasi Pembelajaran Bahasa Inggris untuk Smait Ummul Quro Bogor |
-| 46 | Dina Triana | Strategi Pemasaran Content Creator melalui Pemasangan Iklan di Media Sosial Instagram dan TikTok PT.Telkom Indonesia |
+| 46 | Dina Triana | Strategi Pemasaran Content Creator melalui Pemasangan Iklan di Media Sosial Instagram dan TikTok PT. Telkom Indonesia |
 | 47 | Dean Traja Farizqullah | Perancangan NPC dan Mini Games pada World Fakultas Teknik Elektro dengan Platform Minecraft untuk Tel-U Craft |
 | 48 | Muhammad Andhika Rahmani | Perancangan UI/UX Game Edukasi 2D Rambu Lalu Lintas |
 | 49 | Fenica Salsabila Malsyasila | Implementasi Desain Grafis terhadap Aktivitas Marketing Media Mix pada Edutech Pijar Belajar di PT Telkom Indonesia Tbk |
@@ -295,7 +295,7 @@
 | 70 | Elviani Saragih | Pengenalan Motif Batik Pekalongan Berbasis Augmented Reality sebagai Media Pembelajaran |
 | 71 | Christina Simbolon | Perancangan 3D Object Perumahan Nasional dengan Blender di PT. Bank Negara Indonesia |
 | 72 | Abiyyu Farras Yaseer | Virtual Tour dan Mini Games pada Gedung Fakultas Industri Kreatif Telkom University Berbasis Minecraft |
-| 73 | Ahmad Tsabit Jauhary | Pengembangan Back End Aplikasi Kms Mobile Berbasis Android untuk Kuningmas Autocare Kabupaten Kuningan |
+| 73 | Ahmad Tsabit Jauhary | Pengembangan Back End Aplikasi KMS Mobile Berbasis Android untuk Kuningmas Autocare Kabupaten Kuningan |
 | 74 | Aryadipa Nugroho Wibiyanto | Perancangan Ulang UI/UX Aplikasi Mobile E-learning Celoe Telkom University |
 | 75 | Muhamad Riski Alifiyadi | Pengembangan 3D Model Virtual Expo untuk PT. Indocement Tunggal Prakarsa dengan Blender |
 | 76 | Natasya Putri Nurbani | Desain Interface dan User Experience Aplikasi Aksun App Berbasis Mobile Game |
@@ -350,10 +350,10 @@
 | 125 | Hermanto Joko Lumekso | Automation Testing Web UI Menggunakan Selenium Webdriver pada PT. Inovasi Daya Solusi |
 | 126 | Rachel Putri Satrio | Perancangan UI/UX Aplikasi Rumah Pintar |
 | 127 | Agra Barata Nugraha | Perancangan E-learning Berbasis Website Menggunakan Moodle pada Kelas VII SMP Al-irsyad Gandrungmangu |
-| 128 | Ilham Maulidra | Perancangan Aplikasi Augmented Reality Pengenalan Hewan Langka Berbasis Android Studi Kasus : Uptd SDN 12 Guguak |
+| 128 | Ilham Maulidra | Perancangan Aplikasi Augmented Reality Pengenalan Hewan Langka Berbasis Android Studi Kasus : UPTD SDN 12 Guguak |
 | 129 | Moh. Akyas Almasyhuri Nu`man | Penerapan Perangkat Keras dalam Pengembangan Konten Multimedia di PT Kereta API Indonesia (Persero) |
 | 130 | Anggrini | Solusi UI/UX Design untuk Fitur Marketplace pada Integrasi Logistik dengan Marketplace di Aplikasi Krealogi |
-| 131 | Indiarto Anditiaman S | Perancangan Aplikasi Augmented Reality Pengenalan Tumbuhan Langka Berbasis Android Study Kasus : Uptd SDN 12 Gugugak |
+| 131 | Indiarto Anditiaman S | Perancangan Aplikasi Augmented Reality Pengenalan Tumbuhan Langka Berbasis Android Study Kasus : UPTD SDN 12 Gugugak |
 | 132 | Suci Rahmadanti | Pembuatan Desain Marker pada Aplikasi Tuntunan Sholat dan Doa Harian Berbasis AR untuk Media Pembelajaran Yayasan Ummul Quro |
 | 133 | Rizal Susanto Sihite | Penerapan Desain Multimedia sebagai Sarana Informasi Humas Polres Humbahas |
 | 134 | Azhar Intan Jaisy | Perancangan Aplikasi Permainan Klasifikasi Makhluk Hidup pada Kelas VII IPA SMP Negeri 3 Baleendah |
@@ -366,7 +366,7 @@
 | 141 | Erina Anggraeni | Pembuatan Desain Flyer Instagram sebagai Media Penyampaian Informasi untuk Kegiatan Pelatihan Ekonomi Kreatif di Disbudpar Kab. Bandung |
 | 142 | Ihsan Abdul Aziz | Perancangan Komunikasi Visual Innovation Day di Direktorat Digital Bisnis Telkom Indonesia |
 | 143 | Ghaluh Wizard Anggoro | Perancangan User Interface dan User Experience Website Penerimaan Tamu Berbasis AI di PT Cilegon Fabricators |
-| 144 | Teguh Ainul Darajat | Penerapan Fitur Face Recognition dan Ekstraksi Data dari Citra Ktp pada Sistem Informasi Penerimaan Tamu di PT. Cilegon Fabricators |
+| 144 | Teguh Ainul Darajat | Penerapan Fitur Face Recognition dan Ekstraksi Data dari Citra KTP pada Sistem Informasi Penerimaan Tamu di PT. Cilegon Fabricators |
 | 145 | Muhammad Ardhi Habiburrohman | Pembuatan Logo dan Feed Instagram untuk Vyenka Bakery oleh Tembok Creative |
 | 146 | Robby Bergomi | Perancangan dan Implementasi Aplikasi Mobile untuk Website E-commerce Tobu (Toko Budaya) |
 | 147 | Tiara Nazila Safitri | Pembuatan Desain Konten untuk Pengembangan Media Sosial di PT. Citi Asia Internasional |
@@ -377,7 +377,7 @@
 | 152 | Siti Septianti | Perancangan Asset 3D Modeling Bangunan Perumahan KPR dalam Pengembangan Metaverse |
 | 153 | Aditya Nur Sandi Firdaus | Perancangan Asset 3D pada Aplikasi Berbasis Android Kuningmas Autocare Mobile |
 | 154 | Farhan Nur Rohman | Perancangan Objek 3D Metaverse Kantor Cabang Luar Negeri Seoul di PT. Bank Negara Indonesia |
-| 155 | Dippo Shelan Adrysad | Perancangan Desain Antarmuka Aplikasi Berbasis Android Kms Mobile untuk Kuningmas Autocare di Kabupaten Kuningan |
+| 155 | Dippo Shelan Adrysad | Perancangan Desain Antarmuka Aplikasi Berbasis Android KMS Mobile untuk Kuningmas Autocare di Kabupaten Kuningan |
 | 156 | Muhammad Majdi Fuadi | Pembuatan Animasi Main Menu dalam Bentuk 3D untuk Project Game BNI Rush di PT. Bank Negara Indonesia |
 
 ## 2022
@@ -385,7 +385,7 @@
 | No | Nama | Judul TA |
 | -- | ---- | -------- |
 | 1 | Adi Nugraha | Aplikasi Pembelajaran Rangka dan Organ Luar Manusia Berbasis Augmented Reality |
-| 2 | Muhammad Irfan Putra Nusantoro | Pembuatan Aplikasi Media Pembelajaran Alat Peraga Macam-macam Tulang Manusia Berbasis Augmented Reality pada Buku Biologi SMA Kelas 11 Ktsp 2013 |
+| 2 | Muhammad Irfan Putra Nusantoro | Pembuatan Aplikasi Media Pembelajaran Alat Peraga Macam-macam Tulang Manusia Berbasis Augmented Reality pada Buku Biologi SMA Kelas 11 KTSP 2013 |
 | 3 | M.brilian.arohman | Media Interaktif Alat Operasi Rumah Sakit untuk PT. Pandu Berlian Jaya |
 | 4 | Lutfi Hasbi | Rancang Bangun Asset 3D untuk Aplikasi Pembelajaran Pengenalan Buah dan Sayur Berbasis Augmented Reality Studi Kasus : TK Fatimah Cikalongwetan Kabupaten Bandung Barat |
 | 5 | Aulia Izzatul Ulwan | Pembuatan Aplikasi Pengenalan Sayur Mayur dengan Fitur Augmented Reality Berbasis Android untuk Siswa Taman Kanak-kanak |
@@ -394,7 +394,7 @@
 | 8 | Fatikharizza Aulia | Aplikasi Augmented Reality Pengenalan Warna untuk Anak Usia 4-6 Tahun Berbasis Android |
 | 9 | Sayyid Faisal Anwar | Penerapan Teknologi Augmented Reality sebagai Media Pembelajaran Buah dan Sayuran Studi Kasus : TK Fatimah Cikalongwetan Kabupaten Bandung Barat |
 | 10 | Muh.arif Wirawan | Perancangan Aplikasi Museum Asi Mbojo Bima pada Benda Bersejarah Berbasis Augmented Reality |
-| 11 | Aldia Deponsa Judistira | Perancangan Fitur Augmented Reality dengan Speech Recognition untuk Aplikasi Multimedia Interaktif Pengenalan Hewan TK Pgri Sumedang |
+| 11 | Aldia Deponsa Judistira | Perancangan Fitur Augmented Reality dengan Speech Recognition untuk Aplikasi Multimedia Interaktif Pengenalan Hewan TK PGRI Sumedang |
 | 12 | Bimo Putro Bastiani | Pembuatan Game Doa 2D untuk Siswa SD Negeri Suradinaya Modul Puzzle |
 | 13 | Melinda Suci Novani | Perancangan Desain Konten Instagram Skingen-me sebagai Media Edukasi dan Promosi |
 | 14 | Aldy Rizki Permadi | Pengembangan Portal Dosen Website Sistem Informasi Akademik (SIAKAD) PT. Bisa Artifisial Indonesia |
@@ -404,7 +404,7 @@
 | 18 | Salva Octaviana | Perancangan UI/UX untuk Website PT Mikata Transportasi Logistik |
 | 19 | Annisa Azrian Permatasari | Perancangan Buku User Survey Kepuasan Pengguna Lulusan untuk 7 Fakultas di Universitas Telkom Tahun 2022 |
 | 20 | Danny Samuel Orlando Panjaitan | Peran 3D Content Creator dalam Project Fisheries Cyber Center Virtual Learning di PT. Telkom Indonesia Tbk |
-| 21 | Muhammad Arief Kasyfurrahman | Implementasi Framework Laravel 9 dalam Pengembangan Sistem Manajemen Pengunjung di PT. Cilegon Fabricators Menggunakan Metode Mvc |
+| 21 | Muhammad Arief Kasyfurrahman | Implementasi Framework Laravel 9 dalam Pengembangan Sistem Manajemen Pengunjung di PT. Cilegon Fabricators Menggunakan Metode MVC |
 | 22 | Adnan Banawi | Pembangunan Desain UI/UX pada Game Tematik untuk Siswa Sekolah Dasar |
 | 23 | Yisia Tania Hartono | Pembangunan Virtual Tour 3D Berbasis WebGL untuk Media Digital Banner PT. Angkasa Pura II (Persero) |
 | 24 | Nevelia Khairatul Mardhiyah | Pembuatan Website E-commerce Khusus Tas dengan 3D Modeling dan Augmented Reality |
@@ -418,11 +418,11 @@
 | 32 | Rochmatulloh Fery Farhad | Aplikasi Augmented Reality untuk Pembelajaran Sejarah Pahlawan Revolusi Indonesia di SDN Sukatani |
 | 33 | Winie Hindawati | Pengenalan Motif Batik Solo Berbasis Augmented Reality sebagai Media Pembelajaran |
 | 34 | Muhammad Nabil Muttaqin | Perancangan Augmented Reality Pengenalan Hewan bagi Siswa Sekolah Dasar |
-| 35 | Galung Ikhwal | Pengembangan Aplikasi Media Pembelajaran Alat Peraga Macam-macam Tulang Manusia Berbasis Augmented Reality pada Buku Biologi SMA Kelas 11 Ktsp 2013 |
+| 35 | Galung Ikhwal | Pengembangan Aplikasi Media Pembelajaran Alat Peraga Macam-macam Tulang Manusia Berbasis Augmented Reality pada Buku Biologi SMA Kelas 11 KTSP 2013 |
 | 36 | Yusri Rahmadany | Aplikasi Pengenalan Arduino Berbasis Augmented Reality |
 | 37 | Baiq Nadya Safitri | Perancangan Aplikasi Pembelajaran Lingkungan Hidup Berbasis Interactive Storytelling pada SD Khoiru Ummah |
 | 38 | Muhammad Fajar Syaefulloh | Perancangan Aplikasi Peta Pariwisata Kota Bandung Berbasis Augmented Reality |
-| 39 | Andrea Christyawidi | Pembangunan Video Interaktif Sosialisasi Layanan Perpustakaan untuk Upt Perpustakaan Universitas Jambi dengan Metode Perpindahan Alur Sesuai Pilihan Pengguna |
+| 39 | Andrea Christyawidi | Pembangunan Video Interaktif Sosialisasi Layanan Perpustakaan untuk UPT Perpustakaan Universitas Jambi dengan Metode Perpindahan Alur Sesuai Pilihan Pengguna |
 | 40 | Dandy Candra Pratama | Rancang Bangun Aplikasi Pengenalan Posisi Gerhana Bulan dan Matahari Berbasis Augmented Reality |
 | 41 | Arsil Qodryantha | Pembangunan Sistem Pengawasan Cerdas dengan Visualisasi 3D |
 | 42 | Bagaskara Achmad Zaky | Pengembangan Aplikasi Situs Schole Fitrah untuk Pembelajaran Daring Berbasis Kearifan Lokal dan Hidroponik Pintar |
@@ -444,7 +444,7 @@
 
 | No | Nama | Judul TA |
 | -- | ---- | -------- |
-| 1 | Opriedo Sihaloho | Pembuatan Fitur 2D Aplikasi Proses Pelayanan Jasa PT.Balai Besar Bahan dan Barang Teknik (B4T) Berbasis Unity |
+| 1 | Opriedo Sihaloho | Pembuatan Fitur 2D Aplikasi Proses Pelayanan Jasa PT. Balai Besar Bahan dan Barang Teknik (B4T) Berbasis Unity |
 | 2 | Muhammad Iqbal Al Maududi | Perancangan Aplikasi Permainan 2D Berhitung untuk Siswa Sekolah Dasar |
 | 3 | Muhammad Iqbal Feriyanto | Perancangan Game Interaktif untuk Aplikasi Teknologi Augmented Reality sebagai Media Pengenalan Planet dalam Tata Surya |
 | 4 | Idhar Agung Dzulfikar | Pembuatan Aplikasi Media Pembelajaran Sistem Gerak Manusia Berbasis Augmented Reality pada SMPN 1 Tambelang |
@@ -462,7 +462,7 @@
 | 16 | Priskilla Pritakusuma | Implementasi Augmented Reality Menggunakan Optical Character Recognition dan Image Based Marker pada T-shirt ‘dasokai Clothing’ untuk Media Informasi Self-esteem dan Promosi Pengguna |
 | 17 | Adireza Marzukin Amrullah | Media Interaktif Alat Diagnosis Kesehatan untuk PT. Pandu Berlian Jaya |
 | 18 | Rizki Alfian | Perancangan Aplikasi Multimedia Interktif Pengenalan Hewan Buas dan Hewan Jinak Dua Dimensi untuk Keperluan Pembelajaran di SDN 134 Panorama |
-| 19 | Budi Ikhsan | Penerapan Motion Graphic pada Konten Video Pembelajaran di Lms Celoe Telkom University |
+| 19 | Budi Ikhsan | Penerapan Motion Graphic pada Konten Video Pembelajaran di LMS Celoe Telkom University |
 | 20 | Azwar Anas | Pengenalan Buah-buahan Menggunakan Aplikasi Game Puzzle Berbasis Android untuk Anak Usia Dini |
 | 21 | Samuel Jeremia Sihombing | Pembuatan Aplikasi Berbasis Android untuk Pembelajaran Pengkabelan Lan untuk SMK Jurusan Teknik Komputer Jaringan |
 | 22 | Fadhilah Fatan Fauzan | Penerapan Teknologi Augmented Reality (AR) dan Game Edukasi sebagai Media Pembelajaran Alat Musik Modern untuk Anak Anak |
@@ -475,14 +475,14 @@
 | 29 | Rahma Agustina Aliana | Perancangan Chronolizer Sirah Nabawiyah Berbasis Transmedia Storytelling (Studi Kasus: Fase Sebelum Kenabian) |
 | 30 | Muhammad Nur Razak | Aplikasi Multimedia Interaktif untuk Museum Geologi Bandung Modul Pembelajaran Interaktif Media |
 | 31 | Fahmi Alhamda Zikra | Penerapan Teknologi Augmented Reality (AR) pada Aplikasi Belajar Bahasa Sunda untuk Kelas Satu Sekolah Dasar (SD) |
-| 32 | Muhamad Azka Miftahul Haq | Perancangan dan Pembuatan Animasi Motion Graphic pada Konten Video Pembelajaran Lms Celoe |
-| 33 | Zaky Ibrahim Sidiq | Perancangan Fitur Quiz pada Aplikasi Multimedia Interaktif Pengenalan Binatang Studi Kasus TK Pgri Sumedang |
+| 32 | Muhamad Azka Miftahul Haq | Perancangan dan Pembuatan Animasi Motion Graphic pada Konten Video Pembelajaran LMS Celoe |
+| 33 | Zaky Ibrahim Sidiq | Perancangan Fitur Quiz pada Aplikasi Multimedia Interaktif Pengenalan Binatang Studi Kasus TK PGRI Sumedang |
 | 34 | Abdul Mughni Al Fikri | Implementasi Klasifikasi Citra untuk Fitur Input Barang Otomatis pada Aplikasi Mobile Pasar Ikan |
 | 35 | Jeri Oktari | Aplikasi Pembelajaran Pengenalan Komunitas Penolong di Pusat Kota dan Karir Kreatif Berbasis Augmented Reality |
 | 36 | Amelia Amanda | Implementasi Augmented Reality Interaktif pada Aplikasi Android Pengenalan Buah-buahan untuk Siswa TK Islam Tarbiyatul Banin |
 | 37 | Rio Dwi Pangestu | Aplikasi Pembelajaran Komunitas Penolong di Bidang Kesehatan, Keselamatan dan Lingkungan Berbasis Augmented Reality |
 | 38 | Sekar Nabilah Zahra | Penerapan Tangible Interaction pada Game Pompa Balon untuk Melatih Motorik Kasar Anak Usia Dini |
-| 39 | Farida Yuliani | Penerapan Sistem Rfid pada Aplikasi Multimedia Interaktif untuk Museum Geologi Bandung |
+| 39 | Farida Yuliani | Penerapan Sistem RFID pada Aplikasi Multimedia Interaktif untuk Museum Geologi Bandung |
 | 40 | Farid Wajdi Kadir | Aplikasi Pengelolaan Data RT (Rukun Tetangga) Berbasis Web |
 | 41 | Gema Fathur Alamsyah | Sistem Mekanik Game Kecerdasan Finansial Aplikasi Permainan Visual Novel |
 | 42 | Oldona Oktavia | Perancangan dan Implementasi Game Edukasi Sistem Tata Surya untuk PAUD Almalia School |
@@ -511,7 +511,7 @@
 | 65 | Sritenaya Geovani Putri | Pemanfaatan Aset 2-dimensi sebagai Alat Pembelajaran dalam Bentuk Motion Graphics |
 | 66 | Niswa Nafiah Sartono | Pembuatan Aplikasi Augmented Reality Pembelajaran Makanan Sehat untuk Murid Taman Kanak – Kanak |
 | 67 | Molina Angelina Harahap | Aplikasi Media Bantu Pengenalan Aksara Sunda untuk Siswa Kelas 5 Sekolah Dasar Berbasis Android |
-| 68 | Dimas Adianto | Editing pada Pasca Produksi Konten Video Pembelajaran untuk Lms Celoe Telkom University |
+| 68 | Dimas Adianto | Editing pada Pasca Produksi Konten Video Pembelajaran untuk LMS Celoe Telkom University |
 | 69 | Havest Vigamghi Ath-thaariq | Perancangan Aplikasi Hewan Buas dan Hewan Jinak Tiga Dimensi untuk Keperluan Pembelajaran di SDN 134 Panorama |
 | 70 | Sarah Shofura Fauziah | Rancang Bangun Aplikasi Virtual Fitting Hijab Berbasis Augmented Reality (AR) dengan Pengukuran System Usability Scale (SUS) |
 | 71 | Deviera Astari | User Interface pada Aplikasi Pembelajaran Bahasa Inggris Tema "ruang Kelas" untuk Anak SD Berbasis Augmented Reality |
@@ -521,7 +521,7 @@
 
 | No | Nama | Judul TA |
 | -- | ---- | -------- |
-| 1 | Rienesa Darmawan | Perancangan dan Implementasi E-learning Simulasi Unbk Berbasis Learning Management System Moodle untuk Mts Husnul Khotimah |
+| 1 | Rienesa Darmawan | Perancangan dan Implementasi E-learning Simulasi UNBK Berbasis Learning Management System Moodle untuk MTs Husnul Khotimah |
 | 2 | Agriva Ruth Cristina Lingga | Rancang Bangun Alat Deteksi untuk Menentukan Kualitas Posisi Parkir Roda Empat Menggunakan Kamera pada Area Indoor |
 | 3 | Muhammad Ihsan Rabbani | Pembuatan Animasi pada Implementasi Teknologi Augmented Reality (AR) sebagai Media Pembelajaran Aksara Sunda untuk Sekolah Menegah Pertama |
 | 4 | Muhammad Hussain Alfarizi Taufiek | Perancangan dan Pembuatan Minigame pada Aplikasi Pembelajaran Berbasis Android |
@@ -552,7 +552,7 @@
 | 29 | Natasha Debby Aprillieta | Perancangan Animasi 2D Materi Pembelajaran Shalat pada Aplikasi Berbasis Android (Studi Kasus SD Cendekia Muda) |
 | 30 | Frandy Leonard Samuel | Pembangunan Desain UI/UX pada Aplikasi Augmented Reality untuk Museum Batik Ndalem Gondosuli |
 | 31 | Ravika Oktaviani | Rancang Bangun Teknologi Augmented Reality 3 Dimensi dalam Pembelajaran Gerakan Shalat Wajib pada Aplikasi Berbasis Mobile Android |
-| 32 | Alda Destiyana Fadhilah | Perancangan dan Implementasi Simulasi Unbk Berbasis Moodle Menggunakan Adobe Captivate untuk Mts Husnul Khotimah |
+| 32 | Alda Destiyana Fadhilah | Perancangan dan Implementasi Simulasi UNBK Berbasis Moodle Menggunakan Adobe Captivate untuk MTs Husnul Khotimah |
 | 33 | Annisa Rana Wijaya | Perancangan UI/UX pada Game Edukasi Etika Nisa dan Nasa untuk Anak Berbasis Mobile |
 | 34 | Fahri Rivaldi | Pembuatan Animasi pada Game Edukasi Etika Nisa dan Nasa Berbasis Mobile |
 | 35 | Hamzah Alghifari | Pembangunan Desain UI/UX pada Aplikasi Augmented Reality sebagai Media Promosi Perumahan Podomoro Park |
