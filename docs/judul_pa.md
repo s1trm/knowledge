@@ -125,7 +125,7 @@
 | -- | ---- | -------- |
 | 1 | Alma Nafiisah Deswandi | Pengembangan Desain Antarmuka Website Lembaga Keuangan Mikro PT BPR Hoki |
 | 2 | Alif Kamal Jauhari | Pengembangan Social Entertainment Metaverse: Pataland di Startup Cube Studio Berbasis Platform Virtual Reality |
-| 3 | Syifa Ma'arif Al Azhar | Strategi Pengembangan Brand Awareness untuk Rumah Produksi Mateha Production di Media Sosial - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
+| 3 | Syifa Ma'arif Al Azhar | Strategi Pengembangan Brand Awareness untuk Rumah Produksi Mateha Production di Media Sosial |
 | 4 | Ahmad Fabiansyah | Pengwmbangan UI/UX Aplikasi Website dalam Manajemen Persediaan dan Pemasaran Produk Fashion Nerth |
 | 5 | Syamsul Nizar | Pengembangan Social Entertainment Metaverse: Pataland di Startup Cube Studio Berbasis Platform Website |
 | 6 | Winda Nur'imany Pramessetiawan | Perancangan Website untuk Layanan Pemesanan serta Reminder pada Padasuka Tour & Travel |
@@ -146,7 +146,7 @@
 | 21 | Fajri Hafizh | Pengembangan Backend Aplikasi Teknologi Berbasis Website dalam Manajemen Persediaan dan Pemasaran terhadap Produk Fashion Nerth |
 | 22 | Muhammad Ghazi Al Ghifari | Pembuatan Website Pariwisata Kabupaten Subang Menggunakan HTML & CSS |
 | 23 | Ika Pradana Cintaningtiyas | Perancangan UI/UX Fitur Tempat pada Chronolizer Sirah Nabawiyah Berbasis Website |
-| 24 | Muhammad Nabil Usman | Pengembangan Pataland: Aplikasi Metaverse Bertemakan Musik dan Pantai dengan Integrasi Desain 3D dan UI/UX yang Inovatif - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
+| 24 | Muhammad Nabil Usman | Pengembangan Pataland: Aplikasi Metaverse Bertemakan Musik dan Pantai dengan Integrasi Desain 3D dan UI/UX yang Inovatif |
 | 25 | Eshaf Maulvi Nazir Ahmad | Pengembangan Website SMPN 3 Banjarharjo dengan Fitur Pendaftaran Siswa Baru |
 | 26 | Arham Fauzi | Pengembangan Aplikasi Monitoring Anjungan Tunai Mandiri (ATM) di PT. Collega Inti Pratama |
 | 27 | Aldi Agung Nugroho | Pengembangan Aplikasi Jasa Layanan Aqiqah PT.fitrah Insani |
@@ -187,7 +187,7 @@
 | 62 | Daffa Shiddiq Al Fajri | Desain UI/UX Aplikasi Intelligent Hotel Management System Berbasis Website pada Hotel Lingian Modul Front Office |
 | 63 | Luthfi Setya Pratama | Desain UI/UX Website Intelligent Hotel Management System pada Hotel Lingian Modul Housekeeping dengan Metode User Center Design |
 | 64 | Yudha Pratama Adjie | Pengembangan dan Pengelolaan Konten Marketing Digital untuk Media Sosial Jhl Collections |
-| 65 | Oinike Theresia Simangunsong | Perencanaan dan Pengembangan Video Learning Inspire untuk Management Trainee pada PT United Tractors Tbk - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
+| 65 | Oinike Theresia Simangunsong | Perencanaan dan Pengembangan Video Learning Inspire untuk Management Trainee pada PT United Tractors Tbk |
 | 66 | Najla Syifa Zalia | Pengembangan Konten Media Sosial Interaktif untuk Meningkatkan Brand Awareness Mitra Sahabat Al-qur’an Indonesia di Firli.id |
 | 67 | Zein Aziz Farhani | Perancangan UI/UX Fitur Peristiwa pada Chronolizer Sirah Nabawiyah Berbasiskan Website |
 | 68 | Athallah Puja Zaki Rahman | Perancangan Desain UI UX di Aplikasi Sitepat Berbasis Figma untuk Btpn Syariah |
@@ -202,11 +202,11 @@
 | 77 | Beni Maximus Batistuta Sagala | Strategi Pengembangan Branding dan Pemasaran untuk Meningkatkan Bisnis PT. Curaweda Palagan Innotech |
 | 78 | Dionisius Brisko Mayarinetyo | Pengembangan Aplikasi T-feeder: Implementasi Frontend dengan Angular di Bagian Standar & Layanan Akademik Telkom University |
 | 79 | Akbarsyah Nashrullah | Pengembangan Aplikasi Backend Mytask Berbasis Web dengan Framework Laravel Lumen PT.indo Trans Teknologi |
-| 80 | Ade Purnama | Perancangan Aplikasi Anatomi Tubuh Manusia Menggunakan AR bagi Siswa Sekolah Dasar - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
-| 81 | Jorge Valdano Putranto | Penerapan Produk Obyek 3D melalui Pembuatan dan Pengembangan Platform E-commerce pada Talenta Komputer - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
+| 80 | Ade Purnama | Perancangan Aplikasi Anatomi Tubuh Manusia Menggunakan AR bagi Siswa Sekolah Dasar |
+| 81 | Jorge Valdano Putranto | Penerapan Produk Obyek 3D melalui Pembuatan dan Pengembangan Platform E-commerce pada Talenta Komputer |
 | 82 | John Duey Subade | Peran Desainer Grafis untuk Meningkatkan Efektivitas Komunikasi pada Media Sosial di PT Yesdok Indonesia |
 | 83 | Hari Satria Pratama | Peran Objek 3D dalam Dunia Metaverse Proyek Process Safety Fundamental (PSF) Shevia Indonesia dan HSSE Corporate Pertamina |
-| 84 | Daniar Vinandi Hakim | Dokumentasi Kegiatan Produksi Pakaian di Perusahaan Seven Inc Yogyakarta - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
+| 84 | Daniar Vinandi Hakim | Dokumentasi Kegiatan Produksi Pakaian di Perusahaan Seven Inc Yogyakarta |
 | 85 | Setiandhika Muhammad Dyannarendra | Desainer Grafis sebagai Pembuat Konten pada Sosial Media Cyberarmy Indonesia |
 | 86 | Falah Danendra Megantara | Implementasi Augmented Reality dalam Informasi & Navigasi di Taman Edukasi Seinfarm |
 | 87 | Gabriella Aurellia Steffany | Produksi Film Pendek Fiksi Guna Meningkatkan Kedisiplinan Presensi di Lingkup Dinas Kominfo Provinsi Papua Barat |
@@ -341,8 +341,8 @@
 | 116 | Rizal Syahman Fahlefy | Rancang Bangun Animasi pada Aplikasi Permainan Edukasi Pembelajaran Bahasa Inggris ( Studi Kasus: Smait Ummul Quro Bogor ) |
 | 117 | Raden Fathurrachman Aji | Pembuatan Fitur Augmented Reality Aplikasi Proses Pelayanan Jasa PT. Balai Besar Bahan dan Barang Teknik (B4T) Berbasis Unity |
 | 118 | Reyhan Wahyu Sunjaya | Peran Finance dalam Media Agency Tembok Creative |
-| 119 | Rizky Arianto Hutasoit | Aplikasi Media Pembelajaraan Membaca dan Mengenal Makanan Sehat untuk Anak Disleksia Berbasis Web Apps - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
-| 120 | Muhammad Aqsha Syauqi Ilham | Perancangan Aplikasi Augmented Reality untuk Pemasaran Sparepart Sepeda Motor di Toko Victoryshop - Dalam Bentuk Pengganti Sidang - Rancangan Karya Akhir |
+| 119 | Rizky Arianto Hutasoit | Aplikasi Media Pembelajaraan Membaca dan Mengenal Makanan Sehat untuk Anak Disleksia Berbasis Web Apps |
+| 120 | Muhammad Aqsha Syauqi Ilham | Perancangan Aplikasi Augmented Reality untuk Pemasaran Sparepart Sepeda Motor di Toko Victoryshop |
 | 121 | Muhamad Jihad Aldzikri | Perancangan 3D Objek Modeling Aset Game BNI World di PT. Bank Negara Indonesia |
 | 122 | Randa Yuna Permana | Perancangan Desain UI UX Website Ugems PT Bib dengan Figma pada PT Biner Teknologi Indonesia |
 | 123 | Nur Lailatus Sholihah | Pengembangan BNI Multiplatform dengan Menggunakan Unity di PT. Bank Negara Indonesia (persero), Tbk. |
