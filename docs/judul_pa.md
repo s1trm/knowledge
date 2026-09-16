@@ -21,7 +21,7 @@
 | 15 | Nicolezza Harefa | Pembuatan Video Animasi 2D sebagai Media Promosi Aplikasi Inocare di PT Inotal |
 | 16 | Hasbillah Farhan Lubis | Pengembangan Sistem Informasi Perencanaan Itinerary Wisata Berbasis Web-GIS dengan Pendekatan Clustering di Kota Batam |
 | 17 | Moses Dimas Ahimsa | Implementasi Model Bisnis Lisensi B2B untuk Komersialisasi Platform Wordwise melalui Kemitraan Agregator pada Startup Lunar Interactive |
-| 18 | Muhamad Adrian Kimiditya | Optimalisasi Perencanaan Konten Media Sosial sebagai Strategi Peningkatan Brand Awareness di Lunar Interactive (PT Maya Karya Interaktif) Optimization Of Social Media Content Plan As A Strategy To Increase Brand Awareness At Lunar Interactive (PT Maya Kar |
+| 18 | Muhamad Adrian Kimiditya | Optimalisasi Perencanaan Konten Media Sosial sebagai Strategi Peningkatan Brand Awareness di Lunar Interactive (PT Maya Karya Interaktif) |
 | 19 | Dean Erick Adhitia Nugraha | Perancangan Ulang Konten Visual Grafis untuk Branding Digital pada Akun Instagram Techno Infinity |
 | 20 | Zahra Imani | Produksi Konten Visual sebagai Media Branding Perusahaan pada Akun Linkedin Techno Infinity |
 | 21 | Sheilan Mayra | Perancangan Gim Edukasi |
@@ -191,7 +191,7 @@
 | 66 | Najla Syifa Zalia | Pengembangan Konten Media Sosial Interaktif untuk Meningkatkan Brand Awareness Mitra Sahabat Al-qur’an Indonesia di Firli.id |
 | 67 | Zein Aziz Farhani | Perancangan UI/UX Fitur Peristiwa pada Chronolizer Sirah Nabawiyah Berbasiskan Website |
 | 68 | Athallah Puja Zaki Rahman | Perancangan Desain UI UX di Aplikasi Sitepat Berbasis Figma untuk Btpn Syariah |
-| 69 | Farrel Ervandi Rifqi | Pengembangan Konten Digital Gambar dan Video Media Sosial Instagram dan Youtube Badan Narkotika Nasional Kota Depok Development Of Digital Content For Images And Social Media Video On Instagram And Youtube National Narcotics Agency Depok City - Dalam Ben |
+| 69 | Farrel Ervandi Rifqi | Pengembangan Konten Digital Gambar dan Video Media Sosial Instagram dan Youtube Badan Narkotika Nasional Kota Depok |
 | 70 | Yusuf Rahman Wicaksono | Alat Peraga Berbasis Video Game dengan Tipologi Solve untuk Mengenalkan Transportasi Umum di TK It Little Moslem |
 | 71 | Hernita Nurulfitriyah | Strategi Pengembangan Konten untuk Peningkatan Interaksi Pengguna Media Sosial Sahabat Al-qur’an Indonesia |
 | 72 | Nadia Kusumawardhani | Pengembangan Program untuk Video Game sebagai Media Pembelajaran Mengenai Mitigasi Bencana Alam |
@@ -513,7 +513,7 @@
 | 67 | Molina Angelina Harahap | Aplikasi Media Bantu Pengenalan Aksara Sunda untuk Siswa Kelas 5 Sekolah Dasar Berbasis Android |
 | 68 | Dimas Adianto | Editing pada Pasca Produksi Konten Video Pembelajaran untuk Lms Celoe Telkom University |
 | 69 | Havest Vigamghi Ath-thaariq | Perancangan Aplikasi Hewan Buas dan Hewan Jinak Tiga Dimensi untuk Keperluan Pembelajaran di SDN 134 Panorama |
-| 70 | Sarah Shofura Fauziah | Rancang Bangun Aplikasi Virtual Fitting Hijab Berbasis Augmented Reality (AR) dengan Pengukuran System Usability Scale (sus) Design Of Augmented Reality (AR)-based Hijab Virtual Fitting Application With Measurement System Usability Scale (sus) |
+| 70 | Sarah Shofura Fauziah | Rancang Bangun Aplikasi Virtual Fitting Hijab Berbasis Augmented Reality (AR) dengan Pengukuran System Usability Scale (sus) |
 | 71 | Deviera Astari | User Interface pada Aplikasi Pembelajaran Bahasa Inggris Tema "ruang Kelas" untuk Anak SD Berbasis Augmented Reality |
 | 72 | Wike Adelis Kurnia Gusti | Perancangan Aplikasi Virtual Fitting Room Pakaian Muslim Wanita Berbasis Augmented Reality |
 
