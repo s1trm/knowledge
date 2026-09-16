@@ -513,7 +513,7 @@
 | 67 | Molina Angelina Harahap | Aplikasi Media Bantu Pengenalan Aksara Sunda untuk Siswa Kelas 5 Sekolah Dasar Berbasis Android |
 | 68 | Dimas Adianto | Editing pada Pasca Produksi Konten Video Pembelajaran untuk Lms Celoe Telkom University |
 | 69 | Havest Vigamghi Ath-thaariq | Perancangan Aplikasi Hewan Buas dan Hewan Jinak Tiga Dimensi untuk Keperluan Pembelajaran di SDN 134 Panorama |
-| 70 | Sarah Shofura Fauziah | Rancang Bangun Aplikasi Virtual Fitting Hijab Berbasis Augmented Reality (AR) dengan Pengukuran System Usability Scale (sus) |
+| 70 | Sarah Shofura Fauziah | Rancang Bangun Aplikasi Virtual Fitting Hijab Berbasis Augmented Reality (AR) dengan Pengukuran System Usability Scale (SUS) |
 | 71 | Deviera Astari | User Interface pada Aplikasi Pembelajaran Bahasa Inggris Tema "ruang Kelas" untuk Anak SD Berbasis Augmented Reality |
 | 72 | Wike Adelis Kurnia Gusti | Perancangan Aplikasi Virtual Fitting Room Pakaian Muslim Wanita Berbasis Augmented Reality |
 
