@@ -17,3 +17,5 @@ Klik **Input Mahasiswa Undur Diri**.
 Isi **Form Pengajuan Undur Diri** dan **Simpan**.
 
 ![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/undir3.png)
+
+Jika diperlukan, berkas Form Undur Diri dapat diunduh [di sini](https://docs.google.com/document/d/1hpwXGqikCHGTUIUpiC26LGRmXsfXxVTJ/edit?usp=sharing&ouid=110307251224013813322&rtpof=true&sd=true).
