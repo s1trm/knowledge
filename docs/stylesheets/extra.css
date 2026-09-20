@@ -28,7 +28,7 @@
   --md-primary-bg-color:             #FFFFFF;
   --md-primary-bg-color--light:      hsla(0, 0%, 100%, 0.7);
 
-  /* --- Material accent color (links, buttons, highlights) --- */
+  --- Material accent color (links, buttons, highlights) ---
   --md-accent-fg-color:              var(--trm-gold-dark);
   --md-accent-fg-color--transparent: hsla(45, 99%, 37%, 0.1);
   --md-accent-bg-color:              #FFFFFF;
@@ -61,17 +61,17 @@
 }
 
 /* Link hover color */
-.md-typeset a:hover {
-  color: var(--trm-gold-base);
+/* .md-typeset a:hover { */
+  /* color: var(--trm-gold-base); */
   /* text-decoration: underline; */
-}
+/* } */
 
 /* Optional: also cover nav/sidebar links on hover */
-.md-nav__link:hover {
-  color: var(--trm-gold-base) !important;
-}
+/* .md-nav__link:hover { */
+  /* color: var(--trm-gold-base) !important; */
+/* } */
 
 /* Optional: tab links on hover (if you use navigation.tabs) */
-.md-tabs__link:hover {
-  color: var(--trm-gold-light) !important;
-}
+/* .md-tabs__link:hover { */
+  /* color: var(--trm-gold-light) !important; */
+/* } */

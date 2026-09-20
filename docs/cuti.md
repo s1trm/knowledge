@@ -18,4 +18,6 @@ Isi **Form Pengajuan Cuti** dan **Simpan**.
 
 ![](https://raw.githubusercontent.com/s1trm/knowledge/refs/heads/master/gambar/cuti4.png)
 
+Jika, diperlukan, formulir cuti dapat diunduh [di sini](https://docs.google.com/document/d/1CmfJwNywLX30pWRmzFc2HaX2mrAHwGBT/edit?usp=sharing&ouid=110307251224013813322&rtpof=true&sd=true)
+
 
