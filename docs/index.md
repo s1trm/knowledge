@@ -24,7 +24,7 @@ Untuk profil program studi, dapat dilihat di [sini](https://s1trm.github.io/prof
 
 1. [Layanan Akademik (LA) FIT (untuk Dosen)](https://linktr.ee/Layanan_LA_Dosen_FIT)
 1. [Layanan Kerjasama dan Magang (LKM)](https://link.telkomuniversity.ac.id/@LKMFIT)
-1. [Kemahasiswaan Tel-U](https://linktr.ee/ditmawa_univtelkom)
+1. [Kemahasiswaan Tel-U](https://linktr.ee/kka_univtelkom)
 
 ### Media Sosial
 
